@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f5b0bd0a5f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270112
+TRANSP:TRANSPARENT
+SUMMARY:Arakawa Kirakira Parade
+LOCATION:Arakawa Amusement Park\, 6-35-11 Nishi-ogu\, Arakawa-ku
+DESCRIPTION:Hours: 5 PM\n\nIlluminated electric bicycles parade through the
+  magical park grounds while playing music.\n\nhttps://www.city.arakawa.tok
+ yo.jp/a038/eventkarenda-/parade1.html
+URL:https://www.city.arakawa.tokyo.jp/a038/eventkarenda-/parade1.html
+END:VEVENT
+END:VCALENDAR

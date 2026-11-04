@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb4fb64c1d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261118T150000Z
+DTEND:20261119T145900Z
+SUMMARY:Tori-no-Ichi Fair
+LOCATION:Otori Shrine and Chokoku-ji Temple\, Taito
+DESCRIPTION:Stalls line the temple and shrine grounds selling ornate bamboo
+  rakes decorated for good fortune and prosperity.\n\nhttps://www.city.tait
+ o.lg.jp/event/kanko/torinoithi.html
+URL:https://www.city.taito.lg.jp/event/kanko/torinoithi.html
+END:VEVENT
+END:VCALENDAR

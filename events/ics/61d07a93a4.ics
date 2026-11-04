@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:61d07a93a4-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261122T010000Z
+DTEND:20261122T050000Z
+SUMMARY:Boy Scout Autumn Festival
+LOCATION:Suginami Dai-1 Elementary School\, 1-5-27 Asagayakita\, Suginami
+DESCRIPTION:Enjoy outdoor games\, food stalls\, and a charity bazaar hosted
+  by the local scouts.\n\nhttps://www.city.suginami.tokyo.jp/s059/event/288
+ 42.html
+URL:https://www.city.suginami.tokyo.jp/s059/event/28842.html
+END:VEVENT
+END:VCALENDAR

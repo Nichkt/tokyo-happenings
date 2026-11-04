@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ef283e5eea-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261205T013000Z
+DTEND:20261205T053000Z
+SUMMARY:Christmas Market for All Ages
+LOCATION:Community Flat Higashihara\, 1-23-23 Shimoigusa\, Suginami
+DESCRIPTION:Enjoy mini concerts\, Christmas workshops\, games\, and festive
+  food and goods sales.\n\nhttps://www.city.suginami.tokyo.jp/s020/event/28
+ 883.html
+URL:https://www.city.suginami.tokyo.jp/s020/event/28883.html
+END:VEVENT
+END:VCALENDAR

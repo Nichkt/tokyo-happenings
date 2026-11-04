@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4a68571fa-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261129T020000Z
+DTEND:20261129T060000Z
+SUMMARY:Kirigaoka Play Park Festa
+LOCATION:Kirigaoka Chuo Park\, Kirigaoka\, Kita
+DESCRIPTION:Children can enjoy outdoor play and fun activities at the local
+  neighborhood park.\n\nhttps://www.city.kita.lg.jp/parks/1026272/1026726.h
+ tml
+URL:https://www.city.kita.lg.jp/parks/1026272/1026726.html
+END:VEVENT
+END:VCALENDAR

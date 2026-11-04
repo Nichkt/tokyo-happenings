@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c6ce67800-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Art Marche
+LOCATION:Nerima Art Museum\, 1-36-16 Nukui\, Nerima
+DESCRIPTION:Hours: 10 AM–3 PM\n\nEnjoy local food stalls\, handmade craft
+ s\, workshops\, and art-themed activities in the park.\n\nhttps://www.city
+ .nerima.tokyo.jp/kankomoyoshi/bunka/artmarche/artmarche2026.html
+URL:https://www.city.nerima.tokyo.jp/kankomoyoshi/bunka/artmarche/artmarche
+ 2026.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5e0d58889-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Hagoita-ichi Battledore Market
+LOCATION:Senso-ji Temple\, 2-3-1 Asakusa\, Taito
+DESCRIPTION:Hours: 9 AM–7:30 PM\n\nStalls sell colorful traditional battl
+ edores featuring kabuki actors and pop culture figures.\n\nhttps://www.cit
+ y.taito.lg.jp/event/kanko/toshinoichi.html
+URL:https://www.city.taito.lg.jp/event/kanko/toshinoichi.html
+END:VEVENT
+END:VCALENDAR

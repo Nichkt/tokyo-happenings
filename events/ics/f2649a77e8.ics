@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2649a77e8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Urban Agriculture Festival Preview Event
+LOCATION:Hikarigaoka Park Keyaki Hiroba\, 4 Hikarigaoka\, Nerima
+DESCRIPTION:Hours: 10 AM–4 PM\n\nVisitors can buy fresh agricultural prod
+ ucts and regional specialties from fifteen participating municipalities ac
+ ross Japan.\n\nhttps://www.city.nerima.tokyo.jp/kankomoyoshi/nogyo/toshino
+ u_festival/festival2027pre.html
+URL:https://www.city.nerima.tokyo.jp/kankomoyoshi/nogyo/toshinou_festival/f
+ estival2027pre.html
+END:VEVENT
+END:VCALENDAR

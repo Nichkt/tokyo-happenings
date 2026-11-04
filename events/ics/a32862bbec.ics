@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a32862bbec-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Katsushika Food Festa
+LOCATION:Shinkoiwa Park\, Katsushika
+DESCRIPTION:Hours: 10 AM–4 PM\n\nDozens of local food vendors gather for 
+ a massive gourmet festival with stage entertainment.\n\nhttps://www.city.k
+ atsushika.lg.jp/business/1000066/1004933/1034515/1017267/1028977.html
+URL:https://www.city.katsushika.lg.jp/business/1000066/1004933/1034515/1017
+ 267/1028977.html
+END:VEVENT
+END:VCALENDAR

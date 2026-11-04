@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f51d64ec81-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Dome Hotel Winter Illuminations
+LOCATION:Tokyo Dome Hotel
+DESCRIPTION:Tokyo Dome Hotel is partnering with Tokyo Snow Dome City with C
+ hristmas lights\, seasonal cocktails\, Christmas cakes and accommodation p
+ lans.\n\nhttps://www.tokyoweekender.com/event/tokyo-dome-hotel-winter-illu
+ minations/
+URL:https://www.tokyoweekender.com/event/tokyo-dome-hotel-winter-illuminati
+ ons/
+END:VEVENT
+END:VCALENDAR

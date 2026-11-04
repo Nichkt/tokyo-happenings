@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aa0599268d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T050000Z
+SUMMARY:Komagome Autumn Festival
+LOCATION:Toshima Ward Komagome Practical Training Center\, 4-7-1 Komagome\,
+  Toshima
+DESCRIPTION:Enjoy handmade crafts\, food trucks\, game corners\, and live s
+ tage performances in the community.\n\nhttps://www.city.toshima.lg.jp/586/
+ shisetsu/fukushi/2608250830.html
+URL:https://www.city.toshima.lg.jp/586/shisetsu/fukushi/2608250830.html
+END:VEVENT
+END:VCALENDAR

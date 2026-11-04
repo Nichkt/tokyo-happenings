@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:754b04d4fd-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Suginoko Farm Festival
+LOCATION:Suginoko Farm\, 3-19-23 Igusa\, Suginami
+DESCRIPTION:Buy local vegetables\, flowers\, and handmade goods from welfar
+ e facilities while joining farming activities.\n\nhttps://www.city.suginam
+ i.tokyo.jp/s121/event/28512.html
+URL:https://www.city.suginami.tokyo.jp/s121/event/28512.html
+END:VEVENT
+END:VCALENDAR

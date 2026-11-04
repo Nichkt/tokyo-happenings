@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1218219309-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Nakano Nigiwai Festa Autumn
+LOCATION:Nakano Sunplaza South Square and Shopping Streets\, 4-1-1 Nakano\,
+  Nakano
+DESCRIPTION:Enjoy festival atmospheres\, food stands\, and markets while st
+ rolling around various shopping streets near Nakano Station.\n\nhttps://ww
+ w.city.tokyo-nakano.lg.jp/event/kanko/shotengai_nigiwaifesta2026.html
+URL:https://www.city.tokyo-nakano.lg.jp/event/kanko/shotengai_nigiwaifesta2
+ 026.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b24ab1e2d9-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261219T020000Z
+DTEND:20261219T060000Z
+SUMMARY:Lifestyle Expo in Toshima
+LOCATION:Toshima City Hall\, 2-45-1 Minami-Ikebukuro\, Toshima
+DESCRIPTION:Explore community activities\, short lectures\, experience boot
+ hs\, and a free meal tasting for older adults.\n\nhttps://www.city.toshima
+ .lg.jp/470/2610060917.html
+URL:https://www.city.toshima.lg.jp/470/2610060917.html
+END:VEVENT
+END:VCALENDAR

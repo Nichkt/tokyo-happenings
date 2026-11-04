@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ec52e3d35-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Jindai Botanical Park Autumn Rose Festa
+LOCATION:Jindai Botanical Park\, 5-31-10 Jindaiji Motomachi\, Chofu
+DESCRIPTION:Hours: 9:30 AM–5 PM\n\nEnjoy autumn roses with early morning 
+ park openings\, concerts\, miniature bonsai exhibitions\, and garden tours
+ .\n\nhttps://www.city.chofu.lg.jp/040040/p023399.html
+URL:https://www.city.chofu.lg.jp/040040/p023399.html
+END:VEVENT
+END:VCALENDAR

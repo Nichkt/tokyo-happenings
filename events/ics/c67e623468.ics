@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c67e623468-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Oji Fox Parade (Kitsune no Gyoretsu)
+DESCRIPTION:Oji Fox Parade (Kitsune no Gyoretsu)\n\nhttps://www.gotokyo.org
+ /en/spot/ev107/index.html
+URL:https://www.gotokyo.org/en/spot/ev107/index.html
+END:VEVENT
+END:VCALENDAR

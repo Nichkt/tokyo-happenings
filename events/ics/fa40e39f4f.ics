@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa40e39f4f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Marunouchi Street Park Christmas Market
+LOCATION:Tokyo Station area and Marunouchi-Nakadori Ave\, Marunouchi Naka-d
+ ori St.
+DESCRIPTION:Hours: 11 AM–10 PM\n\nMarunouchi Street Park will have its bi
+ ggest ever Christmas market\, with shops and gourmet menus\, including Har
+ ry Potter-themed displays.\n\nhttps://www.tokyoweekender.com/event/marunou
+ chi-street-park-christmas-market/
+URL:https://www.tokyoweekender.com/event/marunouchi-street-park-christmas-m
+ arket/
+END:VEVENT
+END:VCALENDAR

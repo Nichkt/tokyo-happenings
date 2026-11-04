@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ed776a17f1-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Toranomon Hills Christmas
+LOCATION:Toranomon Hills\, Toranomon Hills Mori Tower\, Tokyo
+DESCRIPTION:The Toranomon Hills illuminations will include a display of 13 
+ real Christmas trees surrounded by colorful\, giant ornament-shaped balloo
+ ns.\n\nhttps://www.tokyoweekender.com/event/toranomon-hills-christmas/
+URL:https://www.tokyoweekender.com/event/toranomon-hills-christmas/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b2014040de-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+SUMMARY:Yebisu Garden Place Christmas Marche
+LOCATION:Yebisu Garden Place\, Tokyo
+DESCRIPTION:Hours: 5–8 PM\n\nYebisu Graden Place will host illuminations 
+ and a Christmas marche for the holiday season with food\, drinks\, seasona
+ l goods and music.\n\nhttps://www.tokyoweekender.com/event/yebisu-garden-p
+ lace-christmas-marche/
+URL:https://www.tokyoweekender.com/event/yebisu-garden-place-christmas-marc
+ he/
+END:VEVENT
+END:VCALENDAR

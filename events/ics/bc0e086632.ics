@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc0e086632-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T060000Z
+SUMMARY:Welfare and Health Festival
+LOCATION:Toshima Civic Center\, Naka-Ikebukuro Park\, and Park Plaza\, 1-20
+ -10 Higashi-Ikebukuro\, Toshima
+DESCRIPTION:Enjoy food stalls\, hands-on health checks\, stage performances
+ \, and prize draws at this community welfare event.\n\nhttps://www.city.to
+ shima.lg.jp/171/event/2609101122.html
+URL:https://www.city.toshima.lg.jp/171/event/2609101122.html
+END:VEVENT
+END:VCALENDAR

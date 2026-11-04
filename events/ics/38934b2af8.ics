@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38934b2af8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Chofu Agriculture Festival
+LOCATION:Chofu Station Front Square\, 2-60 Kojimacho\, Chofu
+DESCRIPTION:Hours: 10 AM–3 PM\n\nLocal farmers showcase fresh produce exh
+ ibitions\, direct sales\, agricultural consultations\, and local food stal
+ ls.\n\nhttps://www.city.chofu.lg.jp/040060/p025064.html
+URL:https://www.city.chofu.lg.jp/040060/p025064.html
+END:VEVENT
+END:VCALENDAR

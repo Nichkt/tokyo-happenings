@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a85c434a48-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20270107T020000Z
+DTEND:20270107T030000Z
+SUMMARY:Daikon Matsuri
+LOCATION:Matsuchiyama Shoten\, 7-4-1 Asakusa\, Taito
+DESCRIPTION:Simmered radish and sacred sake are served to visitors after a 
+ memorial service.\n\nhttps://www.city.taito.lg.jp/event/kanko/daikonmatsur
+ i.html
+URL:https://www.city.taito.lg.jp/event/kanko/daikonmatsuri.html
+END:VEVENT
+END:VCALENDAR

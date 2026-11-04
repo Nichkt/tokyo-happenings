@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd9ec18499-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:World Fureai Festival
+LOCATION:Showa Memorial Park\, Midori-cho\, Tachikawa
+DESCRIPTION:Hours: 10 AM–4 PM\n\nExperience global cultures with internat
+ ional food\, specialty products\, and tea tastings.\n\nhttps://www.city.ta
+ chikawa.lg.jp/event/e-bunka/1025665.html
+URL:https://www.city.tachikawa.lg.jp/event/e-bunka/1025665.html
+END:VEVENT
+END:VCALENDAR

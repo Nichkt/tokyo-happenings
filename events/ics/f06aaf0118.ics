@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f06aaf0118-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261110T010000Z
+DTEND:20261110T050000Z
+SUMMARY:Arakawa Fureai Market
+LOCATION:Arakawa Park Exhibition Hall\, 2-2-3 Arakawa\, Arakawa
+DESCRIPTION:Handmade bread\, crafts\, and goods made by local welfare facil
+ ity users are sold.\n\nhttps://www.city.arakawa.tokyo.jp/a030/r8-3fureai.h
+ tml
+URL:https://www.city.arakawa.tokyo.jp/a030/r8-3fureai.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:91c97a96b0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Aomori Prefecture Festival
+LOCATION:Ueno Park\, Taito
+DESCRIPTION:Traditional food\, crafts\, and performances from Aomori Prefec
+ ture are featured.\n\nhttps://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubu
+ k/ueno/event
+URL:https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/event
+END:VEVENT
+END:VCALENDAR

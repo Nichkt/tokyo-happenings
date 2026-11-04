@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0f332976c3-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T060000Z
+SUMMARY:Tokyo Doken Festival Housing Day Special
+LOCATION:Sanshin-no-Mori Park and Suginami Dai-10 Elementary School\, 3-55-
+ 30 Wada\, Suginami
+DESCRIPTION:Enjoy housing consultation\, woodworking workshops\, disaster p
+ revention drills\, food trucks\, and stage performances.\n\nhttps://www.ci
+ ty.suginami.tokyo.jp/s093/event/28814.html
+URL:https://www.city.suginami.tokyo.jp/s093/event/28814.html
+END:VEVENT
+END:VCALENDAR

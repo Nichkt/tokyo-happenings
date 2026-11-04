@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb8415c0ce-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261227T020000Z
+DTEND:20261227T060000Z
+SUMMARY:Senzoku Ginkgo Festival
+LOCATION:Senzoku Station Fureai Square\, 2-6-8 Senzoku\, Meguro
+DESCRIPTION:A neighborhood festival featuring a lottery\, bingo\, quiz rall
+ ies\, and treats for children.\n\nhttps://www.city.meguro.tokyo.jp/sangyou
+ keizai/event/2026syoutengaiwinterevent.html
+URL:https://www.city.meguro.tokyo.jp/sangyoukeizai/event/2026syoutengaiwint
+ erevent.html
+END:VEVENT
+END:VCALENDAR

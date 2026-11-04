@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f707b3ef4e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T050000Z
+SUMMARY:Welpia Festival
+LOCATION:Welpia Katsushika\, 3-34-1 Horikiri\, Katsushika
+DESCRIPTION:Experience welfare exhibitions\, interactive game booths\, hand
+ made goods\, and food trucks.\n\nhttps://www.city.katsushika.lg.jp/event/1
+ 000107/1021932.html
+URL:https://www.city.katsushika.lg.jp/event/1000107/1021932.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b1a4c6ef8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Ikebukuro Global Ring Music Festival
+LOCATION:Global Ring Theatre and surrounding areas\, Nishi-Ikebukuro\, Tosh
+ ima
+DESCRIPTION:Hours: 11 AM–7:30 PM\n\nStudents perform a cappella music and
+  brass band concerts across open-air stages and public spaces.\n\nhttps://
+ www.city.toshima.lg.jp/132/2607071133.html
+URL:https://www.city.toshima.lg.jp/132/2607071133.html
+END:VEVENT
+END:VCALENDAR

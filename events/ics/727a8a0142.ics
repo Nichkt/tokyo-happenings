@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:727a8a0142-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261116T020000Z
+DTEND:20261116T034500Z
+SUMMARY:Machi-Vege Market
+LOCATION:Machida City Hall Front Entrance\, 2-2-22 Morino\, Machida
+DESCRIPTION:Certified local farmers sell freshly harvested vegetables direc
+ tly to consumers.\n\nhttps://www.city.machida.tokyo.jp/kanko/sangyo/nougyo
+ /event/machibejiiti.html
+URL:https://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/event/machibejiit
+ i.html
+END:VEVENT
+END:VCALENDAR

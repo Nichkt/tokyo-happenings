@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1318420b8f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Komagome Cultural Festival
+LOCATION:Komagome Community Cultural Creation Center\, 2-2-2 Komagome\, Tos
+ hima
+DESCRIPTION:Hours: 10 AM–5 PM\n\nLocal community members showcase their c
+ ultural activities and creative achievements through various displays.\n\n
+ https://www.city.toshima.lg.jp/134/ippannkoukai/2607271033.html
+URL:https://www.city.toshima.lg.jp/134/ippannkoukai/2607271033.html
+END:VEVENT
+END:VCALENDAR

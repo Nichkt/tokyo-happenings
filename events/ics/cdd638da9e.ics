@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdd638da9e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261108T023000Z
+DTEND:20261108T050000Z
+SUMMARY:Wakaba-no-Ite Children's Festival
+LOCATION:Kodomo Hattatsu Center Wakaba-no-Ie\, 3-7-5 Chidori\, Ota
+DESCRIPTION:Children can enjoy food stalls\, games\, events\, and freshly b
+ aked bread at this community center festival.\n\nhttps://www.city.ota.toky
+ o.jp/seikatsu/fukushi/shougai/hoiku_kyoiku/hoiku/kodomo-matsuri_20261108.h
+ tml
+URL:https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/hoiku_kyoiku/hoi
+ ku/kodomo-matsuri_20261108.html
+END:VEVENT
+END:VCALENDAR

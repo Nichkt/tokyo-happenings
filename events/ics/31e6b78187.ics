@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31e6b78187-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Skytree Town Picture Book Christmas Market
+LOCATION:Tokyo Skytree Town Sky Arena
+DESCRIPTION:Hours: 11 AM–10 PM\n\nTokyo Skytree Town's annual Christmas m
+ arket will feature food\, drinks\, fun photo spots and a giant stollen cut
+ ting ceremony.\n\nhttps://www.tokyoweekender.com/event/tokyo-skytree-town-
+ picture-book-christmas-market/
+URL:https://www.tokyoweekender.com/event/tokyo-skytree-town-picture-book-ch
+ ristmas-market/
+END:VEVENT
+END:VCALENDAR

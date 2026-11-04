@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c226de6cbd-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261123T010000Z
+DTEND:20261123T060000Z
+SUMMARY:Somei Yoshino Sakura Village Autumn Festival
+LOCATION:Somei Yoshino Sakura Memorial Park\, 2-2-1 Komagome\, Toshima
+DESCRIPTION:Celebrate the birthplace of the Somei Yoshino cherry blossom wi
+ th local product exhibitions and stage performances.\n\nhttps://www.city.t
+ oshima.lg.jp/132/2609161020.html
+URL:https://www.city.toshima.lg.jp/132/2609161020.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb446c0f38-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T060000Z
+SUMMARY:Ogikubo Center Festival
+LOCATION:Ogikubo Regional Community Center\, 2-34-20 Ogikubo\, Suginami
+DESCRIPTION:Celebrate the renewed center with rice pounding\, lion dances\,
+  food stalls\, musical performances\, and games.\n\nhttps://www.city.sugin
+ ami.tokyo.jp/s022/event/29644.html
+URL:https://www.city.suginami.tokyo.jp/s022/event/29644.html
+END:VEVENT
+END:VCALENDAR

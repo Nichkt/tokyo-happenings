@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db8898fd18-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T080000Z
+SUMMARY:Dream Gakuen Yume Matsuri
+LOCATION:Tachikawa Child Rearing Support and Health Center Hagukururin\, 3-
+ 3-6 Kotobuki-cho\, Tachikawa
+DESCRIPTION:Children can explore play exhibits and activities showcasing de
+ velopmental support programs.\n\nhttps://www.city.tachikawa.lg.jp/event/e-
+ kenko/1008507.html
+URL:https://www.city.tachikawa.lg.jp/event/e-kenko/1008507.html
+END:VEVENT
+END:VCALENDAR

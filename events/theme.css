@@ -1,0 +1,39 @@
+/* Tokyo's colours, from the app: ginkgo green, with the icon's paper-lantern gold and lantern vermilion. */
+:root {
+  --brand: #296b3d;
+  --brand-strong: #095227;
+  --brand-deep: #0e1431;
+  --brand-soft: #dbeedd;
+  --on-brand: #ffffff;
+  --accent: #ffd58a;
+  --accent-2: #e5432f;
+  --sky: #c1edc6;
+  --ink: #191c19;
+  --muted: #535d55;
+  --bg: #f9faf4;
+  --bg-deep: #e9ece4;
+  --card: #ffffff;
+  --line: rgba(25, 28, 25, 0.14);
+  --shadow: 0 10px 30px rgba(20, 48, 30, 0.09);
+  --new: #c23a24;
+  --star: #d97706;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --brand: #92d69e;
+    --brand-strong: #c1edc6;
+    --brand-deep: #0e1431;
+    --brand-soft: #1c3a25;
+    --on-brand: #00210b;
+    --ink: #e2e3de;
+    --muted: #b1bbb0;
+    --bg: #111411;
+    --bg-deep: #0c0f0c;
+    --card: #1b1f1b;
+    --line: rgba(226, 227, 222, 0.14);
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    --new: #ff8a70;
+    --star: #ffd58a;
+  }
+}

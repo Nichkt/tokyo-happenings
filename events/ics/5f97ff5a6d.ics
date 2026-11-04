@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f97ff5a6d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Mitake Gorge Autumn Colors Festival
+DESCRIPTION:Mitake Gorge Autumn Colors Festival\n\nhttps://www.gotokyo.org/
+ en/spot/ev069/index.html
+URL:https://www.gotokyo.org/en/spot/ev069/index.html
+END:VEVENT
+END:VCALENDAR

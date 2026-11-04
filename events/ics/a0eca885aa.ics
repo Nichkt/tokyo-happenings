@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0eca885aa-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tachikawa Winter Market
+LOCATION:Tachikawa Sunsun Road\, Sun Sun Rd\, Tachikawa\, Tokyo
+DESCRIPTION:Hours: 3–9 PM\n\nThe Tachikawa Winter Market will have a vari
+ ety of food trucks\, a shopping marche and live music around Sunsun Road\,
+  surrounded by lights.\n\nhttps://www.tokyoweekender.com/event/tachikawa-w
+ inter-market/
+URL:https://www.tokyoweekender.com/event/tachikawa-winter-market/
+END:VEVENT
+END:VCALENDAR

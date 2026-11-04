@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72edf3da1b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Minato Children's Club Festival
+LOCATION:Shinmei Ikiki Plaza\, Minato
+DESCRIPTION:Children can enjoy target shooting\, tote bag making\, and vari
+ ous games.\n\nhttps://www.city.minato.tokyo.jp/kouhou/event/261114-kodomok
+ aimatsuri.html
+URL:https://www.city.minato.tokyo.jp/kouhou/event/261114-kodomokaimatsuri.h
+ tml
+END:VEVENT
+END:VCALENDAR

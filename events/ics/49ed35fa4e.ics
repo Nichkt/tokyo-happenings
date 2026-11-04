@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:49ed35fa4e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T060000Z
+SUMMARY:Katsushika Health and Shokuiku Fair
+LOCATION:Katsushika Public Health Center\, 4-15-14 Aoto\, Katsushika
+DESCRIPTION:Visitors can enjoy health checks\, interactive dietary educatio
+ n booths\, and family activities.\n\nhttps://www.city.katsushika.lg.jp/ken
+ kou/1030183/1001793/1030413.html
+URL:https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1030413.html
+END:VEVENT
+END:VCALENDAR

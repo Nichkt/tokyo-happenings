@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:112d295788-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261128T013000Z
+DTEND:20261128T063000Z
+SUMMARY:Asobo Festa
+LOCATION:Kotobuki Child and Family Support Center\, 1-10-10 Kotobuki\, Tait
+ o
+DESCRIPTION:Children can play with various toys and join craft workshops in
+  a family-friendly space.\n\nhttps://www.city.taito.lg.jp/kosodatekyouiku/
+ kosodate/mokutei/kouzaevent/kodomo_center/combination/asobo.html
+URL:https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kouzaeven
+ t/kodomo_center/combination/asobo.html
+END:VEVENT
+END:VCALENDAR

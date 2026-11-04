@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2607590d43-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261215
+TRANSP:TRANSPARENT
+SUMMARY:Ako Gishisai
+DESCRIPTION:Ako Gishisai\n\nhttps://www.gotokyo.org/en/spot/ev111/index.htm
+ l
+URL:https://www.gotokyo.org/en/spot/ev111/index.html
+END:VEVENT
+END:VCALENDAR

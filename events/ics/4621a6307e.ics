@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4621a6307e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261117T010000Z
+DTEND:20261117T050000Z
+SUMMARY:Nakano City Agricultural Produce Direct Sale
+LOCATION:Nakano City Office\, 4-11-19 Nakano\, Nakano
+DESCRIPTION:Local farmers offer fresh\, carefully grown vegetables harveste
+ d directly within the city.\n\nhttps://www.city.tokyo-nakano.lg.jp/event/s
+ onota/shotengai_1117sokubaikai.html
+URL:https://www.city.tokyo-nakano.lg.jp/event/sonota/shotengai_1117sokubaik
+ ai.html
+END:VEVENT
+END:VCALENDAR

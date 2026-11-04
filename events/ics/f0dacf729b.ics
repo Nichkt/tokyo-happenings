@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0dacf729b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270112
+TRANSP:TRANSPARENT
+SUMMARY:Tama Center Illumination
+LOCATION:In front of Tama Center Station\, Parthenon Avenue\, Tokyo
+DESCRIPTION:Hours: 4:30–10:30 PM\n\nNow in its 26th year\, the Tama Cente
+ r Illumination will dazzle with a 12-meter-tall tree\, a Hello Kitty Ballo
+ on\, animal topiaries and more.\n\nhttps://www.tokyoweekender.com/event/ta
+ ma-center-illumination/
+URL:https://www.tokyoweekender.com/event/tama-center-illumination/
+END:VEVENT
+END:VCALENDAR

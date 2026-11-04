@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a684a8882-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Odaiba Festival and Alumni Reunion
+LOCATION:Odaiba Gakuen\, Minato
+DESCRIPTION:Celebrate the district anniversary with various booths\, stage 
+ performances\, and a school reunion.\n\nhttps://www.city.minato.tokyo.jp/k
+ ouhou/event/261128-odaibafestival.html
+URL:https://www.city.minato.tokyo.jp/kouhou/event/261128-odaibafestival.htm
+ l
+END:VEVENT
+END:VCALENDAR

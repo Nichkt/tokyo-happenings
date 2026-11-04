@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d537528d7d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261106T010000Z
+DTEND:20261106T023000Z
+SUMMARY:Childcare Festival
+LOCATION:Toshima Center Square\, 1-18-1 Minamiikebukuro\, Toshima
+DESCRIPTION:Children can enjoy nursery school food recipes\, height and wei
+ ght measurements\, picture book readings\, and craft workshops.\n\nhttps:/
+ /www.city.toshima.lg.jp/268/2607101643.html
+URL:https://www.city.toshima.lg.jp/268/2607101643.html
+END:VEVENT
+END:VCALENDAR

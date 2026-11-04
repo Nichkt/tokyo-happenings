@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96fd4e52a2-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Shibaura Central Park Rose Garden Festa
+LOCATION:Shibaura Central Park B Section Rose Garden\, Minato
+DESCRIPTION:View about one hundred varieties of fragrant autumn roses and p
+ ick up guidebooks.\n\nhttps://www.city.minato.tokyo.jp/kouhou/event/261017
+ -rosegardenfesta.html
+URL:https://www.city.minato.tokyo.jp/kouhou/event/261017-rosegardenfesta.ht
+ ml
+END:VEVENT
+END:VCALENDAR

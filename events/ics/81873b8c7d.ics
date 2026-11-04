@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:81873b8c7d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Murayama Tourism and Product Fair
+LOCATION:Senso-ji Temple\, Taito
+DESCRIPTION:Hours: 1–4 PM\n\nRegional specialities from Yamagata prefectu
+ re including local sake\, fresh vegetables\, imoni soup\, and konjac are s
+ old.\n\nhttps://www.city.taito.lg.jp/kusei/shokai/shimaitoshi/news/murayam
+ abussan.html
+URL:https://www.city.taito.lg.jp/kusei/shokai/shimaitoshi/news/murayamabuss
+ an.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:459c649c3e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Skytree Town Dream Christmas Illuminations
+LOCATION:Tokyo Skytree Town
+DESCRIPTION:Hours: 4–11 PM\n\nTokyo Skytree Town will be draped in over 4
+ 00\,000 lights.\n\nhttps://www.tokyoweekender.com/event/tokyo-skytree-town
+ -dream-christmas-illuminations/
+URL:https://www.tokyoweekender.com/event/tokyo-skytree-town-dream-christmas
+ -illuminations/
+END:VEVENT
+END:VCALENDAR

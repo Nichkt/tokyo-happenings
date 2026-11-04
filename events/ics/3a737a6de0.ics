@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a737a6de0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Market at Yokohama Red Brick Warehouse
+LOCATION:Yokohama Red Brick Warehouse\, Tokyo
+DESCRIPTION:Hours: 11 AM–10 PM\n\nThe Yokohama Red Brick Warehouse will h
+ ost its 17th Christmas market with grand decor\, Christmas goods\, food\, 
+ and a visit from Santa Claus.\n\nhttps://www.tokyoweekender.com/event/chri
+ stmas-market-at-yokohama-red-brick-warehouse-2/
+URL:https://www.tokyoweekender.com/event/christmas-market-at-yokohama-red-b
+ rick-warehouse-2/
+END:VEVENT
+END:VCALENDAR

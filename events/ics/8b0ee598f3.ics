@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b0ee598f3-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261205T210000Z
+DTEND:20261206T060000Z
+SUMMARY:Araiyakushi Antique Market
+LOCATION:Nakano
+DESCRIPTION:Once a month\, the grounds of a Nakano temple fill up with anti
+ que dealers and rare finds.\n\nhttps://tokyocheapo.com/events/araiyakushi-
+ antique-market/20261206/
+URL:https://tokyocheapo.com/events/araiyakushi-antique-market/20261206/
+END:VEVENT
+END:VCALENDAR

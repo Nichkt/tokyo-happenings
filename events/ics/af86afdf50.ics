@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af86afdf50-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:Meet Your Art Festival Annex
+DESCRIPTION:Meet Your Art Festival Annex\n\nhttps://www.yoyogipark.info/202
+ 6/meet-your-art-festival-annex-yoyogi-park-2026/
+URL:https://www.yoyogipark.info/2026/meet-your-art-festival-annex-yoyogi-pa
+ rk-2026/
+END:VEVENT
+END:VCALENDAR

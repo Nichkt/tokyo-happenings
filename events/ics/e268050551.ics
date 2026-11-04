@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e268050551-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T020000Z
+DTEND:20261115T070000Z
+SUMMARY:Meguro International Friendship Festival
+LOCATION:Nakameguro GT\, 2-1-3 Kami-meguro\, Meguro
+DESCRIPTION:Celebrate global cultures with stage performances\, internation
+ al foods\, and embassy booths.\n\nhttps://www.city.meguro.tokyo.jp/bunka/e
+ vent/internationalfesr8.html
+URL:https://www.city.meguro.tokyo.jp/bunka/event/internationalfesr8.html
+END:VEVENT
+END:VCALENDAR

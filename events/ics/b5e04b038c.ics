@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b5e04b038c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261123T013000Z
+DTEND:20261123T060000Z
+SUMMARY:Kasai Super Fes
+LOCATION:Kyoiku Plaza Kasai\, 175 Ukita-cho\, Edogawa
+DESCRIPTION:Children can enjoy autumn-themed games\, food trucks\, and pony
+  rides at this annual community plaza festival.\n\nhttps://www.city.edogaw
+ a.tokyo.jp/event/super_fes.html
+URL:https://www.city.edogawa.tokyo.jp/event/super_fes.html
+END:VEVENT
+END:VCALENDAR

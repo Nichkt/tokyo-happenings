@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45cc07275b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T110000Z
+SUMMARY:Fuchu Handmade Market
+LOCATION:Foris 1F Hikari to Kaze no Hiroba Keyaki Hiroba\, Fuchu
+DESCRIPTION:Local welfare workshops sell original baked goods\, handmade cr
+ afts\, and miscellaneous goods alongside fun games.\n\nhttps://www.city.fu
+ chu.tokyo.jp/event/kenko/tedukuriiti2025.html
+URL:https://www.city.fuchu.tokyo.jp/event/kenko/tedukuriiti2025.html
+END:VEVENT
+END:VCALENDAR

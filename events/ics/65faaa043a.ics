@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65faaa043a-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Taito City Industry Fair
+LOCATION:Tokyo Metropolitan Industrial Trade Center Taito Hall\, 2-6-5 Hana
+ kawado\, Taito
+DESCRIPTION:Hours: 10 AM–5 PM\n\nLocal businesses gather to showcase and 
+ sell unique products\, crafts\, and ideas from the neighborhood.\n\nhttps:
+ //www.city.taito.lg.jp/bunka_kanko/tiikidentou/jibasangyo/sangyo-fair.html
+URL:https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/jibasangyo/sangyo-
+ fair.html
+END:VEVENT
+END:VCALENDAR

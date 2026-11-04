@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:57f28108b8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261219T000000Z
+DTEND:20261219T060000Z
+SUMMARY:Shinjuku Chuo Park Flea Market
+LOCATION:Shinjuku
+DESCRIPTION:This is considered a great spot to pick up some vintage items\,
+  but it's worth poring over the stalls at this popular spot near the Tokyo
+  Metropolitan...\n\nhttps://tokyocheapo.com/events/shinjuku-chuo-park-flea
+ -market/20261219/
+URL:https://tokyocheapo.com/events/shinjuku-chuo-park-flea-market/20261219/
+END:VEVENT
+END:VCALENDAR

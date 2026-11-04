@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3ca061d77-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Tachikawa Rakuichi
+LOCATION:Showa Memorial Park\, Midori-cho\, Tachikawa
+DESCRIPTION:Hours: 10 AM–4 PM\n\nA large community festival combining loc
+ al citizen celebrations\, merchant stalls\, and agricultural exhibits.\n\n
+ https://www.city.tachikawa.lg.jp/kanko/bunka/1003079/1003107/1003131/10031
+ 33/1028529.html
+URL:https://www.city.tachikawa.lg.jp/kanko/bunka/1003079/1003107/1003131/10
+ 03133/1028529.html
+END:VEVENT
+END:VCALENDAR

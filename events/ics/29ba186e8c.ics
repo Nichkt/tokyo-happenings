@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29ba186e8c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T050000Z
+SUMMARY:Kamitakaido Community Center Festival
+LOCATION:Kamitakaido Minami Park and Community Center\, 1-15-5 Kamitakaido\
+ , Suginami
+DESCRIPTION:Enjoy local performances\, pounded rice\, vegetable sales\, and
+  local recipe tastings.\n\nhttps://www.city.suginami.tokyo.jp/s025/event/2
+ 8568.html
+URL:https://www.city.suginami.tokyo.jp/s025/event/28568.html
+END:VEVENT
+END:VCALENDAR

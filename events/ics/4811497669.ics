@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4811497669-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T053000Z
+SUMMARY:Chuo Marugoto Sasaeai Navi Station in Sumapla Festa
+LOCATION:Meguro Chuo no Ie and Smile Plaza Chuocho\, 2-32-23 Chuocho\, Megu
+ ro
+DESCRIPTION:Local network organizations showcase activity group introductio
+ ns and workshops.\n\nhttps://www.city.meguro.tokyo.jp/kenkoufukushi/event/
+ r8_chuomarugotonavi.html
+URL:https://www.city.meguro.tokyo.jp/kenkoufukushi/event/r8_chuomarugotonav
+ i.html
+END:VEVENT
+END:VCALENDAR

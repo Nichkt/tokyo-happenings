@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ed80c3bf56-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:Animal Welfare Festival
+LOCATION:Ueno Park\, Taito
+DESCRIPTION:Enjoy stage events\, poster exhibitions\, and stamp rallies pro
+ moting proper pet care and animal welfare.\n\nhttps://www.city.taito.lg.jp
+ /kurashi/pet/pet/animal_fes_2023.html
+URL:https://www.city.taito.lg.jp/kurashi/pet/pet/animal_fes_2023.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3856c18692-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261106T093000Z
+DTEND:20261106T103000Z
+SUMMARY:Machinaka Cinema
+LOCATION:Machida Terminal Plaza Civic Square\, 3-1-4 Haramachida\, Machida
+DESCRIPTION:A popular movie is screened outdoors on a specially set up big 
+ screen.\n\nhttps://www.city.machida.tokyo.jp/kanko/miru_aso/ibe_gyou_matu/
+ machinaka-cinema.html
+URL:https://www.city.machida.tokyo.jp/kanko/miru_aso/ibe_gyou_matu/machinak
+ a-cinema.html
+END:VEVENT
+END:VCALENDAR

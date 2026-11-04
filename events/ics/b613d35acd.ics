@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b613d35acd-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T070000Z
+SUMMARY:Giants Hometown Fes
+LOCATION:Giants Town Stadium\, Nanayama 95-1\, Yanokuchi\, Inagi
+DESCRIPTION:Baseball fans can enjoy professional player experiences on the 
+ field\, talk shows\, and job experience programs.\n\nhttps://www.city.chof
+ u.lg.jp/040070/p026456.html
+URL:https://www.city.chofu.lg.jp/040070/p026456.html
+END:VEVENT
+END:VCALENDAR

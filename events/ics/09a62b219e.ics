@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09a62b219e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Chiikawa Christmas Market
+LOCATION:Toyosuna Park (in front of Aeon Mall Makuhari Shintoshin)\, Chiba 
+ City Toyosuna Park\, Tokyo
+DESCRIPTION:Hours: 11 AM–9 PM\n\nCelebrate the holidays at Chiikawa's Chr
+ istmas Market\, a 6000-square-meter event filled with festive lights\, tre
+ ats and character photo spots.\n\nhttps://www.tokyoweekender.com/event/chi
+ ikawa-christmas-market/
+URL:https://www.tokyoweekender.com/event/chiikawa-christmas-market/
+END:VEVENT
+END:VCALENDAR

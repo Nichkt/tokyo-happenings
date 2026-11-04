@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47ec1dbb34-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261219T020000Z
+DTEND:20261219T080000Z
+SUMMARY:Kōenji Picnic Marche
+LOCATION:Koenji
+DESCRIPTION:Free monthly market with bread\, sweets\, coffee and crafts at 
+ Flat Sugihachi in Koenji.. Food\, Market\n\nhttps://tokyocheapo.com/events
+ /koenji-picnic-marche/20261219/
+URL:https://tokyocheapo.com/events/koenji-picnic-marche/20261219/
+END:VEVENT
+END:VCALENDAR

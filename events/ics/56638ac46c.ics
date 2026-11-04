@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56638ac46c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261123T020000Z
+DTEND:20261123T080000Z
+SUMMARY:Motokeiba Derby
+LOCATION:Makino Building Parking Lot\, 5-1-12 Shimo-meguro\, Meguro
+DESCRIPTION:A neighborhood shopping street festival featuring stamp rallies
+ \, fresh produce distribution\, and classic cars.\n\nhttps://www.city.megu
+ ro.tokyo.jp/sangyoukeizai/event/syoutengaiautumnevent.html
+URL:https://www.city.meguro.tokyo.jp/sangyoukeizai/event/syoutengaiautumnev
+ ent.html
+END:VEVENT
+END:VCALENDAR

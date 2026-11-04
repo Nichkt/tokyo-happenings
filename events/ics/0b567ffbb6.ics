@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b567ffbb6-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T053000Z
+SUMMARY:Kyopura Puratto Autumn Festival
+LOCATION:Kyodo Plaza Koiwa\, 2-14-17 Kitakoiwa\, Edogawa
+DESCRIPTION:Children can enjoy various game booths\, food stalls with autum
+ n flavors\, futsal experiences\, and a mini planetarium.\n\nhttps://www.ci
+ ty.edogawa.tokyo.jp/event/kpk-fall.html
+URL:https://www.city.edogawa.tokyo.jp/event/kpk-fall.html
+END:VEVENT
+END:VCALENDAR

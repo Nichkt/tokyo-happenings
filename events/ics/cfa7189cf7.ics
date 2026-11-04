@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cfa7189cf7-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Mizumoto Wakuwaku Festival
+LOCATION:Mizumoto Manabi Koryu-kan\, Katsushika
+DESCRIPTION:Hours: 10 AM–4 PM\n\nLocal groups showcase stage performances
+ \, art displays\, and food stalls.\n\nhttps://www.city.katsushika.lg.jp/ev
+ ent/1000107/1021249.html
+URL:https://www.city.katsushika.lg.jp/event/1000107/1021249.html
+END:VEVENT
+END:VCALENDAR

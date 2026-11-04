@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a7b682e848-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261129T020000Z
+DTEND:20261129T090000Z
+SUMMARY:Youth Carnival
+LOCATION:Komatsugawa Elementary School yard and surrounding areas\, Edogawa
+DESCRIPTION:This lively neighborhood festival features portable shrines\, f
+ ood stalls\, stage performances\, and family-friendly activities.\n\nhttps
+ ://www.city.edogawa.tokyo.jp/event/46seikani.html
+URL:https://www.city.edogawa.tokyo.jp/event/46seikani.html
+END:VEVENT
+END:VCALENDAR

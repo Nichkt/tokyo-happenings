@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb61026455-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T050000Z
+SUMMARY:Asunaro Festival
+LOCATION:Asunaro Work Center\, 1-3-4 Honan\, Suginami
+DESCRIPTION:This community welfare facility festival features Japanese taik
+ o drumming\, live music\, a character photo session\, food trucks\, and ba
+ lloon art.\n\nhttps://www.city.suginami.tokyo.jp/s036/event/28990.html
+URL:https://www.city.suginami.tokyo.jp/s036/event/28990.html
+END:VEVENT
+END:VCALENDAR

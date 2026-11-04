@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:82b54153d8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261117T003000Z
+DTEND:20261117T033000Z
+SUMMARY:Onono-juku Satoyama Exchange Center Autumn Foliage Festival and Swe
+ ets Fair
+LOCATION:Onono-juku Satoyama Exchange Center\, Machida
+DESCRIPTION:Celebrate the autumn foliage season with local vegetable sales\
+ , food stalls\, and a bingo tournament.\n\nhttps://www.city.machida.tokyo.
+ jp/kanko/miru_aso/satoyamakoryukan/kouryukan_event.html
+URL:https://www.city.machida.tokyo.jp/kanko/miru_aso/satoyamakoryukan/koury
+ ukan_event.html
+END:VEVENT
+END:VCALENDAR

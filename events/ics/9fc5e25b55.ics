@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9fc5e25b55-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Ark Hills Christmas
+LOCATION:Ark Hills Ark Karajan Square\, Ark Hills Karajan Square\, Tokyo
+DESCRIPTION:Ark Hills will present a six-meter-tall Christmas tree decorate
+ d in festive red and white gift-ribbon ornaments and warm gold illuminatio
+ ns.\n\nhttps://www.tokyoweekender.com/event/ark-hills-christmas/
+URL:https://www.tokyoweekender.com/event/ark-hills-christmas/
+END:VEVENT
+END:VCALENDAR

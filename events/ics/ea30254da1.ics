@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ea30254da1-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Machida City Agriculture Festival
+LOCATION:Machida Shibahiro\, 1-20-23 Nakamachi\, Machida
+DESCRIPTION:Hours: 10 AM–3 PM\n\nVisitors can buy fresh local vegetables 
+ and view agricultural exhibits and vegetable boats.\n\nhttps://www.city.ma
+ chida.tokyo.jp/kanko/sangyo/nougyo/shimintonou/nougyousai/21nougyousai.htm
+ l
+URL:https://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/shimintonou/nougy
+ ousai/21nougyousai.html
+END:VEVENT
+END:VCALENDAR

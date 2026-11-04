@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f4f72446d8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:MOTTAINAI Flea Market at Kichijoji Parco Rooftop
+LOCATION:Kichijoji Parco Rooftop\, Musashino City
+DESCRIPTION:Flea market\n\nhttps://trx.jp/en/schejule
+URL:https://trx.jp/en/schejule
+END:VEVENT
+END:VCALENDAR

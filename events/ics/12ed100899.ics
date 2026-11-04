@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:12ed100899-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T050000Z
+SUMMARY:Tachikawa Flea Market Village
+LOCATION:Sansan Road\, Akebono-cho\, Tachikawa
+DESCRIPTION:Browse stalls of secondhand goods and unique finds along the pe
+ destrian promenade.\n\nhttps://www.city.tachikawa.lg.jp/event/e-moyooshi/1
+ 025473.html
+URL:https://www.city.tachikawa.lg.jp/event/e-moyooshi/1025473.html
+END:VEVENT
+END:VCALENDAR

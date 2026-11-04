@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:33f37a248e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T060000Z
+SUMMARY:Yanari Festival
+LOCATION:Yanari Residents Assembly Hall\, 1-3-2 Igusa\, Suginami
+DESCRIPTION:This local neighborhood festival features craft exhibitions\, s
+ tage performances\, craft workshops\, games\, and food stalls.\n\nhttps://
+ www.city.suginami.tokyo.jp/s020/event/28541.html
+URL:https://www.city.suginami.tokyo.jp/s020/event/28541.html
+END:VEVENT
+END:VCALENDAR

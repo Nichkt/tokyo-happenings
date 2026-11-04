@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b6cb780171-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Marunouchi Bright Holiday: Harry Potter Illumination
+LOCATION:Tokyo Station area and Marunouchi-Nakadori Ave\, Marunouchi Naka-d
+ ori St.
+DESCRIPTION:The entire Marunouchi district will transform into a festive ho
+ liday stage inspired by Harry Potter\, with nine different installations.\
+ n\nhttps://www.tokyoweekender.com/event/marunouchi-bright-holiday-harry-po
+ tter-illumination/
+URL:https://www.tokyoweekender.com/event/marunouchi-bright-holiday-harry-po
+ tter-illumination/
+END:VEVENT
+END:VCALENDAR

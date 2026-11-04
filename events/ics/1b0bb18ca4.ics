@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b0bb18ca4-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T020000Z
+SUMMARY:Autumn Agricultural Produce Fair and Direct Market
+LOCATION:Himonya Gymnasium\, 6-12-43 Himonya\, Meguro
+DESCRIPTION:Local producers offer direct sales of fresh vegetables\, fruits
+ \, and flowers.\n\nhttps://www.city.meguro.tokyo.jp/sangyoukeizai/event/sh
+ uukihinpyoukaikokuchi.html
+URL:https://www.city.meguro.tokyo.jp/sangyoukeizai/event/shuukihinpyoukaiko
+ kuchi.html
+END:VEVENT
+END:VCALENDAR

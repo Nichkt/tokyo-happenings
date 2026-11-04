@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c915c76891-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261123T010000Z
+DTEND:20261123T080000Z
+SUMMARY:IKE-Biz Festa
+LOCATION:IKE-Biz Toshima Industrial Promotion Plaza\, Nishi-Ikebukuro\, Tos
+ hima
+DESCRIPTION:Visitors enjoy family concerts\, local specialty product sales\
+ , and interactive workshops for all ages.\n\nhttps://www.city.toshima.lg.j
+ p/121/shisetsu/sonota/2608050909.html
+URL:https://www.city.toshima.lg.jp/121/shisetsu/sonota/2608050909.html
+END:VEVENT
+END:VCALENDAR

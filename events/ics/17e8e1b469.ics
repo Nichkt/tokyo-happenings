@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17e8e1b469-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261220T010000Z
+DTEND:20261220T090000Z
+SUMMARY:Naka-Ikebukuro Park Flea Market
+LOCATION:Naka-Ikebukuro Park\, 1-16-1 Higashi-Ikebukuro\, Toshima
+DESCRIPTION:Browse handmade goods\, crafts\, and second-hand items at this 
+ outdoor park flea market and workshop event.\n\nhttps://www.city.toshima.l
+ g.jp/150/2607271704.html
+URL:https://www.city.toshima.lg.jp/150/2607271704.html
+END:VEVENT
+END:VCALENDAR

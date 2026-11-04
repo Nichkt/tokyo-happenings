@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ff7e9fbc4-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Oji Bamboo Rake Fair (Kumade-ichi)
+DESCRIPTION:Oji Bamboo Rake Fair (Kumade-ichi)\n\nhttps://www.gotokyo.org/e
+ n/spot/ev127/index.html
+URL:https://www.gotokyo.org/en/spot/ev127/index.html
+END:VEVENT
+END:VCALENDAR

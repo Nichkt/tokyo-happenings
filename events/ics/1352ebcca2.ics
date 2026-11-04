@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1352ebcca2-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261130T220000Z
+DTEND:20261201T060000Z
+SUMMARY:Machida Tenmangu Antique Fair
+LOCATION:Machida
+DESCRIPTION:With over 120 stalls full of antique items of all shapes and si
+ zes\, it's no wonder this market is a lively spot on the first of the mont
+ h.\n\nhttps://tokyocheapo.com/events/machida-tenmangu-antique-fair/2026120
+ 1/
+URL:https://tokyocheapo.com/events/machida-tenmangu-antique-fair/20261201/
+END:VEVENT
+END:VCALENDAR

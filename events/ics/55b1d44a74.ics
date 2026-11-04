@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:55b1d44a74-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261219T223000Z
+DTEND:20261219T231000Z
+SUMMARY:Machida Sunday Morning Market
+LOCATION:Welcia Machida Sakai-gawa Store Parking Lot\, 2-10-1 Kiso-higashi\
+ , Machida
+DESCRIPTION:Local farmers offer fresh vegetables\, eggs\, flowers\, and reg
+ ional sweets.\n\nhttps://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/eve
+ nt/asaichi.html
+URL:https://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/event/asaichi.htm
+ l
+END:VEVENT
+END:VCALENDAR

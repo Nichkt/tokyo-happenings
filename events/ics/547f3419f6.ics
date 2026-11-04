@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:547f3419f6-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261108T010000Z
+DTEND:20261108T060000Z
+SUMMARY:Shishibone Temple Marche
+LOCATION:Enshoin Temple\, 1-12-23 Shishibone\, Edogawa
+DESCRIPTION:Browse agricultural markets\, food trucks\, and workshops set w
+ ithin a temple ground.\n\nhttps://www.city.edogawa.tokyo.jp/event/r8shishi
+ boneteramarche.html
+URL:https://www.city.edogawa.tokyo.jp/event/r8shishiboneteramarche.html
+END:VEVENT
+END:VCALENDAR

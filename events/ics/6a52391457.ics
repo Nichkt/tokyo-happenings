@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a52391457-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Higashiyama Social Education Center Festival
+LOCATION:Higashiyama Social Education Center\, 3-24-2 Higashiyama\, Meguro
+DESCRIPTION:Hours: 10 AM\n\nLocal groups showcase stage performances\, art 
+ exhibitions\, craft experiences\, and special activities.\n\nhttps://www.c
+ ity.meguro.tokyo.jp/shougaigakushuu/event/higashiyamakanmatsuri2026.html
+URL:https://www.city.meguro.tokyo.jp/shougaigakushuu/event/higashiyamakanma
+ tsuri2026.html
+END:VEVENT
+END:VCALENDAR

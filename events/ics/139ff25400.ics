@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:139ff25400-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Tokyo Music Evening Yube
+LOCATION:Global Ring Theatre\, 1-8-26 Nishiikebukuro\, Toshima
+DESCRIPTION:Enjoy an open-air classical saxophone concert featuring arrange
+ ments of popular orchestral and ballet pieces.\n\nhttps://www.city.toshima
+ .lg.jp/130/2610021553.html
+URL:https://www.city.toshima.lg.jp/130/2610021553.html
+END:VEVENT
+END:VCALENDAR

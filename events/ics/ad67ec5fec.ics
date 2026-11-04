@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ad67ec5fec-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Decoration and Night Museum
+DESCRIPTION:Visitors can view festive Christmas decorations and enjoy exten
+ ded evening museum hours with a gallery talk at the historic missionary ho
+ use.\n\nhttps://www.city.toshima.lg.jp/129/bunka/bunka/shiryokan/kyusenkyo
+ shikan/2510071320.html
+URL:https://www.city.toshima.lg.jp/129/bunka/bunka/shiryokan/kyusenkyoshika
+ n/2510071320.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b27721f6c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261129T013000Z
+DTEND:20261129T053000Z
+SUMMARY:Seijo Community Cultural Festival
+LOCATION:Kinuta General Branch Office and Seijo Hall\, Seijo 6-2-1\, Setaga
+ ya
+DESCRIPTION:Generations come together for stage performances\, food corners
+ \, and kids' activities.\n\nhttps://www.city.setagaya.lg.jp/01051/20700.ht
+ ml
+URL:https://www.city.setagaya.lg.jp/01051/20700.html
+END:VEVENT
+END:VCALENDAR

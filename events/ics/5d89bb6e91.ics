@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5d89bb6e91-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T000000Z
+DTEND:20261115T060000Z
+SUMMARY:Akabane Park Flea Market
+LOCATION:Akabane Park\, 1-14-17 Akabaneminami\, Kita
+DESCRIPTION:Find second-hand goods and household items at community-run out
+ door stalls.\n\nhttps://www.city.kita.lg.jp/living/bins/1002093/1026742.ht
+ ml
+URL:https://www.city.kita.lg.jp/living/bins/1002093/1026742.html
+END:VEVENT
+END:VCALENDAR

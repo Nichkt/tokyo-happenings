@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a64f2cefe5-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Special Night Viewing of the Autumn Leaves at Rikugien Gardens
+DESCRIPTION:Special Night Viewing of the Autumn Leaves at Rikugien Gardens\
+ n\nhttps://www.gotokyo.org/en/spot/ev126/index.html
+URL:https://www.gotokyo.org/en/spot/ev126/index.html
+END:VEVENT
+END:VCALENDAR

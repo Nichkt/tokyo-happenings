@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b2e2ec05d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:JVA Festa
+LOCATION:Chofu City Green Hall\, 2-47-1 Kojimacho\, Chofu
+DESCRIPTION:Hours: 2–7 PM\n\nExperience film and television art exhibitio
+ ns featuring actual set displays\, costumes\, wigs\, and prop fittings.\n\
+ nhttps://www.city.chofu.lg.jp/040040/p024006.html
+URL:https://www.city.chofu.lg.jp/040040/p024006.html
+END:VEVENT
+END:VCALENDAR

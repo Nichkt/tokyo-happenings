@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:941f383fd7-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Ohi Racecourse Tokyo City Flea Market
+LOCATION:Ohi Racecourse Tokyo City Flea Market\, Shinagawa Ward
+DESCRIPTION:Flea market\n\nhttps://trx.jp/en/schejule
+URL:https://trx.jp/en/schejule
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9e25f2f3bb-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Yaki Imo Festival Tokyo 2026
+LOCATION:Nakano Shiki no Mori Park\, Tokyo
+DESCRIPTION:Hours: 11 AM–7 PM\n\nYaki Imo Festival will offer 14 sweet po
+ tato shops with over 30 different menu items\, including crepes\, chips\, 
+ smoothies\, burgers and soups.\n\nhttps://www.tokyoweekender.com/event/yak
+ i-imo-festival-tokyo/
+URL:https://www.tokyoweekender.com/event/yaki-imo-festival-tokyo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a7293e5cf2-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261213T010000Z
+DTEND:20261213T050000Z
+SUMMARY:Comi-Fura Hon-Amanuma Noel Festival
+LOCATION:Community Flat Hon-Amanuma\, 2-12-10 Honamanuma\, Suginami
+DESCRIPTION:Celebrate winter with Christmas music\, craft workshops\, festi
+ ve food stalls\, and games.\n\nhttps://www.city.suginami.tokyo.jp/s022/eve
+ nt/28941.html
+URL:https://www.city.suginami.tokyo.jp/s022/event/28941.html
+END:VEVENT
+END:VCALENDAR

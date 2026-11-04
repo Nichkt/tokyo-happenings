@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f40037d2ec-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:Minato Manufacturing\, Commerce\, and Tourism Fair
+LOCATION:Futsunotsuji Square\, Minato
+DESCRIPTION:Local manufacturing\, commerce\, and tourism are showcased with
+  various exhibits and booths.\n\nhttps://www.city.minato.tokyo.jp/kouhou/e
+ vent/261205-monodukuri.html
+URL:https://www.city.minato.tokyo.jp/kouhou/event/261205-monodukuri.html
+END:VEVENT
+END:VCALENDAR

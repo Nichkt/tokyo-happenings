@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:02a4c647b0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T020000Z
+SUMMARY:Meguro City Boy Scouts Festival
+LOCATION:Suganoki Elementary School\, 3-3-26 Aobadai\, Meguro
+DESCRIPTION:Children can participate in various outdoor skill-themed challe
+ nges and games.\n\nhttps://www.city.meguro.tokyo.jp/shougaigakushuu/event/
+ boysukautoyamate08.html
+URL:https://www.city.meguro.tokyo.jp/shougaigakushuu/event/boysukautoyamate
+ 08.html
+END:VEVENT
+END:VCALENDAR

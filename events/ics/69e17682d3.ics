@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e17682d3-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261213T000000Z
+DTEND:20261213T060000Z
+SUMMARY:Flea Market at Ike Sun Park
+LOCATION:Ike Sun Park\, Toshima Ward
+DESCRIPTION:Flea market\n\nhttps://trx.jp/en/schejule
+URL:https://trx.jp/en/schejule
+END:VEVENT
+END:VCALENDAR

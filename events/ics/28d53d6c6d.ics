@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:28d53d6c6d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261108T000000Z
+DTEND:20261108T060000Z
+SUMMARY:Tobu Regional Festival
+LOCATION:Tobu Kumin-kan and Tobu Park\, 1-17-1 Higashi-Mizue\, Edogawa
+DESCRIPTION:Celebrate the end of the year with parades\, stage performances
+ \, food stalls\, bazaars\, and mini train rides.\n\nhttps://www.city.edoga
+ wa.tokyo.jp/event/261108tobuchiikisai.html
+URL:https://www.city.edogawa.tokyo.jp/event/261108tobuchiikisai.html
+END:VEVENT
+END:VCALENDAR

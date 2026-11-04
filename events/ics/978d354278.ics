@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:978d354278-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261128T010000Z
+DTEND:20261128T060000Z
+SUMMARY:Toshima Animal Welfare Festival
+LOCATION:IKE / SUNPARK\, 4-42 Higashi-Ikebukuro\, Toshima
+DESCRIPTION:Enjoy pet-friendly games\, pet care consultation booths\, and i
+ nformation about community cat activities.\n\nhttps://www.city.toshima.lg.
+ jp/212/kurashi/ese/kyose/documents/documents/2609141542.html
+URL:https://www.city.toshima.lg.jp/212/kurashi/ese/kyose/documents/document
+ s/2609141542.html
+END:VEVENT
+END:VCALENDAR

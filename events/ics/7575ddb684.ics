@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7575ddb684-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Koyo Autumn Leaves Festival 2026
+DESCRIPTION:Koyo Autumn Leaves Festival 2026\n\nhttps://www.gotokyo.org/en/
+ spot/ev070/index.html
+URL:https://www.gotokyo.org/en/spot/ev070/index.html
+END:VEVENT
+END:VCALENDAR

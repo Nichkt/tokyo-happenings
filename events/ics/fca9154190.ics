@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fca9154190-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART:20261205T013000Z
+DTEND:20261205T070000Z
+SUMMARY:Meguro Fureai Festival
+LOCATION:Nakameguro GT\, 2-1-3 Kami-meguro\, Meguro
+DESCRIPTION:A community festival featuring arts\, student musical performan
+ ces\, and goods made by welfare facilities.\n\nhttps://www.city.meguro.tok
+ yo.jp/shougaishisaku/event/kinennjigyou.html
+URL:https://www.city.meguro.tokyo.jp/shougaishisaku/event/kinennjigyou.html
+END:VEVENT
+END:VCALENDAR

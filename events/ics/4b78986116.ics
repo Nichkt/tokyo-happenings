@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b78986116-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261104T210506Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Roppongi Hills Christmas 2026
+LOCATION:Roppongi Hills O-Yane Plaza\, ROPPONGI HILLS Christmas Market\, To
+ kyo
+DESCRIPTION:Hours: 5–10 PM\n\nRoppongi Hills Christmas 2026\n\nhttps://ww
+ w.gotokyo.org/en/spot/ev129/index.html
+URL:https://www.gotokyo.org/en/spot/ev129/index.html
+END:VEVENT
+END:VCALENDAR
