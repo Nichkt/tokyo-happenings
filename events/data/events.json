@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-05T01:31:53Z",
+ "generatedAt": "2026-11-05T18:51:23Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-05",
- "until": "2027-01-28",
+ "from": "2026-11-06",
+ "until": "2027-01-29",
  "regions": [
   {
    "id": "ADACHI",
@@ -211,7 +211,7 @@
   },
   {
    "name": "GO TOKYO",
-   "events": 19
+   "events": 20
   },
   {
    "name": "Katsushika City events",
@@ -227,7 +227,7 @@
   },
   {
    "name": "Meguro City events",
-   "events": 13
+   "events": 12
   },
   {
    "name": "Minato City events",
@@ -251,7 +251,7 @@
   },
   {
    "name": "Setagaya City events",
-   "events": 5
+   "events": 7
   },
   {
    "name": "Suginami City events",
@@ -584,40 +584,6 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "804632c89e",
-   "series": "d1108343a5",
-   "title": "Shimokitazawa Flea Market",
-   "start": "2026-10-30",
-   "end": "2026-11-05",
-   "startMinute": 720,
-   "endMinute": 1020,
-   "dates": "Oct 30–Nov 5",
-   "time": "12–5 PM",
-   "place": "Shimokitazawa",
-   "placeLines": "Shimokitazawa",
-   "region": "SETAGAYA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Find your next dream flea market treasure at this trendy market in Shimokitazawa.",
-   "url": "https://tokyocheapo.com/events/shimokitazawa-flea-market/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2024/01/GettyImages-485039700-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shimokitazawa",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-30",
-    "end": "2026-11-06",
-    "notes": "Hours: 12–5 PM\n\nFind your next dream flea market treasure at this trendy market in Shimokitazawa.\n\nhttps://tokyocheapo.com/events/shimokitazawa-flea-market/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "7126f2813f",
    "series": "d8d1d52c92",
    "title": "Moomin Valley Park Christmas",
@@ -827,36 +793,6 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "50289a428e",
-   "series": "e84dcb7745",
-   "title": "Kakuda City Products and Panel Exhibition",
-   "start": "2026-11-04",
-   "end": "2026-11-05",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Nov 4–5",
-   "time": "10 AM–3 PM",
-   "place": "Meguro City Office",
-   "placeLines": "Meguro City Office\n2-19-15 Naka-meguro, Meguro",
-   "region": "MEGURO",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy regional specialties, mascot appearances, and cultural panels from Kakuda City.",
-   "url": "https://www.city.meguro.tokyo.jp/bunka/event/kakuda-bussanten.html",
-   "sources": [
-    "Meguro City events"
-   ],
-   "map": "Meguro City Office, 2-19-15 Naka-meguro, Meguro",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-04",
-    "end": "2026-11-06",
-    "notes": "Hours: 10 AM–3 PM\n\nEnjoy regional specialties, mascot appearances, and cultural panels from Kakuda City.\n\nhttps://www.city.meguro.tokyo.jp/bunka/event/kakuda-bussanten.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "52fbbb855b",
    "series": "8c6390bb43",
    "title": "Refugee Film Festival",
@@ -1045,9 +981,9 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "67054c942c",
-   "series": "247cda1a22",
-   "title": "Tokyo Skytree Dream Christmas 2026",
+   "id": "979f4f8485",
+   "series": "e8084f13f5",
+   "title": "Tokyo Skytree Town Dream Christmas 2026",
    "start": "2026-11-05",
    "end": "2026-12-25",
    "startMinute": 1050,
@@ -1061,10 +997,11 @@
    "cost": "Free",
    "free": true,
    "summary": "Snack on yuletide treats at the base of what might be Japan's biggest Christmas tree.",
-   "url": "https://tokyocheapo.com/events/tokyo-sky-tree-dream-christmas/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/12/skytree-christmas-iStock-1134263716-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
+   "url": "https://www.gotokyo.org/en/spot/ev165/index.html",
+   "image": "https://www.gotokyo.org/en/spot/ev165/images/ev165_main_450_gd10027.webp",
+   "imageCredit": "GO TOKYO",
    "sources": [
+    "GO TOKYO",
     "Tokyo Cheapo",
     "Tokyo Weekender"
    ],
@@ -1073,11 +1010,9 @@
     "allDay": true,
     "start": "2026-11-05",
     "end": "2026-12-26",
-    "notes": "Hours: 5:30–10 PM\n\nSnack on yuletide treats at the base of what might be Japan's biggest Christmas tree.\n\nhttps://tokyocheapo.com/events/tokyo-sky-tree-dream-christmas/"
+    "notes": "Hours: 5:30–10 PM\n\nSnack on yuletide treats at the base of what might be Japan's biggest Christmas tree.\n\nhttps://www.gotokyo.org/en/spot/ev165/index.html"
    },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "firstSeen": "2026-11-05T18:51:23Z"
   },
   {
    "id": "9d8ee14755",
@@ -5367,6 +5302,35 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "3a75ef9570",
+   "series": "4e3cdf035c",
+   "title": "Kasukabe Hagoita Market",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "dates": "Nov 21–22",
+   "place": "Kasukabe",
+   "placeLines": "Kasukabe",
+   "region": "FARTHER",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Visit the Hagoita Market in Kasukabe and buy yourself a hagoita.",
+   "url": "https://tokyocheapo.com/events/kasukabe-hagoita-market/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/12/15425093354_730f6a92c2_o-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Kasukabe",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-21",
+    "end": "2026-11-23",
+    "notes": "Visit the Hagoita Market in Kasukabe and buy yourself a hagoita.\n\nhttps://tokyocheapo.com/events/kasukabe-hagoita-market/"
+   },
+   "firstSeen": "2026-11-05T18:51:23Z"
+  },
+  {
    "id": "e4ecbf73d1",
    "series": "ceeb4272e3",
    "title": "Musamura Flea Market",
@@ -8837,6 +8801,39 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "dbd7b88114",
+   "series": "36250be7de",
+   "title": "Boro-ichi Hometown Products Exhibition",
+   "start": "2026-12-15",
+   "end": "2026-12-16",
+   "startMinute": 540,
+   "endMinute": 1200,
+   "dates": "Dec 15–16",
+   "time": "9 AM–8 PM",
+   "place": "Setagaya Shinkin Bank Head Office Parking Lot",
+   "placeLines": "Setagaya Shinkin Bank Head Office Parking Lot\n1-23-3 Setagaya, Setagaya",
+   "region": "SETAGAYA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "watch": true,
+   "summary": "Regional partner municipalities sell local specialty products during the Boro-ichi market.",
+   "url": "https://www.city.setagaya.lg.jp/02072/20607.html",
+   "image": "https://www.city.setagaya.lg.jp/images/20607/boroichi_kusudama.jpg",
+   "imageCredit": "Setagaya City events",
+   "sources": [
+    "Setagaya City events"
+   ],
+   "map": "Setagaya Shinkin Bank Head Office Parking Lot, 1-23-3 Setagaya, Setagaya",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-15",
+    "end": "2026-12-17",
+    "notes": "Hours: 9 AM–8 PM\n\nRegional partner municipalities sell local specialty products during the Boro-ichi market.\n\nhttps://www.city.setagaya.lg.jp/02072/20607.html"
+   },
+   "firstSeen": "2026-11-05T18:51:23Z"
+  },
+  {
    "id": "1a22c7a234",
    "series": "92acb9e759",
    "title": "Setagaya Boro-ichi (Flea Market)",
@@ -10388,6 +10385,39 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T00:36:06Z"
+  },
+  {
+   "id": "e9788c256e",
+   "series": "36250be7de",
+   "title": "Boro-ichi Hometown Products Exhibition",
+   "start": "2027-01-15",
+   "end": "2027-01-16",
+   "startMinute": 540,
+   "endMinute": 1200,
+   "dates": "Jan 15–16",
+   "time": "9 AM–8 PM",
+   "place": "Setagaya Shinkin Bank Head Office Parking Lot",
+   "placeLines": "Setagaya Shinkin Bank Head Office Parking Lot\n1-23-3 Setagaya, Setagaya",
+   "region": "SETAGAYA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "watch": true,
+   "summary": "Regional partner municipalities sell local specialty products during the Boro-ichi market.",
+   "url": "https://www.city.setagaya.lg.jp/02072/20607.html",
+   "image": "https://www.city.setagaya.lg.jp/images/20607/boroichi_kusudama.jpg",
+   "imageCredit": "Setagaya City events",
+   "sources": [
+    "Setagaya City events"
+   ],
+   "map": "Setagaya Shinkin Bank Head Office Parking Lot, 1-23-3 Setagaya, Setagaya",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-15",
+    "end": "2027-01-17",
+    "notes": "Hours: 9 AM–8 PM\n\nRegional partner municipalities sell local specialty products during the Boro-ichi market.\n\nhttps://www.city.setagaya.lg.jp/02072/20607.html"
+   },
+   "firstSeen": "2026-11-05T18:51:23Z"
   },
   {
    "id": "45d0448990",

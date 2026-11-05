@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3a75ef9570-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T185123Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Kasukabe Hagoita Market
+LOCATION:Kasukabe
+DESCRIPTION:Visit the Hagoita Market in Kasukabe and buy yourself a hagoita
+ .\n\nhttps://tokyocheapo.com/events/kasukabe-hagoita-market/
+URL:https://tokyocheapo.com/events/kasukabe-hagoita-market/
+END:VEVENT
+END:VCALENDAR

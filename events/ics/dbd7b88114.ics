@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dbd7b88114-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T185123Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261217
+TRANSP:TRANSPARENT
+SUMMARY:Boro-ichi Hometown Products Exhibition
+LOCATION:Setagaya Shinkin Bank Head Office Parking Lot\, 1-23-3 Setagaya\, 
+ Setagaya
+DESCRIPTION:Hours: 9 AM–8 PM\n\nRegional partner municipalities sell loca
+ l specialty products during the Boro-ichi market.\n\nhttps://www.city.seta
+ gaya.lg.jp/02072/20607.html
+URL:https://www.city.setagaya.lg.jp/02072/20607.html
+END:VEVENT
+END:VCALENDAR
