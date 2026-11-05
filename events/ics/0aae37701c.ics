@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0aae37701c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T002532Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T060000Z
+SUMMARY:Disabilities Welfare Festival
+LOCATION:Hikarigaoka Kumin Center and Hikarigaoka Park Fureai-no-Michi\, 2-
+ 9-6 Hikarigaoka\, Nerima
+DESCRIPTION:Enjoy food stalls\, craft sales\, and displays presented by wel
+ fare organizations and facilities.\n\nhttps://www.city.nerima.tokyo.jp/hok
+ enfukushi/shogai/koryu/syogai_festival.html
+URL:https://www.city.nerima.tokyo.jp/hokenfukushi/shogai/koryu/syogai_festi
+ val.html
+END:VEVENT
+END:VCALENDAR

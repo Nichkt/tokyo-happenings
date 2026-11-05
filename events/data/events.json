@@ -3,7 +3,7 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-05T00:00:30Z",
+ "generatedAt": "2026-11-05T00:25:32Z",
  "since": "2026-11-04T21:05:06Z",
  "from": "2026-11-05",
  "until": "2027-01-28",
@@ -243,7 +243,7 @@
   },
   {
    "name": "Nerima City sightseeing events",
-   "events": 3
+   "events": 4
   },
   {
    "name": "Ota City events",
@@ -1477,7 +1477,7 @@
    "startMinute": 0,
    "endMinute": 1440,
    "dates": "Sat, Nov 7",
-   "time": "12 AM–12 AM",
+   "time": "All day",
    "place": "Otori Shrine and Chokoku-ji Temple, Taito",
    "placeLines": "Otori Shrine and Chokoku-ji Temple, Taito",
    "region": "TAITO",
@@ -1496,12 +1496,14 @@
    ],
    "map": "Otori Shrine and Chokoku-ji Temple, Taito",
    "calendar": {
-    "allDay": false,
-    "start": "2026-11-06T15:00:00Z",
-    "end": "2026-11-07T14:59:00Z",
+    "allDay": true,
+    "start": "2026-11-07",
+    "end": "2026-11-08",
     "notes": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.\n\nhttps://www.city.taito.lg.jp/event/kanko/torinoithi.html"
    },
-   "firstSeen": "2026-11-04T21:05:06Z"
+   "firstSeen": "2026-11-04T21:05:06Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:25:32Z"
   },
   {
    "id": "9fc5e25b55",
@@ -4941,7 +4943,7 @@
    "startMinute": 0,
    "endMinute": 1440,
    "dates": "Thu, Nov 19",
-   "time": "12 AM–12 AM",
+   "time": "All day",
    "place": "Otori Shrine and Chokoku-ji Temple, Taito",
    "placeLines": "Otori Shrine and Chokoku-ji Temple, Taito",
    "region": "TAITO",
@@ -4959,12 +4961,14 @@
    ],
    "map": "Otori Shrine and Chokoku-ji Temple, Taito",
    "calendar": {
-    "allDay": false,
-    "start": "2026-11-18T15:00:00Z",
-    "end": "2026-11-19T14:59:00Z",
+    "allDay": true,
+    "start": "2026-11-19",
+    "end": "2026-11-20",
     "notes": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.\n\nhttps://www.city.taito.lg.jp/event/kanko/torinoithi.html"
    },
-   "firstSeen": "2026-11-04T21:05:06Z"
+   "firstSeen": "2026-11-04T21:05:06Z",
+   "revision": 1,
+   "changed": "2026-11-05T00:25:32Z"
   },
   {
    "id": "3b6a8a0dcf",
@@ -7395,6 +7399,36 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
    "changed": "2026-11-05T00:00:30Z"
+  },
+  {
+   "id": "0aae37701c",
+   "series": "242bebb563",
+   "title": "Disabilities Welfare Festival",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Sat, Dec 5",
+   "time": "10 AM–3 PM",
+   "place": "Hikarigaoka Kumin Center and Hikarigaoka Park Fureai-no-Michi, Nerima",
+   "placeLines": "Hikarigaoka Kumin Center and Hikarigaoka Park Fureai-no-Michi, Nerima\n2-9-6 Hikarigaoka, Nerima",
+   "region": "NERIMA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Enjoy food stalls, craft sales, and displays presented by welfare organizations and facilities.",
+   "url": "https://www.city.nerima.tokyo.jp/hokenfukushi/shogai/koryu/syogai_festival.html",
+   "sources": [
+    "Nerima City sightseeing events"
+   ],
+   "map": "Hikarigaoka Kumin Center and Hikarigaoka Park Fureai-no-Michi, 2-9-6 Hikarigaoka, Nerima",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-05T01:00:00Z",
+    "end": "2026-12-05T06:00:00Z",
+    "notes": "Enjoy food stalls, craft sales, and displays presented by welfare organizations and facilities.\n\nhttps://www.city.nerima.tokyo.jp/hokenfukushi/shogai/koryu/syogai_festival.html"
+   },
+   "firstSeen": "2026-11-05T00:25:32Z"
   },
   {
    "id": "b613d35acd",
