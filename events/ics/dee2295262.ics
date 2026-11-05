@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:dee2295262-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261206T000000Z
 DTEND:20261206T060000Z
 SUMMARY:Komazawa Olympic Park Flea Market
 LOCATION:Komazawa
-DESCRIPTION:This flea market features 300 stalls selling secondhand goods..
-  Market\n\nhttps://tokyocheapo.com/events/komazawa-olympic-park-flea-marke
- t/
+DESCRIPTION:This flea market features 300 stalls selling secondhand goods.\
+ n\nhttps://tokyocheapo.com/events/komazawa-olympic-park-flea-market/
 URL:https://tokyocheapo.com/events/komazawa-olympic-park-flea-market/
 END:VEVENT
 END:VCALENDAR

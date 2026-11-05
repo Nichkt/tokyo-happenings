@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2c440a36c4-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T000030Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
 SUMMARY:Flea Market at Ike Sun Park
 LOCATION:Ike Sun Park\, Toshima Ward
-DESCRIPTION:Hours: 9 AM–3 PM\n\nFlea market\n\nhttps://trx.jp/en/schejule
+DESCRIPTION:Hours: 9 AM–3 PM\n\nThis flea market in Ikebukuro is worth ch
+ ecking out.\n\nhttps://trx.jp/en/schejule
 URL:https://trx.jp/en/schejule
 END:VEVENT
 END:VCALENDAR

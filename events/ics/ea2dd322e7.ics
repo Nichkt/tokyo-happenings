@@ -5,14 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ea2dd322e7-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261128T000000Z
 DTEND:20261128T090000Z
 SUMMARY:Doburoku Festival
 LOCATION:Nihonbashi
 DESCRIPTION:At this festival\, home-brewed sake will be offered to visitors
- .. Drinks\, Festival\n\nhttps://tokyocheapo.com/events/doburoku-matsuri/
+ .\n\nhttps://tokyocheapo.com/events/doburoku-matsuri/
 URL:https://tokyocheapo.com/events/doburoku-matsuri/
 END:VEVENT
 END:VCALENDAR

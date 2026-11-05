@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:04b6754c87-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
 SUMMARY:Kamakura Hasedera Temple Autumn Illuminations
 LOCATION:Kamakura
 DESCRIPTION:See the beauty of autumn nights at Kamakura's Hasedera Temple I
- lluminations.. Illumination\, Nature\n\nhttps://tokyocheapo.com/events/kam
- akura-hasedera-temple-autumn-illuminations/
+ lluminations.\n\nhttps://tokyocheapo.com/events/kamakura-hasedera-temple-a
+ utumn-illuminations/
 URL:https://tokyocheapo.com/events/kamakura-hasedera-temple-autumn-illumina
  tions/
 END:VEVENT

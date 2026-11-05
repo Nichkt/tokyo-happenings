@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:a1eb48e823-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20270128T030000Z
 DTEND:20270128T060000Z
 SUMMARY:Manpukuji Hibushi Fire-Walking Festival
 LOCATION:Odawara
 DESCRIPTION:A traditional festival with fleet-footed monks running through 
- flames.. Festival\n\nhttps://tokyocheapo.com/events/manpukuji-hibushi-fire
- -walking-festival/
+ flames.\n\nhttps://tokyocheapo.com/events/manpukuji-hibushi-fire-walking-f
+ estival/
 URL:https://tokyocheapo.com/events/manpukuji-hibushi-fire-walking-festival/
 END:VEVENT
 END:VCALENDAR

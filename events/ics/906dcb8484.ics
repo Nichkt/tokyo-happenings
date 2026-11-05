@@ -5,14 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:906dcb8484-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T000030Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261121T000000Z
 DTEND:20261121T060000Z
 SUMMARY:MOTTAINAI Flea Market at Shinjuku Central Park
 LOCATION:Shinjuku Central Park\, Shinjuku Ward
-DESCRIPTION:Flea market\n\nhttps://trx.jp/en/schejule
+DESCRIPTION:This is considered a great spot to pick up some vintage items\,
+  but it's worth poring over the stalls at this popular spot near the Tokyo
+  Metropolitan building.\n\nhttps://trx.jp/en/schejule
 URL:https://trx.jp/en/schejule
 END:VEVENT
 END:VCALENDAR

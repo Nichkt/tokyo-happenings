@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:047a8a8cd1-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 TRANSP:TRANSPARENT
 SUMMARY:Chichibu Night Festival
 LOCATION:Chichibu
 DESCRIPTION:Hours: 5–10 PM\n\nHead out to Chichibu for one of Japan's big
- gest float festivals.. Festival\, Fireworks\n\nhttps://tokyocheapo.com/eve
- nts/chichibu-yomatsuri/
+ gest float festivals.\n\nhttps://tokyocheapo.com/events/chichibu-yomatsuri
+ /
 URL:https://tokyocheapo.com/events/chichibu-yomatsuri/
 END:VEVENT
 END:VCALENDAR

@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ac2068e6f0-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Tokyo Disney Christmas
 LOCATION:Tokyo Disney Resort\, Urayasu
 DESCRIPTION:Sparkling decorations and seasonal shows – that and more at T
- okyo Disneyland this festive season.. Festival\, Illumination\n\nhttps://t
- okyocheapo.com/events/tokyo-disney-christmas/
+ okyo Disneyland this festive season.\n\nhttps://tokyocheapo.com/events/tok
+ yo-disney-christmas/
 URL:https://tokyocheapo.com/events/tokyo-disney-christmas/
 END:VEVENT
 END:VCALENDAR

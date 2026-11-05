@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f269cb704e-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T000030Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Philippine Festival
 LOCATION:Yoyogi
 DESCRIPTION:Hours: 9 AM–8 PM\n\nOne of Japan's biggest events of the year
-  celebrating the Philippines.. Festival\n\nhttps://tokyocheapo.com/events/
- philippine-festival/
+  celebrating the Philippines.\n\nhttps://tokyocheapo.com/events/philippine
+ -festival/
 URL:https://tokyocheapo.com/events/philippine-festival/
 END:VEVENT
 END:VCALENDAR

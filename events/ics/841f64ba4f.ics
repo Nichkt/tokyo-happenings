@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:841f64ba4f-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261129T053000Z
 DTEND:20261129T130000Z
 SUMMARY:Edo Wave 2026: Tokyo International Music Fest
 LOCATION:Kabukicho
 DESCRIPTION:Explore some of Tokyo's best music and art at this unique music
-  event.. Music\n\nhttps://tokyocheapo.com/events/edo-wave/
+  event.\n\nhttps://tokyocheapo.com/events/edo-wave/
 URL:https://tokyocheapo.com/events/edo-wave/
 END:VEVENT
 END:VCALENDAR

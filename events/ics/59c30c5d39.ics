@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:59c30c5d39-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261108T070000Z
 DTEND:20261108T080000Z
 SUMMARY:Castells: Catalan Human Towers at Zojo-ji Temple
 LOCATION:Shibakoen
 DESCRIPTION:Catalan team Castellers de Vilafranca builds human towers at Zo
- jo-ji Temple.. Festival\, Show\n\nhttps://tokyocheapo.com/events/castells-
- catalan-human-towers-at-zojo-ji-temple/
+ jo-ji Temple.\n\nhttps://tokyocheapo.com/events/castells-catalan-human-tow
+ ers-at-zojo-ji-temple/
 URL:https://tokyocheapo.com/events/castells-catalan-human-towers-at-zojo-ji
  -temple/
 END:VEVENT

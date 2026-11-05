@@ -5,8 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e153332823-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261228
 TRANSP:TRANSPARENT
@@ -14,8 +15,8 @@ SUMMARY:Shibuya Vintage & Artisan Market
 LOCATION:Shibuya
 DESCRIPTION:Hours: 12–5 PM\n\nBrowse through racks of one-of-a-kind vinta
  ge fashion\, discover handmade candles\, accessories\, and home decor\, or
-  dig through rare rock and movie posters.....\n\nhttps://tokyocheapo.com/e
- vents/shibuya-vintage-artisan-market/20261226/
+  dig through rare rock and movie posters.\n\nhttps://tokyocheapo.com/event
+ s/shibuya-vintage-artisan-market/20261226/
 URL:https://tokyocheapo.com/events/shibuya-vintage-artisan-market/20261226/
 END:VEVENT
 END:VCALENDAR

@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:c24211475b-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
 SUMMARY:Shimokitazawa Flea Market
 LOCATION:Shimokitazawa
 DESCRIPTION:Hours: 12–5 PM\n\nFind your next dream flea market treasure a
- t this trendy market in Shimokitazawa.. Market\n\nhttps://tokyocheapo.com/
- events/shimokitazawa-flea-market/20261120/
+ t this trendy market in Shimokitazawa.\n\nhttps://tokyocheapo.com/events/s
+ himokitazawa-flea-market/20261120/
 URL:https://tokyocheapo.com/events/shimokitazawa-flea-market/20261120/
 END:VEVENT
 END:VCALENDAR

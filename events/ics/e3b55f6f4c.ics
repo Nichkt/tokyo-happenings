@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e3b55f6f4c-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261220T000000Z
 DTEND:20261220T070000Z
 SUMMARY:The Oedo Antique Market
 LOCATION:Yurakucho
 DESCRIPTION:One of Japan's largest outdoor antique markets — around 250 s
- talls\, and free to wander.. Market\n\nhttps://tokyocheapo.com/events/oedo
- -antique-market/20261220/
+ talls\, and free to wander.\n\nhttps://tokyocheapo.com/events/oedo-antique
+ -market/20261220/
 URL:https://tokyocheapo.com/events/oedo-antique-market/20261220/
 END:VEVENT
 END:VCALENDAR

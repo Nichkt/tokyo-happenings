@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:43f60b83f5-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:Ajinomoto Stadium BIG Flea Market
 LOCATION:Chofu
 DESCRIPTION:Spend a day hunting through the maze of stalls and sales in thi
- s enormous flea market and snag yourself some bargains!. Market\n\nhttps:/
- /tokyocheapo.com/events/ajinomoto-stadium-big-flea-market-2/
+ s enormous flea market and snag yourself some bargains!\n\nhttps://tokyoch
+ eapo.com/events/ajinomoto-stadium-big-flea-market-2/
 URL:https://tokyocheapo.com/events/ajinomoto-stadium-big-flea-market-2/
 END:VEVENT
 END:VCALENDAR

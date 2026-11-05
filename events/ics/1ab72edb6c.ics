@@ -5,9 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1ab72edb6c-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270106
 TRANSP:TRANSPARENT
@@ -16,8 +16,8 @@ LOCATION:Between Jingumae Intersection and Omotesando Intersection\, Omote-
  Sando Ave\, Tokyo
 DESCRIPTION:Hours: 5–10 PM\n\nWalking in a winter wonderland indeed\, thi
  s stretch of Omotesando's busy street lit up will have you feeling Christm
- assy in no time.. Illumination\n\nhttps://tokyocheapo.com/events/omotesand
- o-illuminations/
+ assy in no time.\n\nhttps://tokyocheapo.com/events/omotesando-illumination
+ s/
 URL:https://tokyocheapo.com/events/omotesando-illuminations/
 END:VEVENT
 END:VCALENDAR

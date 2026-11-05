@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:5324a14c28-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261227
 TRANSP:TRANSPARENT
 SUMMARY:Odaiba Rainbow Fireworks
 LOCATION:Odaiba
 DESCRIPTION:Odaiba Rainbow Fireworks is a rare winter fireworks event held 
- every Saturday in December.. Fireworks\n\nhttps://tokyocheapo.com/events/o
- daiba-rainbow-fireworks/
+ every Saturday in December.\n\nhttps://tokyocheapo.com/events/odaiba-rainb
+ ow-fireworks/
 URL:https://tokyocheapo.com/events/odaiba-rainbow-fireworks/
 END:VEVENT
 END:VCALENDAR

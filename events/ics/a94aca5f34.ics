@@ -5,16 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:a94aca5f34-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:2
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:3
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
 SUMMARY:Mount Takao Autumn Leaves Festival
 LOCATION:Hachioji
-DESCRIPTION:Hours: 10 AM–4 PM\n\nMount Takao Autumn Leaves Festival\n\nht
- tps://www.gotokyo.org/en/spot/ev074/index.html
+DESCRIPTION:Hours: 10 AM–4 PM\n\nJapan's autumn leaves are a sight to riv
+ al even the famous cherry blossom blooms\, and Mt Takao is one of the choi
+ cest spots to see them.\n\nhttps://www.gotokyo.org/en/spot/ev074/index.htm
+ l
 URL:https://www.gotokyo.org/en/spot/ev074/index.html
 END:VEVENT
 END:VCALENDAR

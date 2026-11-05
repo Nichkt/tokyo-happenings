@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f584cf9a2e-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:2
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:3
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
 SUMMARY:Hachioji Ginkgo Festival
 LOCATION:Hachioji
-DESCRIPTION:Hachioji Ginkgo Festival\n\nhttps://www.gotokyo.org/en/spot/ev1
- 22/index.html
+DESCRIPTION:Golden ginkgo trees\, festival stalls\, and a trail of old-styl
+ e checkpoints.\n\nhttps://www.gotokyo.org/en/spot/ev122/index.html
 URL:https://www.gotokyo.org/en/spot/ev122/index.html
 END:VEVENT
 END:VCALENDAR

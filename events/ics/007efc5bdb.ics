@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:007efc5bdb-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Cocoon City Christmas Market
 LOCATION:Saitama City
 DESCRIPTION:Hours: 12–10 PM\n\nWith a roster of rotating stalls\, it's a 
- different market each time.. Market\n\nhttps://tokyocheapo.com/events/coco
- on-city-christmas-market/
+ different market each time.\n\nhttps://tokyocheapo.com/events/cocoon-city-
+ christmas-market/
 URL:https://tokyocheapo.com/events/cocoon-city-christmas-market/
 END:VEVENT
 END:VCALENDAR

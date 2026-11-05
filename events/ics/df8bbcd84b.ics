@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:df8bbcd84b-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270111
 TRANSP:TRANSPARENT
 SUMMARY:Rockin’on Sonic 2027
 LOCATION:Ariake
 DESCRIPTION:Hours: 12 PM\n\nA two-day festival of international rock acts\,
-  from the team behind music magazine rockin'on.. Festival\, Music\n\nhttps
- ://tokyocheapo.com/events/rockin-on-sonic/
+  from the team behind music magazine rockin'on.\n\nhttps://tokyocheapo.com
+ /events/rockin-on-sonic/
 URL:https://tokyocheapo.com/events/rockin-on-sonic/
 END:VEVENT
 END:VCALENDAR

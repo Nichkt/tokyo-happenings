@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ba598c747e-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:52nd Kutsu no Megumi Shoe Festival
-DESCRIPTION:52nd Kutsu no Megumi Shoe Festival\n\nhttps://www.gotokyo.org/e
- n/spot/ev108/index.html
+DESCRIPTION:https://www.gotokyo.org/en/spot/ev108/index.html
 URL:https://www.gotokyo.org/en/spot/ev108/index.html
 END:VEVENT
 END:VCALENDAR

@@ -5,14 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ced3c5655a-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261127T210000Z
 DTEND:20261128T050000Z
 SUMMARY:Naritasan Kawagoe Betsuin Flea Market
 LOCATION:Kawagoe
-DESCRIPTION:Hunt for bargains in Little Edo.. Market\n\nhttps://tokyocheapo
- .com/events/naritasan-kawagoe-betsuin-flea-market/20261128/
+DESCRIPTION:Hunt for bargains in Little Edo.\n\nhttps://tokyocheapo.com/eve
+ nts/naritasan-kawagoe-betsuin-flea-market/20261128/
 URL:https://tokyocheapo.com/events/naritasan-kawagoe-betsuin-flea-market/20
  261128/
 END:VEVENT

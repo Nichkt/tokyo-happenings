@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:530c6d1ece-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
 SUMMARY:Tennoz Harbor Market
 LOCATION:Odaiba
 DESCRIPTION:Hours: 11 AM–4 PM\n\nIf you’re after something low-key but 
- creative\, this one’s an easy addition to your calendar.. Market\n\nhttp
- s://tokyocheapo.com/events/tennoz-harbor-market/20261121/
+ creative\, this one’s an easy addition to your calendar.\n\nhttps://toky
+ ocheapo.com/events/tennoz-harbor-market/20261121/
 URL:https://tokyocheapo.com/events/tennoz-harbor-market/20261121/
 END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:0c2f018eb6-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20270108T040000Z
 DTEND:20270108T053000Z
 SUMMARY:Torigoe Shrine Tondoyaki Bonfire
 LOCATION:Asakusa
 DESCRIPTION:Bring your New Year decorations to Torigoe Shrine and take part
-  in a tondoyaki ceremonial burning.. Festival\n\nhttps://tokyocheapo.com/e
- vents/torigoe-shrine-tondoyaki/
+  in a tondoyaki ceremonial burning.\n\nhttps://tokyocheapo.com/events/tori
+ goe-shrine-tondoyaki/
 URL:https://tokyocheapo.com/events/torigoe-shrine-tondoyaki/
 END:VEVENT
 END:VCALENDAR

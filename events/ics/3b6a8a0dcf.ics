@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3b6a8a0dcf-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
 SUMMARY:Gaigosai Festival
 LOCATION:Tama
 DESCRIPTION:Hours: 10 AM–6 PM\n\nA tour around the world without the need
-  for a passport.. Festival\n\nhttps://tokyocheapo.com/events/gaigosai-fest
- ival/
+  for a passport.\n\nhttps://tokyocheapo.com/events/gaigosai-festival/
 URL:https://tokyocheapo.com/events/gaigosai-festival/
 END:VEVENT
 END:VCALENDAR

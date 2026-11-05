@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:268748a0f8-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Adachi Luminous Night Festival 2026
-DESCRIPTION:Adachi Luminous Night Festival 2026\n\nhttps://www.gotokyo.org/
- en/spot/ev123/index.html
+DESCRIPTION:https://www.gotokyo.org/en/spot/ev123/index.html
 URL:https://www.gotokyo.org/en/spot/ev123/index.html
 END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1a22c7a234-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20270117
 TRANSP:TRANSPARENT
 SUMMARY:Setagaya Boro-ichi (Flea Market)
 LOCATION:Setagaya
-DESCRIPTION:Hours: 9 AM–8 PM\n\nSetagaya Boro-ichi (Flea Market)\n\nhttps
- ://www.gotokyo.org/en/spot/ev114/index.html
+DESCRIPTION:Hours: 9 AM–8 PM\n\nCheck out this flea market with more than
+  700 vendors.\n\nhttps://www.gotokyo.org/en/spot/ev114/index.html
 URL:https://www.gotokyo.org/en/spot/ev114/index.html
 END:VEVENT
 END:VCALENDAR

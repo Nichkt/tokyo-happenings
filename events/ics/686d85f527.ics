@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:686d85f527-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261221T000000Z
 DTEND:20261221T110000Z
 SUMMARY:End of Year Festival at Nishiarai Daishi Temple
 LOCATION:Nishiarai
 DESCRIPTION:Visit Nisharai Daishi Temple's end of year festival to buy luck
- y charms and festival food.. Market\n\nhttps://tokyocheapo.com/events/nish
- iarai-daishi-temple-end-year-festival/
+ y charms and festival food.\n\nhttps://tokyocheapo.com/events/nishiarai-da
+ ishi-temple-end-year-festival/
 URL:https://tokyocheapo.com/events/nishiarai-daishi-temple-end-year-festiva
  l/
 END:VEVENT

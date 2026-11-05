@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d25b022ce8-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
 SUMMARY:The Tokyo Art Book Fair
 LOCATION:Kiba
 DESCRIPTION:Art books and zines from Japan and abroad\, now in January at M
- OT.. Art\n\nhttps://tokyocheapo.com/events/tokyo-art-book-fair/
+ OT. Art\n\nhttps://tokyocheapo.com/events/tokyo-art-book-fair/
 URL:https://tokyocheapo.com/events/tokyo-art-book-fair/
 END:VEVENT
 END:VCALENDAR

@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d396c35fbf-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 TRANSP:TRANSPARENT
 SUMMARY:Sake Festival Nakameguro
 LOCATION:Nakameguro
 DESCRIPTION:Hours: 12–5:10 PM\n\nA festival for Japanese sake from all ar
- ound the country.. Drinks\, Food\n\nhttps://tokyocheapo.com/events/sake-fe
- stival-washu/
+ ound the country.\n\nhttps://tokyocheapo.com/events/sake-festival-washu/
 URL:https://tokyocheapo.com/events/sake-festival-washu/
 END:VEVENT
 END:VCALENDAR

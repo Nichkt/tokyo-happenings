@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:c244f879cf-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 TRANSP:TRANSPARENT
 SUMMARY:Furusato Shibuya Festival
 LOCATION:Yoyogi
 DESCRIPTION:Hours: 10 AM–4 PM\n\nShibuya's own two-day park festival: sta
- ges\, stalls and a school parade.. Festival\n\nhttps://tokyocheapo.com/eve
- nts/furusato-shibuya-festival/
+ ges\, stalls and a school parade.\n\nhttps://tokyocheapo.com/events/furusa
+ to-shibuya-festival/
 URL:https://tokyocheapo.com/events/furusato-shibuya-festival/
 END:VEVENT
 END:VCALENDAR

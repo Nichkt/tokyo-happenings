@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e502e47a02-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20270107T020000Z
 DTEND:20270107T040000Z
 SUMMARY:Daikon Radish Festival 2027
 LOCATION:Asakusa
 DESCRIPTION:At this festival\, daikon are offered to the god Shoden then gi
- ven to visitors.. Festival\, Food\n\nhttps://tokyocheapo.com/events/daikon
- -radish-festival/
+ ven to visitors.\n\nhttps://tokyocheapo.com/events/daikon-radish-festival/
 URL:https://tokyocheapo.com/events/daikon-radish-festival/
 END:VEVENT
 END:VCALENDAR

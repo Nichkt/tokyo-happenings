@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3a737a6de0-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T000030Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Yokohama Red Brick Warehouse Christmas Market
 LOCATION:Minatomirai
 DESCRIPTION:Hours: 11 AM–10 PM\n\nWander through the whimsical stalls sel
- ling traditional Christmas snacks and treats while wrapped up warm.. Marke
- t\n\nhttps://tokyocheapo.com/events/red-brick-warehouse-christmas-market/
+ ling traditional Christmas snacks and treats while wrapped up warm.\n\nhtt
+ ps://tokyocheapo.com/events/red-brick-warehouse-christmas-market/
 URL:https://tokyocheapo.com/events/red-brick-warehouse-christmas-market/
 END:VEVENT
 END:VCALENDAR

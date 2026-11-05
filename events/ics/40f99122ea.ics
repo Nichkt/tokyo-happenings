@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:40f99122ea-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261213T010000Z
 DTEND:20261213T070000Z
 SUMMARY:Tokyo Romantic Flea Market
 LOCATION:Ariake
-DESCRIPTION:Enjoy a sweet stroll around this antique Tokyo Flea Market.. Ma
- rket\n\nhttps://tokyocheapo.com/events/tokyo-romantic-flea-market/20261213
- /
+DESCRIPTION:Enjoy a sweet stroll around this antique Tokyo Flea Market.\n\n
+ https://tokyocheapo.com/events/tokyo-romantic-flea-market/20261213/
 URL:https://tokyocheapo.com/events/tokyo-romantic-flea-market/20261213/
 END:VEVENT
 END:VCALENDAR

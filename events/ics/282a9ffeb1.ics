@@ -5,8 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:282a9ffeb1-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
@@ -14,8 +15,8 @@ SUMMARY:Bungu Joshi Haku Stationery Festival
 LOCATION:Minatomirai
 DESCRIPTION:Hours: 10 AM–5 PM\n\nSpend this four day festival perusing ov
  er 50\,000 unique and limited items to customize your stationary package t
- o exactly your style.. Market\n\nhttps://tokyocheapo.com/events/bungu-josh
- i-haku-stationery-festival/
+ o exactly your style.\n\nhttps://tokyocheapo.com/events/bungu-joshi-haku-s
+ tationery-festival/
 URL:https://tokyocheapo.com/events/bungu-joshi-haku-stationery-festival/
 END:VEVENT
 END:VCALENDAR

@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:907e7a7b54-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261109
 TRANSP:TRANSPARENT
 SUMMARY:Koganei Autumn Illuminations
 LOCATION:Koganei
 DESCRIPTION:Koganei Park's trees and flowerbeds light up for free as part o
- f the Flower and Light Movement.. Illumination\, Nature\n\nhttps://tokyoch
- eapo.com/events/koganei-autumn-illuminations/
+ f the Flower and Light Movement.\n\nhttps://tokyocheapo.com/events/koganei
+ -autumn-illuminations/
 URL:https://tokyocheapo.com/events/koganei-autumn-illuminations/
 END:VEVENT
 END:VCALENDAR

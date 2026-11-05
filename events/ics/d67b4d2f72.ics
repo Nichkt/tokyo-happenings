@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d67b4d2f72-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
 TRANSP:TRANSPARENT
 SUMMARY:The 25th Dream Yosacoy Festival
-DESCRIPTION:The 25th Dream Yosacoy Festival\n\nhttps://www.gotokyo.org/en/s
- pot/ev147/index.html
+DESCRIPTION:https://www.gotokyo.org/en/spot/ev147/index.html
 URL:https://www.gotokyo.org/en/spot/ev147/index.html
 END:VEVENT
 END:VCALENDAR

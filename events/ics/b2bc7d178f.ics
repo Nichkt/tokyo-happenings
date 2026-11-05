@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:b2bc7d178f-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
 SUMMARY:Cheese Festa 2026
 LOCATION:Ebisu
 DESCRIPTION:What better way to celebrate Cheese Day than to visit Cheese Fe
- sta.. Food\n\nhttps://tokyocheapo.com/events/cheese-festa/
+ sta.\n\nhttps://tokyocheapo.com/events/cheese-festa/
 URL:https://tokyocheapo.com/events/cheese-festa/
 END:VEVENT
 END:VCALENDAR

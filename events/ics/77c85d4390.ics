@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:77c85d4390-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 TRANSP:TRANSPARENT
 SUMMARY:Shinjuku Tori-no-ichi Fair I
 LOCATION:Shinjuku
-DESCRIPTION:The first part of Shinjuku's Tori-no-Ichi Fair.. Festival\, Mar
- ket\n\nhttps://tokyocheapo.com/events/shinjuku-tori-no-ichi-fair/
+DESCRIPTION:The first part of Shinjuku's Tori-no-Ichi Fair.\n\nhttps://toky
+ ocheapo.com/events/shinjuku-tori-no-ichi-fair/
 URL:https://tokyocheapo.com/events/shinjuku-tori-no-ichi-fair/
 END:VEVENT
 END:VCALENDAR

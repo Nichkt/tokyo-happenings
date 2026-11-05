@@ -5,9 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2fd7befb05-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 TRANSP:TRANSPARENT
@@ -15,8 +15,8 @@ SUMMARY:Fuchu Tori-no-Ichi Fair I
 LOCATION:Fuchu
 DESCRIPTION:One of many Tori no Ichi festivals held across Japan\, Fuchu's 
  first installment includes a silent Kagura drama alongside the lucky rakes
-  and festival food.....\n\nhttps://tokyocheapo.com/events/fuchu-tori-no-ic
- hi-fair/
+  and festival food.\n\nhttps://tokyocheapo.com/events/fuchu-tori-no-ichi-f
+ air/
 URL:https://tokyocheapo.com/events/fuchu-tori-no-ichi-fair/
 END:VEVENT
 END:VCALENDAR

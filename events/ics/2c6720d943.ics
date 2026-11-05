@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2c6720d943-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261108T020000Z
 DTEND:20261108T030000Z
 SUMMARY:BiKN Shibuya
 LOCATION:Shibuya
 DESCRIPTION:One wristband\, four live houses\, a bunch of Asia's next big i
- ndie bands.. Festival\, Music\n\nhttps://tokyocheapo.com/events/bikn-shibu
- ya/
+ ndie bands.\n\nhttps://tokyocheapo.com/events/bikn-shibuya/
 URL:https://tokyocheapo.com/events/bikn-shibuya/
 END:VEVENT
 END:VCALENDAR

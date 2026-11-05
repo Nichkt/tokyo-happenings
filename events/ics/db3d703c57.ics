@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:db3d703c57-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261231
 TRANSP:TRANSPARENT
 SUMMARY:Yokohama Winter Illuminations (Yorunoyo)
 LOCATION:Yokohama
 DESCRIPTION:Hours: 5–9:05 PM\n\nYokohama's waters come to life with these
-  uniquely breathtaking illuminations.. Illumination\n\nhttps://tokyocheapo
- .com/events/yokohama-winter-illumination/
+  uniquely breathtaking illuminations.\n\nhttps://tokyocheapo.com/events/yo
+ kohama-winter-illumination/
 URL:https://tokyocheapo.com/events/yokohama-winter-illumination/
 END:VEVENT
 END:VCALENDAR

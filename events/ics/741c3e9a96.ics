@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:741c3e9a96-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
 SUMMARY:Autumn Evening Illumination at Rikugien Gardens
 LOCATION:Komagome
 DESCRIPTION:Hours: 6–8:30 PM\n\nA fall foliage viewing illumination event
- .. Illumination\n\nhttps://tokyocheapo.com/events/autumn-evening-illuminat
- ion-at-rikugien-gardens/
+ .\n\nhttps://tokyocheapo.com/events/autumn-evening-illumination-at-rikugie
+ n-gardens/
 URL:https://tokyocheapo.com/events/autumn-evening-illumination-at-rikugien-
  gardens/
 END:VEVENT

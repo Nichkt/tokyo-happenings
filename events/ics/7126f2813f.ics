@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:7126f2813f-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Moomin Valley Park Christmas
 LOCATION:Hanno
-DESCRIPTION:The Moomins\, famously\, have no idea what Christmas is.. Festi
- val\n\nhttps://tokyocheapo.com/events/moomin-valley-park-christmas/
+DESCRIPTION:The Moomins\, famously\, have no idea what Christmas is.\n\nhtt
+ ps://tokyocheapo.com/events/moomin-valley-park-christmas/
 URL:https://tokyocheapo.com/events/moomin-valley-park-christmas/
 END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:8c87f9db1f-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20270106T010000Z
 DTEND:20270106T060000Z
 SUMMARY:Tokyo Fire Department New Year Ceremony
 LOCATION:Ariake
 DESCRIPTION:This event is filled with emergency vehicles and performances t
- hat highlight the triumphs of the Tokyo Fire Department.. Show\n\nhttps://
- tokyocheapo.com/events/tokyo-fire-department-new-year-ceremony/
+ hat highlight the triumphs of the Tokyo Fire Department.\n\nhttps://tokyoc
+ heapo.com/events/tokyo-fire-department-new-year-ceremony/
 URL:https://tokyocheapo.com/events/tokyo-fire-department-new-year-ceremony/
 END:VEVENT
 END:VCALENDAR

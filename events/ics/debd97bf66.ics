@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:debd97bf66-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART:20261213T043000Z
 DTEND:20261213T130000Z
 SUMMARY:Japan Cumbia Festival 2026
 LOCATION:Kabukicho
 DESCRIPTION:Tangle with South American cumbia music at this unique cultural
-  music experience.. Music\n\nhttps://tokyocheapo.com/events/japan-cumbia-f
- estival/
+  music experience.\n\nhttps://tokyocheapo.com/events/japan-cumbia-festival
+ /
 URL:https://tokyocheapo.com/events/japan-cumbia-festival/
 END:VEVENT
 END:VCALENDAR

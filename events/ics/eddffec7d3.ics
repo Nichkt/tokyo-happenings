@@ -5,13 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:eddffec7d3-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
 SUMMARY:Mt. Mitake Autumn Leaves Festival (Tenku Momiji Matsuri)
-DESCRIPTION:Mt.\n\nhttps://www.gotokyo.org/en/spot/ev073/index.html
+DESCRIPTION:https://www.gotokyo.org/en/spot/ev073/index.html
 URL:https://www.gotokyo.org/en/spot/ev073/index.html
 END:VEVENT
 END:VCALENDAR

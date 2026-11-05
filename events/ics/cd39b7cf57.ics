@@ -5,14 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:cd39b7cf57-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
 SUMMARY:4th TOKYO Women and Children's Festival
-DESCRIPTION:4th TOKYO Women and Children's Festival\n\nhttps://www.yoyogipa
- rk.info/2026/tokyo-women-children-festival-2026-2/
+DESCRIPTION:https://www.yoyogipark.info/2026/tokyo-women-children-festival-
+ 2026-2/
 URL:https://www.yoyogipark.info/2026/tokyo-women-children-festival-2026-2/
 END:VEVENT
 END:VCALENDAR

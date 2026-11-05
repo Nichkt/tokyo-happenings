@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:133e9ad7f8-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
 SUMMARY:Meguro River Winter Illuminations
 LOCATION:Gotanda
 DESCRIPTION:Hours: 5–10 PM\n\nSee the famous cherry blossom view of Megur
- o River in winter — well\, sort of.. Illumination\n\nhttps://tokyocheapo
- .com/events/meguro-river-winter-illuminations/
+ o River in winter — well\, sort of.\n\nhttps://tokyocheapo.com/events/me
+ guro-river-winter-illuminations/
 URL:https://tokyocheapo.com/events/meguro-river-winter-illuminations/
 END:VEVENT
 END:VCALENDAR

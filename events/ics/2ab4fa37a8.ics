@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2ab4fa37a8-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T003606Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T003606Z
+DTSTAMP:20261105T013153Z
+SEQUENCE:2
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261215
 TRANSP:TRANSPARENT
 SUMMARY:The 47 Ronin Winter Festival
 LOCATION:Sengakuji
 DESCRIPTION:The 47 Ronin Winter Festival is a somber event that commemorate
- s the 47 ronin.. Festival\n\nhttps://tokyocheapo.com/events/the-47-ronin-w
- inter-festival/
+ s the 47 ronin.\n\nhttps://tokyocheapo.com/events/the-47-ronin-winter-fest
+ ival/
 URL:https://tokyocheapo.com/events/the-47-ronin-winter-festival/
 END:VEVENT
 END:VCALENDAR

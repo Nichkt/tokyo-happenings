@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ba1109a902-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T013153Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T013153Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
 SUMMARY:Heiwajima Antiques Fair
 LOCATION:Heiwajima
 DESCRIPTION:Hours: 10 AM–5 PM\n\nHeiwajima Antiques Festival is the place
-  for serious antique lovers.. Market\n\nhttps://tokyocheapo.com/events/hei
- wajima-antiques-fair/
+  for serious antique lovers.\n\nhttps://tokyocheapo.com/events/heiwajima-a
+ ntiques-fair/
 URL:https://tokyocheapo.com/events/heiwajima-antiques-fair/
 END:VEVENT
 END:VCALENDAR
