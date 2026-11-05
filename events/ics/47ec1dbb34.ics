@@ -5,11 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47ec1dbb34-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T003606Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T003606Z
 DTSTART:20261219T020000Z
 DTEND:20261219T080000Z
-SUMMARY:Kōenji Picnic Marche
+SUMMARY:Koenji Picnic Marche
 LOCATION:Koenji
 DESCRIPTION:Free monthly market with bread\, sweets\, coffee and crafts at 
  Flat Sugihachi in Koenji.. Food\, Market\n\nhttps://tokyocheapo.com/events

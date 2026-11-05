@@ -5,12 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e9b209375c-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T003606Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T003606Z
 DTSTART:20261114T060000Z
 DTEND:20261114T130000Z
 SUMMARY:Loud Women Fest Tokyo x Too Hot to Be Cool
-LOCATION:Kabukichō
+LOCATION:Kabukicho
 DESCRIPTION:Ten women-led and non-binary-led bands\, one night in Shinjuku\
  , every yen to wildlife conservation.. Charity\, Festival\, Music\n\nhttps
  ://tokyocheapo.com/events/loud-women-fest-tokyo-x-too-hot-to-be-cool/

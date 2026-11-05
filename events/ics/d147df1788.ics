@@ -5,12 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d147df1788-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T003606Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T003606Z
 DTSTART:20270112T043000Z
 DTEND:20270112T110000Z
-SUMMARY:Ōme Daruma Market
-LOCATION:Ōme
+SUMMARY:Ome Daruma Market
+LOCATION:Ome
 DESCRIPTION:Held on January 12 every year\, the nearly 200-year-old Ome Dar
  uma Market is not to be missed.\n\nhttps://tokyocheapo.com/events/ome-daru
  ma-market/

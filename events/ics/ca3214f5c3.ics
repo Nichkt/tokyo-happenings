@@ -5,12 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:ca3214f5c3-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T003606Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T003606Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
-SUMMARY:Tōbu Ikebukuro Christmas Market
+SUMMARY:Tobu Ikebukuro Christmas Market
 LOCATION:Ikebukuro
 DESCRIPTION:Hours: 11 AM–9 PM\n\nA free rooftop Christmas market with mul
  led wine and s'mores\, right above Ikebukuro Station.. Market\n\nhttps://t

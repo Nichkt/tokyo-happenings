@@ -5,12 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:faaee73823-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T003606Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T003606Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261216
 TRANSP:TRANSPARENT
-SUMMARY:Tomioka Hachimangū Shrine Antique Fair & Flea Market
+SUMMARY:Tomioka Hachimangu Shrine Antique Fair & Flea Market
 LOCATION:Fukagawa
 DESCRIPTION:Hours: 8 AM–3 PM\n\nThe antique fair leans toward curated\, h
  igher-value items\, while the flea market is more eclectic.. Market\n\nhtt

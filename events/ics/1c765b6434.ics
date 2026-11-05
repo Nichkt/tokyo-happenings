@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1c765b6434-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261105T003606Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T003606Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261220
 TRANSP:TRANSPARENT
-SUMMARY:Sensōji Temple Hagoita-Ichi Fair
+SUMMARY:Sensoji Temple Hagoita-Ichi Fair
 LOCATION:Asakusa
 DESCRIPTION:Hours: 10 AM–7:30 PM\n\nBuy hagoita (good luck charm bats) at
-  Sensōji Temple's Hagoita-Ichi Festival.. Market\n\nhttps://tokyocheapo.c
- om/events/senso-ji-hagoita-ichi/
+  Sensoji Temple's Hagoita-Ichi Festival.. Market\n\nhttps://tokyocheapo.co
+ m/events/senso-ji-hagoita-ichi/
 URL:https://tokyocheapo.com/events/senso-ji-hagoita-ichi/
 END:VEVENT
 END:VCALENDAR
