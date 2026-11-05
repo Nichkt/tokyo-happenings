@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6302a60049-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Fuchu Tori-no-Ichi Fair II
+LOCATION:Fuchu
+DESCRIPTION:An annual opportunity to improve your fortunes in the coming ye
+ ar\, Fuchu's Tori no Ichi festival comes in multiple installments and incl
+ udes a masked...\n\nhttps://tokyocheapo.com/events/fuchu-tori-no-ichi-fair
+ -ii/
+URL:https://tokyocheapo.com/events/fuchu-tori-no-ichi-fair-ii/
+END:VEVENT
+END:VCALENDAR

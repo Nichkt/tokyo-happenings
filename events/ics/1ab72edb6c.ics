@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ab72edb6c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270106
+TRANSP:TRANSPARENT
+SUMMARY:Omotesandō Illumination
+LOCATION:Between Jingumae Intersection and Omotesando Intersection\, Omote-
+ Sando Ave\, Tokyo\, Omotesandō
+DESCRIPTION:Hours: 5–10 PM\n\nWalking in a winter wonderland indeed\, thi
+ s stretch of Omotesandō's busy street lit up will have you feeling Christ
+ massy in no time.. Illumination\n\nhttps://tokyocheapo.com/events/omotesan
+ do-illuminations/
+URL:https://tokyocheapo.com/events/omotesando-illuminations/
+END:VEVENT
+END:VCALENDAR

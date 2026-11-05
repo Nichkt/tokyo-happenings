@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e623d47dd0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261108T010000Z
+DTEND:20261108T070000Z
+SUMMARY:“The Best Flea Market” (Yurakucho)
+LOCATION:Yurakucho
+DESCRIPTION:Think everything from kimono to ceramics\, and you'll understan
+ d why this market is called the best.\n\nhttps://tokyocheapo.com/events/be
+ st-flea-market/
+URL:https://tokyocheapo.com/events/best-flea-market/
+END:VEVENT
+END:VCALENDAR

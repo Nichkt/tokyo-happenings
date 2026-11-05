@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b704608363-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Hirosaki Neputa Asakusa Festival
+LOCATION:Asakusa
+DESCRIPTION:Hours: 10 AM–7 PM\n\nIf you can't get to Aomori for the Hiros
+ aki Neputa Festival\, the Hirosaki Neputa Asakusa Festival is the next bes
+ t thing.. Festival\n\nhttps://tokyocheapo.com/events/hirosaki-neputa-asaku
+ sa-festival/
+URL:https://tokyocheapo.com/events/hirosaki-neputa-asakusa-festival/
+END:VEVENT
+END:VCALENDAR

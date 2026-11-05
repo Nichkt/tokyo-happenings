@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27dabaa4a7-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Kameido Tenjin Chrysanthemum Festival
+LOCATION:Kameido
+DESCRIPTION:Held at Kameido Tenjin Shrine\, this chrysanthemum festival is 
+ small and beautifully constructed for you to really appreciate their natur
+ al beauty.. Show\n\nhttps://tokyocheapo.com/events/kameido-tenjin-chrysant
+ hemum-festival/
+URL:https://tokyocheapo.com/events/kameido-tenjin-chrysanthemum-festival/
+END:VEVENT
+END:VCALENDAR

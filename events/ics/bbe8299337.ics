@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbe8299337-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Ikebukuro Egg Festival 2026
+LOCATION:Ikebukuro
+DESCRIPTION:A celebration of raw eggs on rice\, this unique festival is a s
+ imple ode to the much-loved dish of tamago kake gohan and offers an all-yo
+ u-can-eat eggsperience...\n\nhttps://tokyocheapo.com/events/ikebukuro-egg-
+ festival/
+URL:https://tokyocheapo.com/events/ikebukuro-egg-festival/
+END:VEVENT
+END:VCALENDAR

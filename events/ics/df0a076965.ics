@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:df0a076965-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261226T083000Z
+DTEND:20261226T093000Z
+SUMMARY:Candlelight: A Night of Christmas Classics
+LOCATION:Ginza
+DESCRIPTION:Beat the Christmas chill with the classic sounds of Santa Claus
+ .. Music\n\nhttps://tokyocheapo.com/events/candlelight-a-night-of-christma
+ s-classics/
+URL:https://tokyocheapo.com/events/candlelight-a-night-of-christmas-classic
+ s/
+END:VEVENT
+END:VCALENDAR

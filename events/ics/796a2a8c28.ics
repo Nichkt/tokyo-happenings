@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:796a2a8c28-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261115T000000Z
+DTEND:20261115T063000Z
+SUMMARY:Kurimoto Furusato Sweet Potato Festival
+LOCATION:Sawara
+DESCRIPTION:Eat your fill of this winter treat as the cold closes in for wi
+ nter.\n\nhttps://tokyocheapo.com/events/kurimoto-furusato-sweet-potato-fes
+ tival/
+URL:https://tokyocheapo.com/events/kurimoto-furusato-sweet-potato-festival/
+END:VEVENT
+END:VCALENDAR

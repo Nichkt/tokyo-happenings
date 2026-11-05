@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff9972c7a0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T070000Z
+SUMMARY:Christmas Bazaar at Saint Maur International School
+LOCATION:Yokohama
+DESCRIPTION:Treat yourself to some Christmas goodies at the Christmas Bazaa
+ r.. Market\n\nhttps://tokyocheapo.com/events/christmas-bazaar-at-saint-mau
+ r-international-school/
+URL:https://tokyocheapo.com/events/christmas-bazaar-at-saint-maur-internati
+ onal-school/
+END:VEVENT
+END:VCALENDAR

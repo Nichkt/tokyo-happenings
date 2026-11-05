@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:572d654a5b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Oji Tori-no-Ichi Fair
+LOCATION:Ōji
+DESCRIPTION:Explore one of Tokyo's best kept secrets at this historic festi
+ val for fortune and prosperity.. Festival\n\nhttps://tokyocheapo.com/event
+ s/oji-tori-no-ichi-fair/
+URL:https://tokyocheapo.com/events/oji-tori-no-ichi-fair/
+END:VEVENT
+END:VCALENDAR

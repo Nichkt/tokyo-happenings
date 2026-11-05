@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3bd7506d50-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Art Week Tokyo
+LOCATION:Harajuku
+DESCRIPTION:The perfect excuse to travel around Tokyo and admire art at the
+  same time\, this week-long festival offers handy shuttle links\, a pletho
+ ra of exhibits and a fun...\n\nhttps://tokyocheapo.com/events/tokyo-art-we
+ ek/
+URL:https://tokyocheapo.com/events/tokyo-art-week/
+END:VEVENT
+END:VCALENDAR

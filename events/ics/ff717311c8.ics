@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff717311c8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:Jump Festa 2027
+LOCATION:Makuhari
+DESCRIPTION:Hours: 9 AM–5 PM\n\nBring out your inner Jump fan and enjoy a
+  day dedicated to your favorite anime series'.. Art\, Trade Show\n\nhttps:
+ //tokyocheapo.com/events/jump-festa/
+URL:https://tokyocheapo.com/events/jump-festa/
+END:VEVENT
+END:VCALENDAR

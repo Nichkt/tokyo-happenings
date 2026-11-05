@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6de21c0ebb-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Syukakusai 2026
+LOCATION:Marunouchi
+DESCRIPTION:Food fairs are more fun when you can get stuck in\, especially 
+ if you have little ones.\n\nhttps://tokyocheapo.com/events/tokyo-harvest-f
+ air/
+URL:https://tokyocheapo.com/events/tokyo-harvest-fair/
+END:VEVENT
+END:VCALENDAR

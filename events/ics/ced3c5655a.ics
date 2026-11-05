@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ced3c5655a-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261127T210000Z
+DTEND:20261128T050000Z
+SUMMARY:Naritasan Kawagoe Betsuin Flea Market
+LOCATION:Kawagoe
+DESCRIPTION:Hunt for bargains in Little Edo.. Market\n\nhttps://tokyocheapo
+ .com/events/naritasan-kawagoe-betsuin-flea-market/20261128/
+URL:https://tokyocheapo.com/events/naritasan-kawagoe-betsuin-flea-market/20
+ 261128/
+END:VEVENT
+END:VCALENDAR

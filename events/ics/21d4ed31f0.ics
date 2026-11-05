@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:21d4ed31f0-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T000030Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000030Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Tokyo Christmas Advent
 LOCATION:Ueno Park\, Taito
-DESCRIPTION:Festive holiday market and seasonal decorations welcome the win
- ter season.\n\nhttps://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/
- event
+DESCRIPTION:Hours: 12–11 PM\n\nFestive holiday market and seasonal decora
+ tions welcome the winter season.\n\nhttps://www.kensetsu.metro.tokyo.lg.jp
+ /jimusho/toubuk/ueno/event
 URL:https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/event
 END:VEVENT
 END:VCALENDAR

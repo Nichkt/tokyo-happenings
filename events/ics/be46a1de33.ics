@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:be46a1de33-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:Mottainai Flea Market
+LOCATION:Gotanda
+DESCRIPTION:This is the flea market to shop-til-you-drop — find second ha
+ nd clothes\, DVDs\, books\, anything you can think of.. Market\n\nhttps://
+ tokyocheapo.com/events/mottainai-flea-market/20261114/
+URL:https://tokyocheapo.com/events/mottainai-flea-market/20261114/
+END:VEVENT
+END:VCALENDAR

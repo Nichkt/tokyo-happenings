@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d2c81e8f1f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Midtown Christmas 2026
+LOCATION:Tokyo Midtown\, Akasaka
+DESCRIPTION:Hours: 5–11 PM\n\nThe Midtown illumination is an incredibly p
+ opular Christmas event.. Illumination\n\nhttps://tokyocheapo.com/events/mi
+ dtown-christmas/
+URL:https://tokyocheapo.com/events/midtown-christmas/
+END:VEVENT
+END:VCALENDAR

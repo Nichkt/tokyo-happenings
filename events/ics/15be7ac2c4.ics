@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15be7ac2c4-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261115T003000Z
+DTEND:20261115T093000Z
+SUMMARY:Ebina Citizens’ Festival 2026
+LOCATION:Ebina
+DESCRIPTION:Ebina celebrates with fireworks\, food stalls and festivities!.
+  Festival\n\nhttps://tokyocheapo.com/events/ebina-citizens-festival/
+URL:https://tokyocheapo.com/events/ebina-citizens-festival/
+END:VEVENT
+END:VCALENDAR

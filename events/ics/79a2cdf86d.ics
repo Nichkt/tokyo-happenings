@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:79a2cdf86d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo eSports Festa
+LOCATION:Ariake
+DESCRIPTION:Play\, learn\, and connect.. Tech\n\nhttps://tokyocheapo.com/ev
+ ents/tokyo-esports-festa/
+URL:https://tokyocheapo.com/events/tokyo-esports-festa/
+END:VEVENT
+END:VCALENDAR

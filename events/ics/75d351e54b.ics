@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:75d351e54b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Christmas Market 2026
+LOCATION:Shinjuku
+DESCRIPTION:Wander through the crowds with delicious German snacks and drin
+ ks\, while live music and illuminations really embrace the Yule spirit.. M
+ arket\n\nhttps://tokyocheapo.com/events/tokyo-christmas-market/
+URL:https://tokyocheapo.com/events/tokyo-christmas-market/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7822df85c1-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Keyaki Hiroba Christmas Market
+LOCATION:Saitama City
+DESCRIPTION:Hours: 12–9 PM\n\nThis Saitama Christmas market is just 40 mi
+ nutes from Shinjuku Station.. Illumination\, Market\n\nhttps://tokyocheapo
+ .com/events/tama-ari-town-christmas/
+URL:https://tokyocheapo.com/events/tama-ari-town-christmas/
+END:VEVENT
+END:VCALENDAR

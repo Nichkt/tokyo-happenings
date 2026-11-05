@@ -5,14 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:05b6fa5d2b-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T000030Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000030Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
 SUMMARY:Ohi Racecourse Tokyo City Flea Market
 LOCATION:Ohi Racecourse Tokyo City Flea Market\, Shinagawa Ward
-DESCRIPTION:Flea market\n\nhttps://trx.jp/en/schejule
+DESCRIPTION:Hours: 8:45 AM–2:15 PM\n\nFlea market\n\nhttps://trx.jp/en/sc
+ hejule
 URL:https://trx.jp/en/schejule
 END:VEVENT
 END:VCALENDAR

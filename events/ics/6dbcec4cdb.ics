@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6dbcec4cdb-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:Nagatoro Autumn Leaves Festival
+LOCATION:Chichibu
+DESCRIPTION:A secluded spot to see some of the most vibrant autumn leaves i
+ n Japan.. Festival\n\nhttps://tokyocheapo.com/events/nagatoro-autumn-leave
+ s-festival/
+URL:https://tokyocheapo.com/events/nagatoro-autumn-leaves-festival/
+END:VEVENT
+END:VCALENDAR

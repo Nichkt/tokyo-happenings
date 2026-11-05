@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3b6a8a0dcf-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Gaigosai Festival
+LOCATION:Tama
+DESCRIPTION:Hours: 10 AM–6 PM\n\nA tour around the world without the need
+  for a passport.. Festival\n\nhttps://tokyocheapo.com/events/gaigosai-fest
+ ival/
+URL:https://tokyocheapo.com/events/gaigosai-festival/
+END:VEVENT
+END:VCALENDAR

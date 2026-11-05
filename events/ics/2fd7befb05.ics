@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2fd7befb05-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Fuchū Tori-no-Ichi Fair I
+LOCATION:Fuchu
+DESCRIPTION:One of many Tori no Ichi festivals held across Japan\, Fuchu's 
+ first installment includes a silent Kagura drama alongside the lucky rakes
+  and festival food.....\n\nhttps://tokyocheapo.com/events/fuchu-tori-no-ic
+ hi-fair/
+URL:https://tokyocheapo.com/events/fuchu-tori-no-ichi-fair/
+END:VEVENT
+END:VCALENDAR

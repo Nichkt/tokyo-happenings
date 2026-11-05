@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67054c942c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Skytree Dream Christmas 2026
+LOCATION:Tokyo Skytree Town\, Oshiage
+DESCRIPTION:Hours: 5:30–10 PM\n\nSnack on yuletide treats at the base of 
+ what might be Japan's biggest Christmas tree.. Illumination\n\nhttps://tok
+ yocheapo.com/events/tokyo-sky-tree-dream-christmas/
+URL:https://tokyocheapo.com/events/tokyo-sky-tree-dream-christmas/
+END:VEVENT
+END:VCALENDAR

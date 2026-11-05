@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:841f64ba4f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261129T053000Z
+DTEND:20261129T130000Z
+SUMMARY:Edo Wave 2026: Tokyo International Music Fest
+LOCATION:Kabukichō
+DESCRIPTION:Explore some of Tokyo's best music and art at this unique music
+  event.. Music\n\nhttps://tokyocheapo.com/events/edo-wave/
+URL:https://tokyocheapo.com/events/edo-wave/
+END:VEVENT
+END:VCALENDAR

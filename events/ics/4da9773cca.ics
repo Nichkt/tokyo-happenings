@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:4da9773cca-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T000030Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000030Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
 SUMMARY:Fiesta de España 2026
-DESCRIPTION:Fiesta de España 2026\n\nhttps://www.yoyogipark.info/2026/fies
- ta-de-espana-2026-yoyogi/
-URL:https://www.yoyogipark.info/2026/fiesta-de-espana-2026-yoyogi/
+LOCATION:Harajuku
+DESCRIPTION:Hours: 10 AM–8 PM\n\nThe Fiesta de España is a celebration o
+ f Spanish culture held at Yoyogi Park Events Square.\n\nhttps://tokyocheap
+ o.com/events/fiesta-de-espana-tokyo/
+URL:https://tokyocheapo.com/events/fiesta-de-espana-tokyo/
 END:VEVENT
 END:VCALENDAR

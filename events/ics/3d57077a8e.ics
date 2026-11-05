@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3d57077a8e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261220T010000Z
+DTEND:20261220T070000Z
+SUMMARY:124th Wonderland Market
+LOCATION:Yokohama
+DESCRIPTION:A market specializing in miniature vintage cars.. Market\n\nhtt
+ ps://tokyocheapo.com/events/wonderland-market/
+URL:https://tokyocheapo.com/events/wonderland-market/
+END:VEVENT
+END:VCALENDAR

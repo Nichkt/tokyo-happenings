@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc924945cc-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Fuji-Kawaguchiko Fall Leaves Festival
+LOCATION:Kawaguchi
+DESCRIPTION:Hours: 9 AM–9 PM\n\nRevel in a traditional Japanese festival 
+ under the autumn leaves.\n\nhttps://tokyocheapo.com/events/fuji-kawaguchik
+ o-fall-leaves-festival/
+URL:https://tokyocheapo.com/events/fuji-kawaguchiko-fall-leaves-festival/
+END:VEVENT
+END:VCALENDAR

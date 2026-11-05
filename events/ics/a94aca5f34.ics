@@ -5,14 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:a94aca5f34-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T000030Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000030Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
 SUMMARY:Mount Takao Autumn Leaves Festival
-DESCRIPTION:Mount Takao Autumn Leaves Festival\n\nhttps://www.gotokyo.org/e
- n/spot/ev074/index.html
+LOCATION:Hachiōji
+DESCRIPTION:Hours: 10 AM–4 PM\n\nMount Takao Autumn Leaves Festival\n\nht
+ tps://www.gotokyo.org/en/spot/ev074/index.html
 URL:https://www.gotokyo.org/en/spot/ev074/index.html
 END:VEVENT
 END:VCALENDAR

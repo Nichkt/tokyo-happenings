@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:175b4823a9-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Dream Yosacoy (Yosakoi) Festival
+LOCATION:Marunouchi
+DESCRIPTION:Hours: 10:30 AM–9 PM\n\nYes\, that's how they spell it.\n\nht
+ tps://tokyocheapo.com/events/dream-yosacoy-festival/
+URL:https://tokyocheapo.com/events/dream-yosacoy-festival/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9aa20924c0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261123T010000Z
+DTEND:20261123T070000Z
+SUMMARY:Shibuya Street Dance Week
+LOCATION:Harajuku
+DESCRIPTION:Battles\, workshops\, and a brand-new kids' area at Yoyogi Park
+ 's one-day street dance festival.. Dance\n\nhttps://tokyocheapo.com/events
+ /shibuya-street-dance-week/
+URL:https://tokyocheapo.com/events/shibuya-street-dance-week/
+END:VEVENT
+END:VCALENDAR

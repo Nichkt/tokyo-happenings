@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c189c688f0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Design Festa Vol. 64: Fall Edition
+LOCATION:Odaiba
+DESCRIPTION:Hours: 10 AM–6 PM\n\nAn event for the artist in you.\n\nhttps
+ ://tokyocheapo.com/events/design-festa/
+URL:https://tokyocheapo.com/events/design-festa/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:867a84fc8f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T020000Z
+SUMMARY:Tokyo Santa Parade
+LOCATION:Harajuku
+DESCRIPTION:Ho ho ho!\n\nhttps://tokyocheapo.com/events/tokyo-great-santa-r
+ un/
+URL:https://tokyocheapo.com/events/tokyo-great-santa-run/
+END:VEVENT
+END:VCALENDAR

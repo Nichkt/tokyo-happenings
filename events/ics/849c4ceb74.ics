@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:849c4ceb74-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:Hakkeijima Sea Paradise Fireworks
+LOCATION:Yokohama and Kanagawa
+DESCRIPTION:Hours: 8:30–8:40 PM\n\nWatch 2\,500 digitally synchronized fi
+ reworks light up the summer night sky.. Fireworks\n\nhttps://tokyocheapo.c
+ om/events/hakkeijima-sea-paradise-fireworks/20261121/
+URL:https://tokyocheapo.com/events/hakkeijima-sea-paradise-fireworks/202611
+ 21/
+END:VEVENT
+END:VCALENDAR

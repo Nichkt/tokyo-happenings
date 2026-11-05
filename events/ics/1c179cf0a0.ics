@@ -5,12 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1c179cf0a0-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T000030Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000030Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261118
 TRANSP:TRANSPARENT
 SUMMARY:Takahata Fudoson Chrysanthemum Festival
+LOCATION:Tama
 DESCRIPTION:Takahata Fudoson Chrysanthemum Festival\n\nhttps://www.gotokyo.
  org/en/spot/ev138/index.html
 URL:https://www.gotokyo.org/en/spot/ev138/index.html

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b3173bfb2-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261206T060000Z
+DTEND:20261206T110000Z
+SUMMARY:Akibasan Fire Festival
+LOCATION:Odawara
+DESCRIPTION:This aptly named festival focuses on protection from fire.\n\nh
+ ttps://tokyocheapo.com/events/akibasan-fire-festival/
+URL:https://tokyocheapo.com/events/akibasan-fire-festival/
+END:VEVENT
+END:VCALENDAR

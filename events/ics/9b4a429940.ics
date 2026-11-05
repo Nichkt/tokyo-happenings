@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b4a429940-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261212T230000Z
+DTEND:20261213T060000Z
+SUMMARY:Shimo-Ochiai Flea Market
+LOCATION:Ochiai
+DESCRIPTION:Go shopping for antiques and curios at a Shinjuku area shrine..
+  Market\n\nhttps://tokyocheapo.com/events/shimo-ochiai-flea-market/
+URL:https://tokyocheapo.com/events/shimo-ochiai-flea-market/
+END:VEVENT
+END:VCALENDAR

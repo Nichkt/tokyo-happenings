@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:984c413911-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Japan Fisherman’s Festival
+LOCATION:Hibiya
+DESCRIPTION:Come prepared with an empty stomach to the Japan Fisherman's Fe
+ stival.\n\nhttps://tokyocheapo.com/events/japan-fishermans-festival/
+URL:https://tokyocheapo.com/events/japan-fishermans-festival/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3691d9c7a-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261223T100000Z
+DTEND:20261223T110500Z
+SUMMARY:Candlelight: Christmas Pop Hits
+LOCATION:Shinagawa
+DESCRIPTION:A string quartet warm your winter night with classic Christmas 
+ pop.. Music\n\nhttps://tokyocheapo.com/events/candlelight-christmas-pop-hi
+ ts/
+URL:https://tokyocheapo.com/events/candlelight-christmas-pop-hits/
+END:VEVENT
+END:VCALENDAR

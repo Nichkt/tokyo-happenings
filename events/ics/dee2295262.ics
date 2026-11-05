@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dee2295262-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T060000Z
+SUMMARY:Komazawa Olympic Park Flea Market
+LOCATION:Komazawa
+DESCRIPTION:This flea market features 300 stalls selling secondhand goods..
+  Market\n\nhttps://tokyocheapo.com/events/komazawa-olympic-park-flea-marke
+ t/
+URL:https://tokyocheapo.com/events/komazawa-olympic-park-flea-market/
+END:VEVENT
+END:VCALENDAR

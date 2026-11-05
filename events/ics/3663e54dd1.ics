@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3663e54dd1-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Shibuya Scramble Christmas
+LOCATION:Shibuya
+DESCRIPTION:Who knew Shibuya could shine brighter?\n\nhttps://tokyocheapo.c
+ om/events/shibuya-scramble-christmas/
+URL:https://tokyocheapo.com/events/shibuya-scramble-christmas/
+END:VEVENT
+END:VCALENDAR

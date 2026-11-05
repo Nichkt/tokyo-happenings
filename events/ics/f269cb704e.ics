@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:f269cb704e-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261105T000030Z
+SEQUENCE:1
+LAST-MODIFIED:20261105T000030Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
-SUMMARY:Philippine Festival Tokyo 2026
-DESCRIPTION:Philippine Festival Tokyo 2026\n\nhttps://www.yoyogipark.info/2
- 026/philippine-festival-tokyo-2026/
-URL:https://www.yoyogipark.info/2026/philippine-festival-tokyo-2026/
+SUMMARY:Philippine Festival
+LOCATION:Yoyogi
+DESCRIPTION:Hours: 9 AM–8 PM\n\nOne of Japan's biggest events of the year
+  celebrating the Philippines.. Festival\n\nhttps://tokyocheapo.com/events/
+ philippine-festival/
+URL:https://tokyocheapo.com/events/philippine-festival/
 END:VEVENT
 END:VCALENDAR

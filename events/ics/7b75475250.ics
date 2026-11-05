@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b75475250-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261115T050000Z
+DTEND:20261115T060000Z
+SUMMARY:Love Supreme Jazz Festival Japan
+LOCATION:Ariake
+DESCRIPTION:De La Soul with a live band\, and kids get in free.. Festival\,
+  Music\n\nhttps://tokyocheapo.com/events/love-supreme-jazz-festival-japan/
+URL:https://tokyocheapo.com/events/love-supreme-jazz-festival-japan/
+END:VEVENT
+END:VCALENDAR

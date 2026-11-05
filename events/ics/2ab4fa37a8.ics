@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ab4fa37a8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261215
+TRANSP:TRANSPARENT
+SUMMARY:The 47 Rōnin Winter Festival
+LOCATION:Sengakuji
+DESCRIPTION:The 47 Rōnin Winter Festival is a somber event that commemorat
+ es the 47 rōnin.. Festival\n\nhttps://tokyocheapo.com/events/the-47-ronin
+ -winter-festival/
+URL:https://tokyocheapo.com/events/the-47-ronin-winter-festival/
+END:VEVENT
+END:VCALENDAR

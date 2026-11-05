@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:edb8985173-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261105T000030Z
+SEQUENCE:0
+DTSTART:20261122T020000Z
+DTEND:20261122T080000Z
+SUMMARY:Akasaka Antique Market in Ark Hills
+LOCATION:Akasaka
+DESCRIPTION:Akasaka Antique Market in Ark Hills is one of the classier flea
+  markets in Tokyo.. Market\n\nhttps://tokyocheapo.com/events/akasaka-antiq
+ ue-market-ark-hills/
+URL:https://tokyocheapo.com/events/akasaka-antique-market-ark-hills/
+END:VEVENT
+END:VCALENDAR
