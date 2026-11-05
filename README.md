@@ -1,6 +1,6 @@
 # Tokyo Happenings website
 
-Public landing page for Tokyo Happenings, an Android app for the community events around Tokyo, in English. The app installs from this repository's [releases](https://github.com/Nichkt/tokyo-happenings/releases/latest).
+Public landing page for Tokyo Happenings, an Android app for the community events around Tokyo, in English. The app is on [Google Play](https://play.google.com/store/apps/details?id=com.nicholaston.happenings.tokyo).
 
 The site is deliberately static: plain HTML, CSS, and a small amount of JavaScript, with no analytics, trackers, external fonts, or build step.
 
@@ -22,9 +22,9 @@ Then open `http://127.0.0.1:4173/`.
 
 ## The app
 
-Each release has `TokyoHappenings.apk`, the signed release build. The page's download button links to the latest one:
+The page's buttons link to the app's Google Play listing:
 
-<https://github.com/Nichkt/tokyo-happenings/releases/latest/download/TokyoHappenings.apk>
+<https://play.google.com/store/apps/details?id=com.nicholaston.happenings.tokyo>
 
 ## Deployment
 
