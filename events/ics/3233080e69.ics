@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3233080e69-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261106T180745Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Coffee Festival (Winter)
+LOCATION:Aoyama
+DESCRIPTION:Hours: 11 AM–5 PM\n\nGet your caffeine fix and then some.\n\n
+ https://tokyocheapo.com/events/tokyo-coffee-festival/
+URL:https://tokyocheapo.com/events/tokyo-coffee-festival/
+END:VEVENT
+END:VCALENDAR

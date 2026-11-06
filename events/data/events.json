@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-06T07:18:52Z",
+ "generatedAt": "2026-11-06T18:07:45Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-06",
- "until": "2027-01-29",
+ "from": "2026-11-07",
+ "until": "2027-01-30",
  "regions": [
   {
    "id": "ADACHI",
@@ -191,7 +191,7 @@
   },
   {
    "name": "Arakawa City events",
-   "events": 4
+   "events": 5
   },
   {
    "name": "asakusajinja.jp",
@@ -223,7 +223,7 @@
   },
   {
    "name": "Machida City sightseeing events",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Meguro City events",
@@ -263,7 +263,7 @@
   },
   {
    "name": "Taito City events",
-   "events": 10
+   "events": 8
   },
   {
    "name": "Tokyo Cheapo",
@@ -271,7 +271,7 @@
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 21
+   "events": 22
   },
   {
    "name": "Tokyo Weekender",
@@ -882,36 +882,6 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "65faaa043a",
-   "series": "f7b54b0f7f",
-   "title": "Taito City Industry Fair",
-   "start": "2026-11-05",
-   "end": "2026-11-06",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Nov 5–6",
-   "time": "10 AM–5 PM",
-   "place": "Tokyo Metropolitan Industrial Trade Center Taito Hall",
-   "placeLines": "Tokyo Metropolitan Industrial Trade Center Taito Hall\n2-6-5 Hanakawado, Taito",
-   "region": "TAITO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Local businesses gather to showcase and sell unique products, crafts, and ideas from the neighborhood.",
-   "url": "https://www.city.taito.lg.jp/bunka_kanko/tiikidentou/jibasangyo/sangyo-fair.html",
-   "sources": [
-    "Taito City events"
-   ],
-   "map": "Tokyo Metropolitan Industrial Trade Center Taito Hall, 2-6-5 Hanakawado, Taito",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-05",
-    "end": "2026-11-07",
-    "notes": "Hours: 10 AM–5 PM\n\nLocal businesses gather to showcase and sell unique products, crafts, and ideas from the neighborhood.\n\nhttps://www.city.taito.lg.jp/bunka_kanko/tiikidentou/jibasangyo/sangyo-fair.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "31e6b78187",
    "series": "e609f02d71",
    "title": "Tokyo Skytree Town Picture Book Christmas Market",
@@ -1013,33 +983,6 @@
     "notes": "Hours: 5:30–10 PM\n\nSnack on yuletide treats at the base of what might be Japan's biggest Christmas tree.\n\nhttps://www.gotokyo.org/en/spot/ev165/index.html"
    },
    "firstSeen": "2026-11-05T18:51:23Z"
-  },
-  {
-   "id": "9d8ee14755",
-   "series": "0b0eaae0d0",
-   "title": "Fire Walking Ritual",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "dates": "Fri, Nov 6",
-   "place": "Akiba Shrine, Taito",
-   "placeLines": "Akiba Shrine, Taito\n3-10-7 Matsugaya, Taito",
-   "region": "TAITO",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Worshippers walk barefoot across burning embers to pray for good health and fire prevention.",
-   "url": "https://www.city.taito.lg.jp/event/kanko/hiwatarinoshinzi.html",
-   "sources": [
-    "Taito City events"
-   ],
-   "map": "Akiba Shrine, 3-10-7 Matsugaya, Taito",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-06",
-    "end": "2026-11-07",
-    "notes": "Worshippers walk barefoot across burning embers to pray for good health and fire prevention.\n\nhttps://www.city.taito.lg.jp/event/kanko/hiwatarinoshinzi.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "56e92a95bc",
@@ -1217,35 +1160,6 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
    "changed": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "3856c18692",
-   "series": "4d2fbdac4e",
-   "title": "Machinaka Cinema",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 1110,
-   "dates": "Fri, Nov 6",
-   "time": "6:30 PM",
-   "place": "Machida Terminal Plaza Civic Square",
-   "placeLines": "Machida Terminal Plaza Civic Square\n3-1-4 Haramachida, Machida",
-   "region": "TAMA",
-   "category": "OUTDOOR",
-   "cost": "Free",
-   "free": true,
-   "summary": "A popular movie is screened outdoors on a specially set up big screen.",
-   "url": "https://www.city.machida.tokyo.jp/kanko/miru_aso/ibe_gyou_matu/machinaka-cinema.html",
-   "sources": [
-    "Machida City sightseeing events"
-   ],
-   "map": "Machida Terminal Plaza Civic Square, 3-1-4 Haramachida, Machida",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-06T09:30:00Z",
-    "end": "2026-11-06T10:30:00Z",
-    "notes": "A popular movie is screened outdoors on a specially set up big screen.\n\nhttps://www.city.machida.tokyo.jp/kanko/miru_aso/ibe_gyou_matu/machinaka-cinema.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "2fd7befb05",
@@ -1463,42 +1377,6 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
    "changed": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "50d7cb3796",
-   "series": "4d79464ba6",
-   "title": "Ohi Racecourse Tokyo City Flea Market",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "startMinute": 525,
-   "endMinute": 855,
-   "dates": "Nov 7–8",
-   "time": "8:45 AM–2:15 PM",
-   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "region": "SHINAGAWA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.",
-   "description": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal ...",
-   "url": "https://trx.jp/en/schejule",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/08/ohi-racecourse-fleamarket-outdoors-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Recycle Movement flea markets",
-    "Tokyo Cheapo"
-   ],
-   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-09",
-    "notes": "Hours: 8:45 AM–2:15 PM\n\nOne of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
   },
   {
    "id": "cc924945cc",
@@ -1835,8 +1713,7 @@
    "image": "https://www.city.toshima.lg.jp/shared_images/thumbnail.png",
    "imageCredit": "Toshima City events",
    "sources": [
-    "Toshima City events",
-    "Tokyo Cheapo"
+    "Toshima City events"
    ],
    "map": "Toshima Ward Komagome Practical Training Center, 4-7-1 Komagome, Toshima",
    "calendar": {
@@ -2423,6 +2300,39 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "50d7cb3796",
+   "series": "4d79464ba6",
+   "title": "Ohi Racecourse Tokyo City Flea Market",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "dates": "Sun, Nov 8",
+   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "region": "SHINAGAWA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.",
+   "description": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal ...",
+   "url": "https://trx.jp/en/schejule",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/08/ohi-racecourse-fleamarket-outdoors-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Recycle Movement flea markets",
+    "Tokyo Cheapo"
+   ],
+   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-08",
+    "end": "2026-11-09",
+    "notes": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-04T21:05:06Z",
+   "revision": 3,
+   "changed": "2026-11-06T18:07:45Z"
   },
   {
    "id": "a68f4e18d7",
@@ -3874,6 +3784,38 @@
     "notes": "Hours: 10 AM–4 PM\n\nA large community festival combining local citizen celebrations, merchant stalls, and agricultural exhibits.\n\nhttps://www.city.tachikawa.lg.jp/kanko/bunka/1003079/1003107/1003131/1003133/1028529.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "17c97373ac",
+   "series": "1ccc1a0538",
+   "title": "Temple Marche",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sat, Nov 14",
+   "time": "10 AM–4 PM",
+   "place": "Saiko-ji, Arakawa",
+   "placeLines": "Saiko-ji, Arakawa\n5-16-19 Minamisenju, Arakawa",
+   "region": "ARAKAWA",
+   "category": "NIGHT_MARKET",
+   "cost": "¥1,000",
+   "free": false,
+   "summary": "Visitors can enjoy food trucks, mini games, live music, rakugo, and temple walks.",
+   "url": "https://www.city.arakawa.tokyo.jp/a022/event/eventkouenmeigi/teramarusher81114.html",
+   "image": "https://www.city.arakawa.tokyo.jp/images/46947/1793868294310.jpg",
+   "imageCredit": "Arakawa City events",
+   "sources": [
+    "Arakawa City events"
+   ],
+   "map": "Saiko-ji, 5-16-19 Minamisenju, Arakawa",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T01:00:00Z",
+    "end": "2026-11-14T07:00:00Z",
+    "notes": "Visitors can enjoy food trucks, mini games, live music, rakugo, and temple walks.\n\nhttps://www.city.arakawa.tokyo.jp/a022/event/eventkouenmeigi/teramarusher81114.html"
+   },
+   "firstSeen": "2026-11-06T18:07:45Z"
   },
   {
    "id": "92cd5e5003",
@@ -10652,6 +10594,62 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "6e75cf5040",
+   "series": "4d79464ba6",
+   "title": "Ohi Racecourse Tokyo City Flea Market",
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "dates": "Sat, Jan 30",
+   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "region": "SHINAGAWA",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-30",
+    "end": "2027-01-31",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-06T18:07:45Z"
+  },
+  {
+   "id": "3233080e69",
+   "series": "6cb5bbf277",
+   "title": "Tokyo Coffee Festival (Winter)",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "startMinute": 660,
+   "endMinute": 1020,
+   "dates": "Jan 30–31",
+   "time": "11 AM–5 PM",
+   "place": "Aoyama",
+   "placeLines": "Aoyama",
+   "region": "MINATO",
+   "category": "FOOD",
+   "cost": "Free",
+   "free": true,
+   "summary": "Get your caffeine fix and then some.",
+   "url": "https://tokyocheapo.com/events/tokyo-coffee-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/05/GettyImages-923370822-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Aoyama",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-30",
+    "end": "2027-02-01",
+    "notes": "Hours: 11 AM–5 PM\n\nGet your caffeine fix and then some.\n\nhttps://tokyocheapo.com/events/tokyo-coffee-festival/"
+   },
+   "firstSeen": "2026-11-06T18:07:45Z"
   },
   {
    "id": "120883b190",

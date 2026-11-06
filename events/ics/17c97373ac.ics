@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:17c97373ac-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261106T180745Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T070000Z
+SUMMARY:Temple Marche
+LOCATION:Saiko-ji\, 5-16-19 Minamisenju\, Arakawa
+DESCRIPTION:Visitors can enjoy food trucks\, mini games\, live music\, raku
+ go\, and temple walks.\n\nhttps://www.city.arakawa.tokyo.jp/a022/event/eve
+ ntkouenmeigi/teramarusher81114.html
+URL:https://www.city.arakawa.tokyo.jp/a022/event/eventkouenmeigi/teramarush
+ er81114.html
+END:VEVENT
+END:VCALENDAR
