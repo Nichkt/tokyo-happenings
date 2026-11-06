@@ -3,7 +3,7 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-05T19:52:51Z",
+ "generatedAt": "2026-11-06T07:18:52Z",
  "since": "2026-11-04T21:05:06Z",
  "from": "2026-11-06",
  "until": "2027-01-29",
@@ -259,7 +259,7 @@
   },
   {
    "name": "Tachikawa City events",
-   "events": 4
+   "events": 5
   },
   {
    "name": "Taito City events",
@@ -267,7 +267,7 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 175
+   "events": 176
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -279,7 +279,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 14
+   "events": 13
   },
   {
    "name": "Ueno Park events",
@@ -1149,39 +1149,6 @@
     "start": "2026-11-06",
     "end": "2026-11-13",
     "notes": "Hours: 9:30 AM–3:30 PM\n\nAdmire beautifully cultivated traditional chrysanthemum flowers grown by local enthusiasts.\n\nhttps://www.city.musashino.lg.jp/gomi_kankyo/midori_koen/event_midorinomachisuishin/1024886.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "d537528d7d",
-   "series": "cf4df9f041",
-   "title": "Childcare Festival",
-   "start": "2026-11-06",
-   "end": "2026-11-06",
-   "startMinute": 600,
-   "endMinute": 690,
-   "dates": "Fri, Nov 6",
-   "time": "10–11:30 AM",
-   "place": "Toshima Center Square",
-   "placeLines": "Toshima Center Square\n1-18-1 Minamiikebukuro, Toshima",
-   "region": "TOSHIMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Children can enjoy nursery school food recipes, height and weight measurements, picture book readings, and craft workshops.",
-   "url": "https://www.city.toshima.lg.jp/268/2607101643.html",
-   "image": "https://www.city.toshima.lg.jp/shared_images/96325119.png",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "Toshima Center Square, 1-18-1 Minamiikebukuro, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-06T01:00:00Z",
-    "end": "2026-11-06T02:30:00Z",
-    "notes": "Children can enjoy nursery school food recipes, height and weight measurements, picture book readings, and craft workshops.\n\nhttps://www.city.toshima.lg.jp/268/2607101643.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
   },
@@ -3232,8 +3199,8 @@
    "endMinute": 1320,
    "dates": "Nov 13–Dec 25",
    "time": "12–10 PM",
-   "place": "Tokyo Tower",
-   "placeLines": "Tokyo Tower",
+   "place": "Tokyo Tower, Shibakoen",
+   "placeLines": "Tokyo Tower, Shibakoen",
    "region": "MINATO",
    "category": "NIGHT_MARKET",
    "cost": "Free",
@@ -3244,16 +3211,19 @@
    "image": "https://www.tokyoweekender.com/wp-content/uploads/2026/11/main-2048x1365.jpg",
    "imageCredit": "Tokyo Weekender",
    "sources": [
-    "Tokyo Weekender"
+    "Tokyo Weekender",
+    "Tokyo Cheapo"
    ],
-   "map": "Tokyo Tower",
+   "map": "Tokyo Tower, Shibakoen",
    "calendar": {
     "allDay": true,
     "start": "2026-11-13",
     "end": "2026-12-26",
     "notes": "Hours: 12–10 PM\n\nGet into the holiday spirit with a magical European-inspired Christmas market right at the foot of Tokyo Tower.\n\nhttps://www.tokyoweekender.com/event/tokyo-tower-christmas-market/"
    },
-   "firstSeen": "2026-11-04T21:05:06Z"
+   "firstSeen": "2026-11-04T21:05:06Z",
+   "revision": 1,
+   "changed": "2026-11-06T07:18:52Z"
   },
   {
    "id": "9d1c8df40c",
@@ -5082,40 +5052,69 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "f59a3acf67",
-   "series": "555dea521d",
-   "title": "Tokyo Christmas Market",
+   "id": "bd605f300c",
+   "series": "945eead564",
+   "title": "Tokyo Christmas Market in Shin-Toyosu",
    "start": "2026-11-20",
    "end": "2026-12-25",
    "startMinute": 660,
    "endMinute": 1290,
    "dates": "Nov 20–Dec 25",
    "time": "11 AM–9:30 PM",
-   "place": "Meiji Jingu Gaien, Shibakoen",
-   "placeLines": "Meiji Jingu Gaien, Shibakoen",
-   "region": "MINATO",
+   "place": "Shin-toyosu Sakura Park",
+   "placeLines": "Shin-toyosu Sakura Park",
+   "region": "KOTO",
    "category": "NIGHT_MARKET",
    "cost": "Starting from ¥1000",
    "free": false,
-   "summary": "Tokyo Christmas Market will host its biggest ever event at Jingu Gaien and Shiba Park, featuring illuminations, live music, food and drinks. Shin-Kiba venue...",
-   "description": "Tokyo Christmas Market will host its biggest ever event at Jingu Gaien and Shiba Park, featuring illuminations, live music, food and drinks. Shin-Kiba venue will start on December 4 | Opening Day: 4:00 p.m. – 10:00 p.m. On November 20: 4:00 p.m.-9:30 p.m.; last admission at 8:30 p.m. and last...",
-   "url": "https://www.tokyoweekender.com/event/tokyo-christmas-market-2025/",
+   "summary": "Tokyo Christmas Market will host its biggest ever event at Shin-Toyosu and Shiba Park, featuring illuminations, live music, food and drinks. Shiba Park venue...",
+   "description": "Tokyo Christmas Market will host its biggest ever event at Shin-Toyosu and Shiba Park, featuring illuminations, live music, food and drinks. Shiba Park venue will start on December 4 On November 20: 4:00 p.m.-9:30 p.m.; last admission at 8:30 p.m. and last order at 9:00 p.m.",
+   "url": "https://www.tokyoweekender.com/event/tokyo-christmas-market-shin-toyosu/",
    "image": "https://www.tokyoweekender.com/wp-content/uploads/2025/11/sub19.jpeg",
    "imageCredit": "Tokyo Weekender",
    "sources": [
-    "Tokyo Weekender",
-    "Tokyo Cheapo"
+    "Tokyo Weekender"
    ],
-   "map": "Meiji Jingu Gaien, Shibakoen",
+   "map": "Shin-toyosu Sakura Park, Tokyo",
    "calendar": {
     "allDay": true,
     "start": "2026-11-20",
     "end": "2026-12-26",
-    "notes": "Hours: 11 AM–9:30 PM\n\nTokyo Christmas Market will host its biggest ever event at Jingu Gaien and Shiba Park, featuring illuminations, live music, food and drinks. Shin-Kiba venue...\n\nhttps://www.tokyoweekender.com/event/tokyo-christmas-market-2025/"
+    "notes": "Hours: 11 AM–9:30 PM\n\nTokyo Christmas Market will host its biggest ever event at Shin-Toyosu and Shiba Park, featuring illuminations, live music, food and drinks. Shiba Park venue...\n\nhttps://www.tokyoweekender.com/event/tokyo-christmas-market-shin-toyosu/"
    },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T00:00:30Z"
+   "firstSeen": "2026-11-06T07:18:52Z"
+  },
+  {
+   "id": "cb402e8181",
+   "series": "624ee6b495",
+   "title": "Yokohama Kannai Ballpark Xmas Market",
+   "start": "2026-11-20",
+   "end": "2026-12-25",
+   "startMinute": 660,
+   "endMinute": 1260,
+   "dates": "Nov 20–Dec 25",
+   "time": "11 AM–9 PM",
+   "place": "Kannai",
+   "placeLines": "Kannai",
+   "region": "FARTHER",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "A free German-style Christmas market and illumination in Yokohama Park, next to the baseball stadium.",
+   "url": "https://tokyocheapo.com/events/yokohama-kannai-ballpark-xmas-market/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/10/ballpark-xmas-yokohama-market-gate-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Kannai",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2026-12-26",
+    "notes": "Hours: 11 AM–9 PM\n\nA free German-style Christmas market and illumination in Yokohama Park, next to the baseball stadium.\n\nhttps://tokyocheapo.com/events/yokohama-kannai-ballpark-xmas-market/"
+   },
+   "firstSeen": "2026-11-06T07:18:52Z"
   },
   {
    "id": "3a737a6de0",
@@ -7121,6 +7120,38 @@
     "notes": "This lively neighborhood festival features portable shrines, food stalls, stage performances, and family-friendly activities.\n\nhttps://www.city.edogawa.tokyo.jp/event/46seikani.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "a14ff318d9",
+   "series": "e432bf26a4",
+   "title": "Takamatsuri Neo Autumn Festival",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "startMinute": 780,
+   "endMinute": 960,
+   "dates": "Sun, Nov 29",
+   "time": "1–4 PM",
+   "place": "Takamatsu Gakushukan, Tachikawa",
+   "placeLines": "Takamatsu Gakushukan, Tachikawa\n3-22-5 Takamatsu-cho, Tachikawa",
+   "region": "TAMA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "political": true,
+   "summary": "Children can enjoy traditional games, craft activities, stamp rallies, and dances planned by university students.",
+   "url": "https://www.city.tachikawa.lg.jp/event/e-kouza/1028617.html",
+   "sources": [
+    "Tachikawa City events"
+   ],
+   "map": "Takamatsu Gakushukan, 3-22-5 Takamatsu-cho, Tachikawa",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T04:00:00Z",
+    "end": "2026-11-29T07:00:00Z",
+    "notes": "Children can enjoy traditional games, craft activities, stamp rallies, and dances planned by university students.\n\nhttps://www.city.tachikawa.lg.jp/event/e-kouza/1028617.html"
+   },
+   "firstSeen": "2026-11-06T07:18:52Z"
   },
   {
    "id": "841f64ba4f",

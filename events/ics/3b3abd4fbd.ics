@@ -5,13 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3b3abd4fbd-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261106T071852Z
+SEQUENCE:1
+LAST-MODIFIED:20261106T071852Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
 SUMMARY:Tokyo Tower Christmas Market
-LOCATION:Tokyo Tower
+LOCATION:Tokyo Tower\, Shibakoen
 DESCRIPTION:Hours: 12–10 PM\n\nGet into the holiday spirit with a magical
   European-inspired Christmas market right at the foot of Tokyo Tower.\n\nh
  ttps://www.tokyoweekender.com/event/tokyo-tower-christmas-market/

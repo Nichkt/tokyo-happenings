@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd605f300c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261106T071852Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Tokyo Christmas Market in Shin-Toyosu
+LOCATION:Shin-toyosu Sakura Park\, Tokyo
+DESCRIPTION:Hours: 11 AM–9:30 PM\n\nTokyo Christmas Market will host its 
+ biggest ever event at Shin-Toyosu and Shiba Park\, featuring illuminations
+ \, live music\, food and drinks. Shiba Park venue...\n\nhttps://www.tokyow
+ eekender.com/event/tokyo-christmas-market-shin-toyosu/
+URL:https://www.tokyoweekender.com/event/tokyo-christmas-market-shin-toyosu
+ /
+END:VEVENT
+END:VCALENDAR

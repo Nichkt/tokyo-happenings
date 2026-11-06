@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb402e8181-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261106T071852Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Yokohama Kannai Ballpark Xmas Market
+LOCATION:Kannai
+DESCRIPTION:Hours: 11 AM–9 PM\n\nA free German-style Christmas market and
+  illumination in Yokohama Park\, next to the baseball stadium.\n\nhttps://
+ tokyocheapo.com/events/yokohama-kannai-ballpark-xmas-market/
+URL:https://tokyocheapo.com/events/yokohama-kannai-ballpark-xmas-market/
+END:VEVENT
+END:VCALENDAR

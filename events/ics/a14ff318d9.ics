@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a14ff318d9-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261106T071852Z
+SEQUENCE:0
+DTSTART:20261129T040000Z
+DTEND:20261129T070000Z
+SUMMARY:Takamatsuri Neo Autumn Festival
+LOCATION:Takamatsu Gakushukan\, 3-22-5 Takamatsu-cho\, Tachikawa
+DESCRIPTION:Children can enjoy traditional games\, craft activities\, stamp
+  rallies\, and dances planned by university students.\n\nhttps://www.city.
+ tachikawa.lg.jp/event/e-kouza/1028617.html
+URL:https://www.city.tachikawa.lg.jp/event/e-kouza/1028617.html
+END:VEVENT
+END:VCALENDAR
