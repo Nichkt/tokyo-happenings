@@ -4,15 +4,14 @@ PRODID:-//Nicholas Ton//Tokyo Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:50d7cb3796-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261106T180745Z
-SEQUENCE:3
-LAST-MODIFIED:20261106T180745Z
+UID:a701bf9d12-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261107T165527Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 TRANSP:TRANSPARENT
-SUMMARY:Ohi Racecourse Tokyo City Flea Market
-LOCATION:Ohi Racecourse Tokyo City Flea Market\, Shinagawa Ward
+SUMMARY:[OPEN] Ohi Racecourse Tokyo City Flea Market
+LOCATION:[OPEN] Ohi Racecourse Tokyo City Flea Market\, Shinagawa Ward
 DESCRIPTION:One of the biggest flea markets in Tokyo\, there's almost nothi
  ng you won't be able to find amongst the rows of stalls and tarps.\n\nhttp
  s://trx.jp/en/schejule

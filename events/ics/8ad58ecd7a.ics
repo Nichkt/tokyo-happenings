@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ad58ecd7a-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261107T165527Z
+SEQUENCE:0
+DTSTART:20270131T013000Z
+DTEND:20270131T070000Z
+SUMMARY:Wakuwaku Festa
+LOCATION:Hokutopia Basement Exhibition Hall\, 1-11-1 Oji\, Kita
+DESCRIPTION:Children can enjoy fun play corners\, craft activities\, and di
+ splays of artwork created by local children.\n\nhttps://www.city.kita.lg.j
+ p/children-edu/childcare/1002833/1008074/1026881.html
+URL:https://www.city.kita.lg.jp/children-edu/childcare/1002833/1008074/1026
+ 881.html
+END:VEVENT
+END:VCALENDAR

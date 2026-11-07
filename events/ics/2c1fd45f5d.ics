@@ -5,13 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2c1fd45f5d-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
-SEQUENCE:0
+DTSTAMP:20261107T165527Z
+SEQUENCE:1
+LAST-MODIFIED:20261107T165527Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261228
 TRANSP:TRANSPARENT
 SUMMARY:Shibuya Blue Cave Illumination
-LOCATION:Shibuya Koen Dori\, Tokyo
+LOCATION:Shibuya Koen Dori
 DESCRIPTION:Hours: 5–10 PM\n\nThis popular illumination creates an immers
  ive "blue cave" experience by covering a street near Yoyogi Park with hund
  reds of thousands of dazzling blue LED...\n\nhttps://www.tokyoweekender.co

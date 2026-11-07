@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-06T18:07:45Z",
+ "generatedAt": "2026-11-07T16:55:27Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-07",
- "until": "2027-01-30",
+ "from": "2026-11-08",
+ "until": "2027-01-31",
  "regions": [
   {
    "id": "ADACHI",
@@ -203,11 +203,11 @@
   },
   {
    "name": "Edogawa City events",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Fuchu City events",
-   "events": 3
+   "events": 2
   },
   {
    "name": "GO TOKYO",
@@ -215,11 +215,11 @@
   },
   {
    "name": "Katsushika City events",
-   "events": 9
+   "events": 7
   },
   {
    "name": "Kita City events",
-   "events": 2
+   "events": 3
   },
   {
    "name": "Machida City sightseeing events",
@@ -227,7 +227,7 @@
   },
   {
    "name": "Meguro City events",
-   "events": 12
+   "events": 11
   },
   {
    "name": "Minato City events",
@@ -243,7 +243,7 @@
   },
   {
    "name": "Nerima City sightseeing events",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Ota City events",
@@ -251,11 +251,11 @@
   },
   {
    "name": "Setagaya City events",
-   "events": 7
+   "events": 6
   },
   {
    "name": "Suginami City events",
-   "events": 12
+   "events": 11
   },
   {
    "name": "Tachikawa City events",
@@ -263,11 +263,11 @@
   },
   {
    "name": "Taito City events",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 176
+   "events": 172
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -279,7 +279,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 13
+   "events": 12
   },
   {
    "name": "Ueno Park events",
@@ -1162,37 +1162,6 @@
    "changed": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "2fd7befb05",
-   "series": "daaad21999",
-   "title": "Fuchu Tori-no-Ichi Fair I",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "dates": "Sat, Nov 7",
-   "place": "Fuchu",
-   "placeLines": "Fuchu",
-   "region": "TAMA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "One of many Tori no Ichi festivals held across Japan, Fuchu's first installment includes a silent Kagura drama alongside the lucky rakes and festival food.",
-   "url": "https://tokyocheapo.com/events/fuchu-tori-no-ichi-fair/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/11/tori-no-ichi-Edo-sato-kagura-Edo-folk-dance-for-entertaining-god-in-Fuchu-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Fuchu",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-08",
-    "notes": "One of many Tori no Ichi festivals held across Japan, Fuchu's first installment includes a silent Kagura drama alongside the lucky rakes and festival food.\n\nhttps://tokyocheapo.com/events/fuchu-tori-no-ichi-fair/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "731a172649",
    "series": "019115d73f",
    "title": "Local Green Festival",
@@ -1250,37 +1219,6 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "77c85d4390",
-   "series": "8c3dee70bd",
-   "title": "Shinjuku Tori-no-ichi Fair I",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "dates": "Sat, Nov 7",
-   "place": "Shinjuku",
-   "placeLines": "Shinjuku",
-   "region": "SHINJUKU",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "The first part of Shinjuku's Tori-no-Ichi Fair.",
-   "url": "https://tokyocheapo.com/events/shinjuku-tori-no-ichi-fair/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/05/iStock-1284674643-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shinjuku",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-08",
-    "notes": "The first part of Shinjuku's Tori-no-Ichi Fair.\n\nhttps://tokyocheapo.com/events/shinjuku-tori-no-ichi-fair/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "d67b4d2f72",
    "series": "44550ffa6d",
    "title": "The 25th Dream Yosacoy Festival",
@@ -1304,43 +1242,6 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "e0a25db61a",
-   "series": "ba2441c93d",
-   "title": "Tori-no-Ichi Fair",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 0,
-   "endMinute": 1440,
-   "dates": "Sat, Nov 7",
-   "time": "All day",
-   "place": "Otori Shrine and Chokoku-ji Temple, Taito",
-   "placeLines": "Otori Shrine and Chokoku-ji Temple, Taito",
-   "region": "TAITO",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "watch": true,
-   "summary": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.",
-   "url": "https://www.city.taito.lg.jp/event/kanko/torinoithi.html",
-   "image": "https://www.gotokyo.org/en/spot/ev090/images/ev090_gd10135_main_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "Taito City events",
-    "GO TOKYO",
-    "Tokyo Cheapo"
-   ],
-   "map": "Otori Shrine and Chokoku-ji Temple, Taito",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-08",
-    "notes": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.\n\nhttps://www.city.taito.lg.jp/event/kanko/torinoithi.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T00:25:32Z"
   },
   {
    "id": "9fc5e25b55",
@@ -1412,72 +1313,6 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "b0f2603e97",
-   "series": "fd34e1b7a9",
-   "title": "Makino Memorial Garden Flower Marche",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 540,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "9 AM–2 PM",
-   "place": "Makino Memorial Garden, Nerima",
-   "placeLines": "Makino Memorial Garden, Nerima\n6-34-4 Higashi-Oizumi, Nerima",
-   "region": "NERIMA",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Local growers sell plants and flowers alongside regional gourmet foods from Kochi.",
-   "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/annai/fukei/makinokinenteien/makinomarushe.html",
-   "sources": [
-    "Nerima City sightseeing events"
-   ],
-   "map": "Makino Memorial Garden, 6-34-4 Higashi-Oizumi, Nerima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T00:00:00Z",
-    "end": "2026-11-07T05:00:00Z",
-    "notes": "Local growers sell plants and flowers alongside regional gourmet foods from Kochi.\n\nhttps://www.city.nerima.tokyo.jp/kankomoyoshi/annai/fukei/makinokinenteien/makinomarushe.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "e448a5dbf0",
-   "series": "bd7461649c",
-   "title": "The Oedo Antique Market",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Sat, Nov 7",
-   "time": "9 AM–4 PM",
-   "place": "Yurakucho",
-   "placeLines": "Yurakucho",
-   "region": "CHIYODA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "watch": true,
-   "summary": "One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander.",
-   "url": "https://tokyocheapo.com/events/oedo-antique-market/20261107/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/12/Oedo-Antique-Market-CF-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo",
-    "antique-market.jp"
-   ],
-   "map": "Yurakucho",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T00:00:00Z",
-    "end": "2026-11-07T07:00:00Z",
-    "notes": "One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander.\n\nhttps://tokyocheapo.com/events/oedo-antique-market/20261107/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "7c6ce67800",
    "series": "39f75761bb",
    "title": "Art Marche",
@@ -1504,98 +1339,6 @@
     "start": "2026-11-07",
     "end": "2026-11-09",
     "notes": "Hours: 10 AM–3 PM\n\nEnjoy local food stalls, handmade crafts, workshops, and art-themed activities in the park.\n\nhttps://www.city.nerima.tokyo.jp/kankomoyoshi/bunka/artmarche/artmarche2026.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "cb61026455",
-   "series": "d56b26cfbc",
-   "title": "Asunaro Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–2 PM",
-   "place": "Asunaro Work Center, Suginami",
-   "placeLines": "Asunaro Work Center, Suginami\n1-3-4 Honan, Suginami",
-   "region": "SUGINAMI",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "This community welfare facility festival features Japanese taiko drumming, live music, a character photo session, food trucks, and balloon art.",
-   "url": "https://www.city.suginami.tokyo.jp/s036/event/28990.html",
-   "sources": [
-    "Suginami City events"
-   ],
-   "map": "Asunaro Work Center, 1-3-4 Honan, Suginami",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T05:00:00Z",
-    "notes": "This community welfare facility festival features Japanese taiko drumming, live music, a character photo session, food trucks, and balloon art.\n\nhttps://www.city.suginami.tokyo.jp/s036/event/28990.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "d8a76122d1",
-   "series": "f9cd50eabc",
-   "title": "Diwali Festa Nishi-Kasai",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 990,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–4:30 PM",
-   "place": "Takino Park, Edogawa",
-   "placeLines": "Takino Park, Edogawa\n3-22-1 Naka-Kasai, Edogawa",
-   "region": "EDOGAWA",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy traditional Indian dance, music, curry, sweets, and goods at this lively community festival.",
-   "url": "https://www.city.edogawa.tokyo.jp/event/261107dewali.html",
-   "image": "https://www.city.edogawa.tokyo.jp/images/73290/diwali2026.png",
-   "imageCredit": "Edogawa City events",
-   "sources": [
-    "Edogawa City events"
-   ],
-   "map": "Takino Park, 3-22-1 Naka-Kasai, Edogawa",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T07:30:00Z",
-    "notes": "Enjoy traditional Indian dance, music, curry, sweets, and goods at this lively community festival.\n\nhttps://www.city.edogawa.tokyo.jp/event/261107dewali.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "45cc07275b",
-   "series": "7d5c0dc95f",
-   "title": "Fuchu Handmade Market",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 1200,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–8 PM",
-   "place": "Foris 1F Hikari to Kaze no Hiroba Keyaki Hiroba, Fuchu",
-   "placeLines": "Foris 1F Hikari to Kaze no Hiroba Keyaki Hiroba, Fuchu\nFuchu",
-   "region": "TAMA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Local welfare workshops sell original baked goods, handmade crafts, and miscellaneous goods alongside fun games.",
-   "url": "https://www.city.fuchu.tokyo.jp/event/kenko/tedukuriiti2025.html",
-   "sources": [
-    "Fuchu City events"
-   ],
-   "map": "Foris 1F Hikari to Kaze no Hiroba Keyaki Hiroba, Fuchu",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T11:00:00Z",
-    "notes": "Local welfare workshops sell original baked goods, handmade crafts, and miscellaneous goods alongside fun games.\n\nhttps://www.city.fuchu.tokyo.jp/event/kenko/tedukuriiti2025.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
   },
@@ -1632,97 +1375,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "6a52391457",
-   "series": "ad93b51317",
-   "title": "Higashiyama Social Education Center Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "startMinute": 600,
-   "dates": "Nov 7–8",
-   "time": "10 AM",
-   "place": "Higashiyama Social Education Center, Meguro",
-   "placeLines": "Higashiyama Social Education Center, Meguro\n3-24-2 Higashiyama, Meguro",
-   "region": "MEGURO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Local groups showcase stage performances, art exhibitions, craft experiences, and special activities.",
-   "url": "https://www.city.meguro.tokyo.jp/shougaigakushuu/event/higashiyamakanmatsuri2026.html",
-   "sources": [
-    "Meguro City events"
-   ],
-   "map": "Higashiyama Social Education Center, 3-24-2 Higashiyama, Meguro",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-07",
-    "end": "2026-11-09",
-    "notes": "Hours: 10 AM\n\nLocal groups showcase stage performances, art exhibitions, craft experiences, and special activities.\n\nhttps://www.city.meguro.tokyo.jp/shougaigakushuu/event/higashiyamakanmatsuri2026.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "b7a33daa71",
-   "series": "71dfa71df4",
-   "title": "Kamiyon Saturday Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–3 PM",
-   "place": "Meguro City Kamiyon Kobo",
-   "placeLines": "Meguro City Kamiyon Kobo\n4-1-26 Kamimeguro, Meguro",
-   "region": "MEGURO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Visitors can enjoy homemade bread sales, a mini petting zoo, traditional storytelling, and game booths.",
-   "url": "https://www.city.meguro.tokyo.jp/shougaishisaku/event/kamiyonmatsuri.html",
-   "sources": [
-    "Meguro City events"
-   ],
-   "map": "Meguro City Kamiyon Kobo, 4-1-26 Kamimeguro, Meguro",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T06:00:00Z",
-    "notes": "Visitors can enjoy homemade bread sales, a mini petting zoo, traditional storytelling, and game booths.\n\nhttps://www.city.meguro.tokyo.jp/shougaishisaku/event/kamiyonmatsuri.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "aa0599268d",
-   "series": "c07d6ac4cd",
-   "title": "Komagome Autumn Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–2 PM",
-   "place": "Toshima Ward Komagome Practical Training Center",
-   "placeLines": "Toshima Ward Komagome Practical Training Center\n4-7-1 Komagome, Toshima",
-   "region": "TOSHIMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy handmade crafts, food trucks, game corners, and live stage performances in the community.",
-   "url": "https://www.city.toshima.lg.jp/586/shisetsu/fukushi/2608250830.html",
-   "image": "https://www.city.toshima.lg.jp/shared_images/thumbnail.png",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "Toshima Ward Komagome Practical Training Center, 4-7-1 Komagome, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T05:00:00Z",
-    "notes": "Enjoy handmade crafts, food trucks, game corners, and live stage performances in the community.\n\nhttps://www.city.toshima.lg.jp/586/shisetsu/fukushi/2608250830.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "ea30254da1",
@@ -1938,36 +1590,6 @@
     "start": "2026-11-07",
     "end": "2026-11-09",
     "notes": "Hours: 10 AM–3:30 PM\n\nDiscover local businesses, industrial history, and unique enterprises from across the neighborhood through interactive displays.\n\nhttps://www.city.suginami.tokyo.jp/s121/event/28589.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "d5fc9b942a",
-   "series": "98c9c85ead",
-   "title": "Unispo Carnival in Katsushika",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 7",
-   "time": "10 AM–4 PM",
-   "place": "Okudo Sports Center Gymnasium, Katsushika",
-   "placeLines": "Okudo Sports Center Gymnasium, Katsushika",
-   "region": "KATSUSHIKA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Everyone can try out universal sports and disability sports together.",
-   "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030213/1035526.html",
-   "sources": [
-    "Katsushika City events"
-   ],
-   "map": "Okudo Sports Center Gymnasium, Katsushika",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T01:00:00Z",
-    "end": "2026-11-07T07:00:00Z",
-    "notes": "Everyone can try out universal sports and disability sports together.\n\nhttps://www.city.katsushika.lg.jp/tourism/1002753/1030213/1035526.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
   },
@@ -2269,47 +1891,14 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "5bdc3d4e1c",
-   "series": "56ce2db70e",
-   "title": "Narita Fireworks Festival",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "startMinute": 1080,
-   "dates": "Sat, Nov 7",
-   "time": "6 PM",
-   "place": "Narita",
-   "placeLines": "Narita",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Check out this fall fireworks festival over in Chiba Prefecture.",
-   "url": "https://tokyocheapo.com/events/narita-hanabi-taikai/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/09/fireworks-GettyImages-1416838865-362x193.jpeg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Narita",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-07T09:00:00Z",
-    "end": "2026-11-07T10:00:00Z",
-    "notes": "Check out this fall fireworks festival over in Chiba Prefecture.\n\nhttps://tokyocheapo.com/events/narita-hanabi-taikai/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "50d7cb3796",
-   "series": "4d79464ba6",
-   "title": "Ohi Racecourse Tokyo City Flea Market",
+   "id": "a701bf9d12",
+   "series": "929fda09e1",
+   "title": "[OPEN] Ohi Racecourse Tokyo City Flea Market",
    "start": "2026-11-08",
    "end": "2026-11-08",
    "dates": "Sun, Nov 8",
-   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "place": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "region": "SHINAGAWA",
    "category": "NIGHT_MARKET",
    "cost": "Free",
@@ -2323,16 +1912,14 @@
     "Tokyo Recycle Movement flea markets",
     "Tokyo Cheapo"
    ],
-   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "map": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "calendar": {
     "allDay": true,
     "start": "2026-11-08",
     "end": "2026-11-09",
     "notes": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
    },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 3,
-   "changed": "2026-11-06T18:07:45Z"
+   "firstSeen": "2026-11-07T16:55:27Z"
   },
   {
    "id": "a68f4e18d7",
@@ -2460,36 +2047,6 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "99bb716b44",
-   "series": "0c33e40c41",
-   "title": "Katsushika International Exchange Festival",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "startMinute": 600,
-   "endMinute": 930,
-   "dates": "Sun, Nov 8",
-   "time": "10 AM–3:30 PM",
-   "place": "Katsushika Symphony Hills",
-   "placeLines": "Katsushika Symphony Hills",
-   "region": "KATSUSHIKA",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Experience international cultures, traditional Japanese play, and global foods.",
-   "url": "https://www.city.katsushika.lg.jp/information/1000087/1030269/1022739/1043758.html",
-   "sources": [
-    "Katsushika City events"
-   ],
-   "map": "Katsushika Symphony Hills",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-08T01:00:00Z",
-    "end": "2026-11-08T06:30:00Z",
-    "notes": "Experience international cultures, traditional Japanese play, and global foods.\n\nhttps://www.city.katsushika.lg.jp/information/1000087/1030269/1022739/1043758.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "e2c745c109",
    "series": "95cb4a7fff",
    "title": "Meguro City Eco Plaza Special Opening",
@@ -2518,6 +2075,35 @@
     "notes": "Enjoy special corner exhibits on weather and Earth, recycling shops, and feather product recycling.\n\nhttps://www.city.meguro.tokyo.jp/kankyouhozen/event/2026ecoplaza_rinjikaikan.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "450b8bf8d1",
+   "series": "86fee24e3a",
+   "title": "Meguro Honmachi Social Education Center Festival",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "startMinute": 600,
+   "dates": "Sun, Nov 8",
+   "time": "10 AM",
+   "place": "Meguro Honmachi Social Education Center",
+   "placeLines": "Meguro Honmachi Social Education Center\n2-1-20 Megurohonmachi, Meguro",
+   "region": "MEGURO",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Enjoy stage performances, art exhibitions, hands-on craft corners, and community-run food experiences.",
+   "url": "https://www.city.meguro.tokyo.jp/shougaigakushuu/event/08megurohonchou_festival.html",
+   "sources": [
+    "Meguro City events"
+   ],
+   "map": "Meguro Honmachi Social Education Center, 2-1-20 Megurohonmachi, Meguro",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-08T01:00:00Z",
+    "end": "2026-11-08T02:00:00Z",
+    "notes": "Enjoy stage performances, art exhibitions, hands-on craft corners, and community-run food experiences.\n\nhttps://www.city.meguro.tokyo.jp/shougaigakushuu/event/08megurohonchou_festival.html"
+   },
+   "firstSeen": "2026-11-07T16:55:27Z"
   },
   {
    "id": "547f3419f6",
@@ -2650,38 +2236,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "98036b79a7",
-   "series": "cb24fe29fd",
-   "title": "Triangle Festa",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "startMinute": 660,
-   "endMinute": 840,
-   "dates": "Sun, Nov 8",
-   "time": "11 AM–2 PM",
-   "place": "Soshigaya Park, Seijo-dori Park West Promenade, and Sophia University International Exchange Center, Setagaya",
-   "placeLines": "Soshigaya Park, Seijo-dori Park West Promenade, and Sophia University International Exchange Center, Setagaya",
-   "region": "SETAGAYA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy food stalls, game booths, vegetable sales, and mini steam train rides at this community festival.",
-   "url": "https://www.city.setagaya.lg.jp/01032/36355.html",
-   "image": "https://www.city.setagaya.lg.jp/images/36355/1.jpg",
-   "imageCredit": "Setagaya City events",
-   "sources": [
-    "Setagaya City events"
-   ],
-   "map": "Soshigaya Park, Seijo-dori Park West Promenade, and Sophia University International Exchange Center, Setagaya",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-08T02:00:00Z",
-    "end": "2026-11-08T05:00:00Z",
-    "notes": "Enjoy food stalls, game booths, vegetable sales, and mini steam train rides at this community festival.\n\nhttps://www.city.setagaya.lg.jp/01032/36355.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "cdd638da9e",
@@ -3786,9 +3340,9 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "17c97373ac",
-   "series": "1ccc1a0538",
-   "title": "Temple Marche",
+   "id": "9c5c8a1fc0",
+   "series": "4b5633b687",
+   "title": "Tera Marche",
    "start": "2026-11-14",
    "end": "2026-11-14",
    "startMinute": 600,
@@ -3801,7 +3355,7 @@
    "category": "NIGHT_MARKET",
    "cost": "¥1,000",
    "free": false,
-   "summary": "Visitors can enjoy food trucks, mini games, live music, rakugo, and temple walks.",
+   "summary": "Visitors can enjoy food trucks, stage performances, yoga sessions, and a local temple walk.",
    "url": "https://www.city.arakawa.tokyo.jp/a022/event/eventkouenmeigi/teramarusher81114.html",
    "image": "https://www.city.arakawa.tokyo.jp/images/46947/1793868294310.jpg",
    "imageCredit": "Arakawa City events",
@@ -3813,9 +3367,9 @@
     "allDay": false,
     "start": "2026-11-14T01:00:00Z",
     "end": "2026-11-14T07:00:00Z",
-    "notes": "Visitors can enjoy food trucks, mini games, live music, rakugo, and temple walks.\n\nhttps://www.city.arakawa.tokyo.jp/a022/event/eventkouenmeigi/teramarusher81114.html"
+    "notes": "Visitors can enjoy food trucks, stage performances, yoga sessions, and a local temple walk.\n\nhttps://www.city.arakawa.tokyo.jp/a022/event/eventkouenmeigi/teramarusher81114.html"
    },
-   "firstSeen": "2026-11-06T18:07:45Z"
+   "firstSeen": "2026-11-07T16:55:27Z"
   },
   {
    "id": "92cd5e5003",
@@ -4877,10 +4431,11 @@
    "watch": true,
    "summary": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.",
    "url": "https://www.city.taito.lg.jp/event/kanko/torinoithi.html",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/11/15823456105_c2299be55c_o-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
+   "image": "https://www.gotokyo.org/en/spot/ev090/images/ev090_gd10135_main_450.webp",
+   "imageCredit": "GO TOKYO",
    "sources": [
     "Taito City events",
+    "GO TOKYO",
     "Tokyo Cheapo"
    ],
    "map": "Otori Shrine and Chokoku-ji Temple, Taito",
@@ -5873,7 +5428,8 @@
    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/12/Oedo-Antique-Market-CF-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
-    "Tokyo Cheapo"
+    "Tokyo Cheapo",
+    "antique-market.jp"
    ],
    "map": "Yurakucho",
    "calendar": {
@@ -8167,16 +7723,19 @@
    "image": "https://www.tokyoweekender.com/wp-content/uploads/2025/11/illuminations-2025-blue-cave.jpg",
    "imageCredit": "Tokyo Weekender",
    "sources": [
-    "Tokyo Weekender"
+    "Tokyo Weekender",
+    "Tokyo Cheapo"
    ],
-   "map": "Shibuya Koen Dori, Tokyo",
+   "map": "Shibuya Koen Dori",
    "calendar": {
     "allDay": true,
     "start": "2026-12-11",
     "end": "2026-12-28",
     "notes": "Hours: 5–10 PM\n\nThis popular illumination creates an immersive \"blue cave\" experience by covering a street near Yoyogi Park with hundreds of thousands of dazzling blue LED...\n\nhttps://www.tokyoweekender.com/event/shibuya-blue-cave-illumination/"
    },
-   "firstSeen": "2026-11-04T21:05:06Z"
+   "firstSeen": "2026-11-04T21:05:06Z",
+   "revision": 1,
+   "changed": "2026-11-07T16:55:27Z"
   },
   {
    "id": "2607590d43",
@@ -10600,8 +10159,8 @@
    "series": "4d79464ba6",
    "title": "Ohi Racecourse Tokyo City Flea Market",
    "start": "2027-01-30",
-   "end": "2027-01-30",
-   "dates": "Sat, Jan 30",
+   "end": "2027-01-31",
+   "dates": "Jan 30–31",
    "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "region": "SHINAGAWA",
@@ -10614,10 +10173,12 @@
    "calendar": {
     "allDay": true,
     "start": "2027-01-30",
-    "end": "2027-01-31",
+    "end": "2027-02-01",
     "notes": "https://trx.jp/en/schejule"
    },
-   "firstSeen": "2026-11-06T18:07:45Z"
+   "firstSeen": "2026-11-06T18:07:45Z",
+   "revision": 1,
+   "changed": "2026-11-07T16:55:27Z"
   },
   {
    "id": "3233080e69",
@@ -10650,6 +10211,37 @@
     "notes": "Hours: 11 AM–5 PM\n\nGet your caffeine fix and then some.\n\nhttps://tokyocheapo.com/events/tokyo-coffee-festival/"
    },
    "firstSeen": "2026-11-06T18:07:45Z"
+  },
+  {
+   "id": "8ad58ecd7a",
+   "series": "12f449f17d",
+   "title": "Wakuwaku Festa",
+   "start": "2027-01-31",
+   "end": "2027-01-31",
+   "startMinute": 630,
+   "endMinute": 960,
+   "dates": "Sun, Jan 31",
+   "time": "10:30 AM–4 PM",
+   "place": "Hokutopia Basement Exhibition Hall, Kita",
+   "placeLines": "Hokutopia Basement Exhibition Hall, Kita\n1-11-1 Oji, Kita",
+   "region": "KITA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Children can enjoy fun play corners, craft activities, and displays of artwork created by local children.",
+   "url": "https://www.city.kita.lg.jp/children-edu/childcare/1002833/1008074/1026881.html",
+   "sources": [
+    "Kita City events"
+   ],
+   "map": "Hokutopia Basement Exhibition Hall, 1-11-1 Oji, Kita",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-31T01:30:00Z",
+    "end": "2027-01-31T07:00:00Z",
+    "notes": "Children can enjoy fun play corners, craft activities, and displays of artwork created by local children.\n\nhttps://www.city.kita.lg.jp/children-edu/childcare/1002833/1008074/1026881.html"
+   },
+   "firstSeen": "2026-11-07T16:55:27Z"
   },
   {
    "id": "120883b190",
