@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b1a7d4058-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261108T170806Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:Yui no Mori Festival Let us be a Hero
+LOCATION:Yui no Mori Arakawa\, 2-50-1 Arakawa\, Arakawa
+DESCRIPTION:Teens staff host fun booth events including book puzzle solving
+ \, capsule toy book searches\, and bookmark fishing.\n\nhttps://www.city.a
+ rakawa.tokyo.jp/a018/event/2026reading-promotion/teens_festival.html
+URL:https://www.city.arakawa.tokyo.jp/a018/event/2026reading-promotion/teen
+ s_festival.html
+END:VEVENT
+END:VCALENDAR
