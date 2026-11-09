@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e29506711b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261109T212949Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T080000Z
+SUMMARY:Tamagawa Basin Local Performing Arts Festival and Products Fair
+LOCATION:Ecorma Hall and Komae Station Hokomichi Area\, 1-2-1 Motoizumi\, K
+ omae
+DESCRIPTION:Enjoy traditional regional performing arts and regional product
+  stalls from municipalities along the Tamagawa River.\n\nhttps://www.city.
+ fuchu.tokyo.jp/event/bunka/22kyoudofes.html
+URL:https://www.city.fuchu.tokyo.jp/event/bunka/22kyoudofes.html
+END:VEVENT
+END:VCALENDAR

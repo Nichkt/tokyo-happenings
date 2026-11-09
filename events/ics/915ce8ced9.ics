@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:915ce8ced9-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261109T212949Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Hagiyama Park Autumn Leaves Light-Up
+LOCATION:Suburban West Tokyo
+DESCRIPTION:Hours: 5:30–8:30 PM\n\nFree: more than 100 Japanese maples li
+ t up in a dark Kodaira park\, a few minutes from the station.\n\nhttps://t
+ okyocheapo.com/events/hagiyama-park-autumn-light-up/
+URL:https://tokyocheapo.com/events/hagiyama-park-autumn-light-up/
+END:VEVENT
+END:VCALENDAR

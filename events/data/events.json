@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-08T17:08:06Z",
+ "generatedAt": "2026-11-09T21:29:49Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-09",
- "until": "2027-02-01",
+ "from": "2026-11-10",
+ "until": "2027-02-02",
  "regions": [
   {
    "id": "ADACHI",
@@ -207,7 +207,7 @@
   },
   {
    "name": "Fuchu City events",
-   "events": 2
+   "events": 3
   },
   {
    "name": "GO TOKYO",
@@ -219,7 +219,7 @@
   },
   {
    "name": "Kita City events",
-   "events": 3
+   "events": 4
   },
   {
    "name": "Machida City sightseeing events",
@@ -267,7 +267,7 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 154
+   "events": 155
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -4171,9 +4171,9 @@
    "start": "2026-11-22",
    "end": "2026-11-22",
    "startMinute": 660,
-   "endMinute": 1020,
+   "endMinute": 1080,
    "dates": "Sun, Nov 22",
-   "time": "11 AM–5 PM",
+   "time": "11 AM–6 PM",
    "place": "Akasaka",
    "placeLines": "Akasaka",
    "region": "MINATO",
@@ -4191,12 +4191,12 @@
    "calendar": {
     "allDay": false,
     "start": "2026-11-22T02:00:00Z",
-    "end": "2026-11-22T08:00:00Z",
+    "end": "2026-11-22T09:00:00Z",
     "notes": "Akasaka Antique Market in Ark Hills is one of the classier flea markets in Tokyo.\n\nhttps://tokyocheapo.com/events/akasaka-antique-market-ark-hills/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 2,
+   "changed": "2026-11-09T21:29:49Z"
   },
   {
    "id": "72d7aa4d70",
@@ -5155,6 +5155,37 @@
     "notes": "Hours: 5–5:30 PM\n\nIlluminated electric bicycles parade through the glowing park grounds playing music.\n\nhttps://www.city.arakawa.tokyo.jp/a038/eventkarenda-/parade11.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "915ce8ced9",
+   "series": "e095cb9e2d",
+   "title": "Hagiyama Park Autumn Leaves Light-Up",
+   "start": "2026-11-28",
+   "end": "2026-12-13",
+   "startMinute": 1050,
+   "endMinute": 1230,
+   "dates": "Nov 28–Dec 13",
+   "time": "5:30–8:30 PM",
+   "place": "Suburban West Tokyo",
+   "placeLines": "Suburban West Tokyo",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Free: more than 100 Japanese maples lit up in a dark Kodaira park, a few minutes from the station.",
+   "url": "https://tokyocheapo.com/events/hagiyama-park-autumn-light-up/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/hagiyama-park-light-up-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Suburban West Tokyo",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-28",
+    "end": "2026-12-14",
+    "notes": "Hours: 5:30–8:30 PM\n\nFree: more than 100 Japanese maples lit up in a dark Kodaira park, a few minutes from the station.\n\nhttps://tokyocheapo.com/events/hagiyama-park-autumn-light-up/"
+   },
+   "firstSeen": "2026-11-09T21:29:49Z"
   },
   {
    "id": "1f8e08079f",
@@ -6362,6 +6393,36 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "e29506711b",
+   "series": "eac42d2e62",
+   "title": "Tamagawa Basin Local Performing Arts Festival and Products Fair",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Sun, Dec 6",
+   "time": "10 AM–5 PM",
+   "place": "Ecorma Hall and Komae Station Hokomichi Area",
+   "placeLines": "Ecorma Hall and Komae Station Hokomichi Area\n1-2-1 Motoizumi, Komae",
+   "region": "TAMA",
+   "category": "CULTURAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Enjoy traditional regional performing arts and regional product stalls from municipalities along the Tamagawa River.",
+   "url": "https://www.city.fuchu.tokyo.jp/event/bunka/22kyoudofes.html",
+   "sources": [
+    "Fuchu City events"
+   ],
+   "map": "Ecorma Hall and Komae Station Hokomichi Area, 1-2-1 Motoizumi, Komae",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T01:00:00Z",
+    "end": "2026-12-06T08:00:00Z",
+    "notes": "Enjoy traditional regional performing arts and regional product stalls from municipalities along the Tamagawa River.\n\nhttps://www.city.fuchu.tokyo.jp/event/bunka/22kyoudofes.html"
+   },
+   "firstSeen": "2026-11-09T21:29:49Z"
+  },
+  {
    "id": "bc0e086632",
    "series": "ed8fea00f9",
    "title": "Welfare and Health Festival",
@@ -7031,9 +7092,9 @@
    "start": "2026-12-13",
    "end": "2026-12-13",
    "startMinute": 660,
-   "endMinute": 1020,
+   "endMinute": 1080,
    "dates": "Sun, Dec 13",
-   "time": "11 AM–5 PM",
+   "time": "11 AM–6 PM",
    "place": "Akasaka",
    "placeLines": "Akasaka",
    "region": "MINATO",
@@ -7051,12 +7112,12 @@
    "calendar": {
     "allDay": false,
     "start": "2026-12-13T02:00:00Z",
-    "end": "2026-12-13T08:00:00Z",
+    "end": "2026-12-13T09:00:00Z",
     "notes": "Akasaka Antique Market in Ark Hills is one of the classier flea markets in Tokyo.\n\nhttps://tokyocheapo.com/events/akasaka-antique-market-ark-hills/20261213/"
    },
    "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 2,
+   "changed": "2026-11-09T21:29:49Z"
   },
   {
    "id": "debd97bf66",
@@ -7779,6 +7840,36 @@
     "notes": "Local farmers offer fresh vegetables, eggs, flowers, and regional sweets.\n\nhttps://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/event/asaichi.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "466a4cf8e9",
+   "series": "bce2c48ae3",
+   "title": "Akabane Park Flea Market",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "startMinute": 540,
+   "endMinute": 900,
+   "dates": "Sun, Dec 20",
+   "time": "9 AM–3 PM",
+   "place": "Akabane Park, Kita",
+   "placeLines": "Akabane Park, Kita\n1-14-17 Akabaneminami, Kita",
+   "region": "KITA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Browse around fifty stalls offering secondhand household goods and recycled items.",
+   "url": "https://www.city.kita.lg.jp/living/bins/1002093/1026798.html",
+   "sources": [
+    "Kita City events"
+   ],
+   "map": "Akabane Park, 1-14-17 Akabaneminami, Kita",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-20T00:00:00Z",
+    "end": "2026-12-20T06:00:00Z",
+    "notes": "Browse around fifty stalls offering secondhand household goods and recycled items.\n\nhttps://www.city.kita.lg.jp/living/bins/1002093/1026798.html"
+   },
+   "firstSeen": "2026-11-09T21:29:49Z"
   },
   {
    "id": "e3b55f6f4c",
