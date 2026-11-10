@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9dd857c254-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART:20270203T010000Z
+DTEND:20270203T050000Z
+SUMMARY:Bean Throwing and Dance of the 7 Lucky Gods
+LOCATION:Asakusa
+DESCRIPTION:Ward off bad luck by throwing beans and dancing at this setsubu
+ n celebration.\n\nhttps://tokyocheapo.com/events/bean-throwing-dance-7-luc
+ ky-gods/
+URL:https://tokyocheapo.com/events/bean-throwing-dance-7-lucky-gods/
+END:VEVENT
+END:VCALENDAR

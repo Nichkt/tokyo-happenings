@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2585e3645d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T060000Z
+SUMMARY:Nakano Eco Fair
+LOCATION:Nakano City Office Hall\, 4-11-19 Nakano\, Nakano
+DESCRIPTION:Visitors can enjoy eco-friendly lifestyle exhibits\, chopstick 
+ and strap-making workshops\, and a quiz rally.\n\nhttps://www.city.tokyo-n
+ akano.lg.jp/kurashi/kankyo/ondankataisaku/ecofair/ecofair2026.html
+URL:https://www.city.tokyo-nakano.lg.jp/kurashi/kankyo/ondankataisaku/ecofa
+ ir/ecofair2026.html
+END:VEVENT
+END:VCALENDAR

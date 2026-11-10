@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f53505404e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Roof Park Art Fes on the KK Line (Tokyo Sky Corridor)
+LOCATION:Ginza
+DESCRIPTION:Hours: 5–8:30 PM\n\nGlowing sculptures and a timber-and-acrob
+ ats circus on Ginza's retired expressway\, open on foot for nine nights.\n
+ \nhttps://tokyocheapo.com/events/roof-park-art-fes-kk-line/
+URL:https://tokyocheapo.com/events/roof-park-art-fes-kk-line/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3838d0b54-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T050000Z
+SUMMARY:Seseragi Marche En-Ichiba
+LOCATION:Denenchofu Seseragi-kan\, Ota
+DESCRIPTION:Visitors can purchase baked sweets\, cookies\, rice crackers\, 
+ and handmade crafts made in local welfare facilities.\n\nhttps://www.city.
+ ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/o-musubi_20261115.html
+URL:https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/o-m
+ usubi_20261115.html
+END:VEVENT
+END:VCALENDAR

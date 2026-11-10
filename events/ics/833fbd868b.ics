@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:833fbd868b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART:20261122T040000Z
+DTEND:20261122T070000Z
+SUMMARY:Magokoro Marche
+LOCATION:Magokoro Donuts Youth Free Space\, 1-41-2 Chuo\, Nakano
+DESCRIPTION:Everyone can enjoy plastic plate crafting\, retro games\, portr
+ ait corners\, and baked goods from welfare facilities.\n\nhttps://www.city
+ .tokyo-nakano.lg.jp/kosodate/wakamonoshien/magokoromarche.html
+URL:https://www.city.tokyo-nakano.lg.jp/kosodate/wakamonoshien/magokoromarc
+ he.html
+END:VEVENT
+END:VCALENDAR

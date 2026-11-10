@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ac42fe8715-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Otaguro Park Autumn Illumination
+LOCATION:Ogikubo
+DESCRIPTION:Take a walk and enjoy the changing colors of the autumn leaves 
+ even at night in Ogikubo.\n\nhttps://tokyocheapo.com/events/otaguro-park-a
+ utumn-illumination/
+URL:https://tokyocheapo.com/events/otaguro-park-autumn-illumination/
+END:VEVENT
+END:VCALENDAR

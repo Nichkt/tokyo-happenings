@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3475876e7d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+SUMMARY:Mt. Takao Setsubun
+LOCATION:Hachioji
+DESCRIPTION:Join the throngs of people in throwing beans to cleanse misfort
+ une on the slopes of Mt Takao.\n\nhttps://tokyocheapo.com/events/mt-takao-
+ setsubun/
+URL:https://tokyocheapo.com/events/mt-takao-setsubun/
+END:VEVENT
+END:VCALENDAR

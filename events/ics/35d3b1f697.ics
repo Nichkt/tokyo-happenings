@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:35d3b1f697-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART:20261123T010000Z
+DTEND:20261123T053000Z
+SUMMARY:Wanpaku Festival
+LOCATION:Toshima City General Gymnasium\, 2-45-1 Minamiikebukuro\, Toshima
+DESCRIPTION:Children can enjoy ladder truck experiences\, craft workshops\,
+  quiz corners\, and stage performances.\n\nhttps://www.city.toshima.lg.jp/
+ 231/2609151435.html
+URL:https://www.city.toshima.lg.jp/231/2609151435.html
+END:VEVENT
+END:VCALENDAR

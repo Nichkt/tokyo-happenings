@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-09T21:29:49Z",
+ "generatedAt": "2026-11-10T18:43:58Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-10",
- "until": "2027-02-02",
+ "from": "2026-11-11",
+ "until": "2027-02-03",
  "regions": [
   {
    "id": "ADACHI",
@@ -186,12 +186,8 @@
  ],
  "sources": [
   {
-   "name": "antique-market.jp",
-   "events": 1
-  },
-  {
    "name": "Arakawa City events",
-   "events": 6
+   "events": 5
   },
   {
    "name": "asakusajinja.jp",
@@ -239,7 +235,7 @@
   },
   {
    "name": "Nakano City events",
-   "events": 2
+   "events": 4
   },
   {
    "name": "Nerima City sightseeing events",
@@ -247,7 +243,7 @@
   },
   {
    "name": "Ota City events",
-   "events": 1
+   "events": 2
   },
   {
    "name": "Setagaya City events",
@@ -267,7 +263,7 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 155
+   "events": 160
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -279,7 +275,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 11
+   "events": 12
   },
   {
    "name": "Ueno Park events",
@@ -1127,38 +1123,6 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "f06aaf0118",
-   "series": "317dfe67fc",
-   "title": "Arakawa Fureai Market",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Tue, Nov 10",
-   "time": "10 AM–2 PM",
-   "place": "Arakawa Park Exhibition Hall",
-   "placeLines": "Arakawa Park Exhibition Hall\n2-2-3 Arakawa, Arakawa",
-   "region": "ARAKAWA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Handmade bread, crafts, and goods made by local welfare facility users are sold.",
-   "url": "https://www.city.arakawa.tokyo.jp/a030/r8-3fureai.html",
-   "image": "https://www.city.arakawa.tokyo.jp/images/46071/chirashi_2.jpg",
-   "imageCredit": "Arakawa City events",
-   "sources": [
-    "Arakawa City events"
-   ],
-   "map": "Arakawa Park Exhibition Hall, 2-2-3 Arakawa, Arakawa",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-10T01:00:00Z",
-    "end": "2026-11-10T05:00:00Z",
-    "notes": "Handmade bread, crafts, and goods made by local welfare facility users are sold.\n\nhttps://www.city.arakawa.tokyo.jp/a030/r8-3fureai.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "b2bc7d178f",
    "series": "74f1cf34f2",
    "title": "Cheese Festa 2026",
@@ -1979,6 +1943,36 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "2585e3645d",
+   "series": "5338da4e75",
+   "title": "Nakano Eco Fair",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Sat, Nov 14",
+   "time": "10 AM–3 PM",
+   "place": "Nakano City Office Hall",
+   "placeLines": "Nakano City Office Hall\n4-11-19 Nakano, Nakano",
+   "region": "NAKANO",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Visitors can enjoy eco-friendly lifestyle exhibits, chopstick and strap-making workshops, and a quiz rally.",
+   "url": "https://www.city.tokyo-nakano.lg.jp/kurashi/kankyo/ondankataisaku/ecofair/ecofair2026.html",
+   "sources": [
+    "Nakano City events"
+   ],
+   "map": "Nakano City Office Hall, 4-11-19 Nakano, Nakano",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-14T01:00:00Z",
+    "end": "2026-11-14T06:00:00Z",
+    "notes": "Visitors can enjoy eco-friendly lifestyle exhibits, chopstick and strap-making workshops, and a quiz rally.\n\nhttps://www.city.tokyo-nakano.lg.jp/kurashi/kankyo/ondankataisaku/ecofair/ecofair2026.html"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
    "id": "a7c33e089c",
    "series": "460fba44ec",
    "title": "Nikowa Shinkoiwa Festival",
@@ -2772,6 +2766,36 @@
     "notes": "Celebrate the renewed center with rice pounding, lion dances, food stalls, musical performances, and games.\n\nhttps://www.city.suginami.tokyo.jp/s022/event/29644.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "e3838d0b54",
+   "series": "90956a7619",
+   "title": "Seseragi Marche En-Ichiba",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Sun, Nov 15",
+   "time": "10 AM–2 PM",
+   "place": "Denenchofu Seseragi-kan, Ota",
+   "placeLines": "Denenchofu Seseragi-kan, Ota",
+   "region": "OTA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Visitors can purchase baked sweets, cookies, rice crackers, and handmade crafts made in local welfare facilities.",
+   "url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/o-musubi_20261115.html",
+   "sources": [
+    "Ota City events"
+   ],
+   "map": "Denenchofu Seseragi-kan, Ota",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-15T01:00:00Z",
+    "end": "2026-11-15T05:00:00Z",
+    "notes": "Visitors can purchase baked sweets, cookies, rice crackers, and handmade crafts made in local welfare facilities.\n\nhttps://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/o-musubi_20261115.html"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
    "id": "0f332976c3",
@@ -4000,6 +4024,38 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "f53505404e",
+   "series": "8ad2e4d8d7",
+   "title": "Roof Park Art Fes on the KK Line (Tokyo Sky Corridor)",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "startMinute": 1020,
+   "endMinute": 1230,
+   "dates": "Nov 21–29",
+   "time": "5–8:30 PM",
+   "place": "Ginza",
+   "placeLines": "Ginza",
+   "region": "CHUO",
+   "category": "COMMUNITY",
+   "cost": "¥800 – ¥1,500",
+   "free": false,
+   "summary": "Glowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.",
+   "url": "https://tokyocheapo.com/events/roof-park-art-fes-kk-line/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/yoshirotten-sun-installation-2023-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Ginza",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-21",
+    "end": "2026-11-30",
+    "notes": "Hours: 5–8:30 PM\n\nGlowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.\n\nhttps://tokyocheapo.com/events/roof-park-art-fes-kk-line/"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
    "id": "849c4ceb74",
    "series": "ff3a3aec65",
    "title": "Hakkeijima Sea Paradise Fireworks",
@@ -4199,6 +4255,36 @@
    "changed": "2026-11-09T21:29:49Z"
   },
   {
+   "id": "833fbd868b",
+   "series": "422ab43a9e",
+   "title": "Magokoro Marche",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "startMinute": 780,
+   "endMinute": 960,
+   "dates": "Sun, Nov 22",
+   "time": "1–4 PM",
+   "place": "Magokoro Donuts Youth Free Space, Nakano",
+   "placeLines": "Magokoro Donuts Youth Free Space, Nakano\n1-41-2 Chuo, Nakano",
+   "region": "NAKANO",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Everyone can enjoy plastic plate crafting, retro games, portrait corners, and baked goods from welfare facilities.",
+   "url": "https://www.city.tokyo-nakano.lg.jp/kosodate/wakamonoshien/magokoromarche.html",
+   "sources": [
+    "Nakano City events"
+   ],
+   "map": "Magokoro Donuts Youth Free Space, 1-41-2 Chuo, Nakano",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-22T04:00:00Z",
+    "end": "2026-11-22T07:00:00Z",
+    "notes": "Everyone can enjoy plastic plate crafting, retro games, portrait corners, and baked goods from welfare facilities.\n\nhttps://www.city.tokyo-nakano.lg.jp/kosodate/wakamonoshien/magokoromarche.html"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
    "id": "72d7aa4d70",
    "series": "bd7461649c",
    "title": "The Oedo Antique Market",
@@ -4220,8 +4306,7 @@
    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/12/Oedo-Antique-Market-CF-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
-    "Tokyo Cheapo",
-    "antique-market.jp"
+    "Tokyo Cheapo"
    ],
    "map": "Yurakucho",
    "calendar": {
@@ -4331,6 +4416,39 @@
     "notes": "Celebrate the birthplace of the Somei Yoshino cherry blossom with local product exhibitions and stage performances.\n\nhttps://www.city.toshima.lg.jp/132/2609161020.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "35d3b1f697",
+   "series": "eab4fab48c",
+   "title": "Wanpaku Festival",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "startMinute": 600,
+   "endMinute": 870,
+   "dates": "Mon, Nov 23",
+   "time": "10 AM–2:30 PM",
+   "place": "Toshima City General Gymnasium",
+   "placeLines": "Toshima City General Gymnasium\n2-45-1 Minamiikebukuro, Toshima",
+   "region": "TOSHIMA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Children can enjoy ladder truck experiences, craft workshops, quiz corners, and stage performances.",
+   "url": "https://www.city.toshima.lg.jp/231/2609151435.html",
+   "image": "https://www.city.toshima.lg.jp/images/57889/20261109105636.png",
+   "imageCredit": "Toshima City events",
+   "sources": [
+    "Toshima City events"
+   ],
+   "map": "Toshima City General Gymnasium, 2-45-1 Minamiikebukuro, Toshima",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-23T01:00:00Z",
+    "end": "2026-11-23T05:30:00Z",
+    "notes": "Children can enjoy ladder truck experiences, craft workshops, quiz corners, and stage performances.\n\nhttps://www.city.toshima.lg.jp/231/2609151435.html"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
    "id": "b5e04b038c",
@@ -4672,6 +4790,35 @@
     "notes": "A celebration of raw eggs on rice, this unique festival is a simple ode to the much-loved dish of tamago kake gohan and offers an all-you-can-eat eggsperience...\n\nhttps://tokyocheapo.com/events/ikebukuro-egg-festival/"
    },
    "firstSeen": "2026-11-05T00:00:30Z"
+  },
+  {
+   "id": "ac42fe8715",
+   "series": "72091a6632",
+   "title": "Otaguro Park Autumn Illumination",
+   "start": "2026-11-27",
+   "end": "2026-12-06",
+   "dates": "Nov 27–Dec 6",
+   "place": "Ogikubo",
+   "placeLines": "Ogikubo",
+   "region": "SUGINAMI",
+   "category": "SEASONAL",
+   "cost": "¥300 (at the door)",
+   "free": false,
+   "summary": "Take a walk and enjoy the changing colors of the autumn leaves even at night in Ogikubo.",
+   "url": "https://tokyocheapo.com/events/otaguro-park-autumn-illumination/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2024/11/otaguro-park-autumn-GettyImages-1248402022-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Ogikubo",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-27",
+    "end": "2026-12-07",
+    "notes": "Take a walk and enjoy the changing colors of the autumn leaves even at night in Ogikubo.\n\nhttps://tokyocheapo.com/events/otaguro-park-autumn-illumination/"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
    "id": "ba598c747e",
@@ -9125,6 +9272,96 @@
     "notes": "Children can enjoy fun play corners, craft activities, and displays of artwork created by local children.\n\nhttps://www.city.kita.lg.jp/children-edu/childcare/1002833/1008074/1026881.html"
    },
    "firstSeen": "2026-11-07T16:55:27Z"
+  },
+  {
+   "id": "3475876e7d",
+   "series": "3528074eee",
+   "title": "Mt. Takao Setsubun",
+   "start": "2027-02-03",
+   "end": "2027-02-03",
+   "dates": "Wed, Feb 3",
+   "place": "Hachioji",
+   "placeLines": "Hachioji",
+   "region": "TAMA",
+   "category": "CULTURAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Join the throngs of people in throwing beans to cleanse misfortune on the slopes of Mt Takao.",
+   "url": "https://tokyocheapo.com/events/mt-takao-setsubun/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2016/02/IMG_20160213_135415-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Hachioji",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-03",
+    "end": "2027-02-04",
+    "notes": "Join the throngs of people in throwing beans to cleanse misfortune on the slopes of Mt Takao.\n\nhttps://tokyocheapo.com/events/mt-takao-setsubun/"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
+   "id": "38d653ac07",
+   "series": "3ffaee506c",
+   "title": "Nishiarai Daishi Daruma-Burning Ceremony",
+   "start": "2027-02-03",
+   "end": "2027-02-03",
+   "dates": "Wed, Feb 3",
+   "place": "Adachi",
+   "placeLines": "Adachi",
+   "region": "ADACHI",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This is one of the largest ceremonies of its kind in Tokyo.",
+   "url": "https://tokyocheapo.com/events/nishiarai-daishi-daruma/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/01/daruma-burning-GettyImages-905397558-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Adachi",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-03",
+    "end": "2027-02-04",
+    "notes": "This is one of the largest ceremonies of its kind in Tokyo.\n\nhttps://tokyocheapo.com/events/nishiarai-daishi-daruma/"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
+   "id": "9dd857c254",
+   "series": "ff954bbf97",
+   "title": "Bean Throwing and Dance of the 7 Lucky Gods",
+   "start": "2027-02-03",
+   "end": "2027-02-03",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Wed, Feb 3",
+   "time": "10 AM–2 PM",
+   "place": "Asakusa",
+   "placeLines": "Asakusa",
+   "region": "TAITO",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Ward off bad luck by throwing beans and dancing at this setsubun celebration.",
+   "url": "https://tokyocheapo.com/events/bean-throwing-dance-7-lucky-gods/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/12/setsubun-senso-3-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Asakusa",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-02-03T01:00:00Z",
+    "end": "2027-02-03T05:00:00Z",
+    "notes": "Ward off bad luck by throwing beans and dancing at this setsubun celebration.\n\nhttps://tokyocheapo.com/events/bean-throwing-dance-7-lucky-gods/"
+   },
+   "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
    "id": "120883b190",

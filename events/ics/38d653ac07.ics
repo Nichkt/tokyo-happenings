@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38d653ac07-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261110T184358Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+SUMMARY:Nishiarai Daishi Daruma-Burning Ceremony
+LOCATION:Adachi
+DESCRIPTION:This is one of the largest ceremonies of its kind in Tokyo.\n\n
+ https://tokyocheapo.com/events/nishiarai-daishi-daruma/
+URL:https://tokyocheapo.com/events/nishiarai-daishi-daruma/
+END:VEVENT
+END:VCALENDAR
