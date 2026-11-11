@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:37be271826-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+SUMMARY:Machida Ichi-Oshi Market
+LOCATION:Machida City Hall Event Studio
+DESCRIPTION:Hours: 9 AM–5 PM\n\nDiscover certified local products\, speci
+ alty sweets\, crafts\, and fresh farm vegetables from Machida.\n\nhttps://
+ www.city.machida.tokyo.jp/kanko/tabe_kau/machi-oshi.html
+URL:https://www.city.machida.tokyo.jp/kanko/tabe_kau/machi-oshi.html
+END:VEVENT
+END:VCALENDAR

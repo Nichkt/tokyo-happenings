@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-10T18:43:58Z",
+ "generatedAt": "2026-11-11T17:49:00Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-11",
- "until": "2027-02-03",
+ "from": "2026-11-12",
+ "until": "2027-02-04",
  "regions": [
   {
    "id": "ADACHI",
@@ -186,6 +186,10 @@
  ],
  "sources": [
   {
+   "name": "antique-market.jp",
+   "events": 1
+  },
+  {
    "name": "Arakawa City events",
    "events": 5
   },
@@ -195,11 +199,11 @@
   },
   {
    "name": "Chofu City events",
-   "events": 4
+   "events": 5
   },
   {
    "name": "Edogawa City events",
-   "events": 5
+   "events": 6
   },
   {
    "name": "Fuchu City events",
@@ -219,7 +223,7 @@
   },
   {
    "name": "Machida City sightseeing events",
-   "events": 6
+   "events": 7
   },
   {
    "name": "Meguro City events",
@@ -255,7 +259,7 @@
   },
   {
    "name": "Tachikawa City events",
-   "events": 5
+   "events": 6
   },
   {
    "name": "Taito City events",
@@ -263,7 +267,7 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 160
+   "events": 163
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -275,7 +279,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 12
+   "events": 11
   },
   {
    "name": "Ueno Park events",
@@ -828,33 +832,35 @@
    "firstSeen": "2026-11-05T18:51:23Z"
   },
   {
-   "id": "e55eb76c73",
-   "series": "92e1801a5a",
-   "title": "Sanrio Puroland Illumination Christmas",
+   "id": "50c0ce69cc",
+   "series": "7ae2a4fdfb",
+   "title": "Sanrio Puroland Christmas",
    "start": "2026-11-06",
    "end": "2026-12-25",
    "dates": "Nov 6–Dec 25",
-   "place": "Sanrio Puroland",
-   "placeLines": "Sanrio Puroland",
+   "place": "Sanrio Puroland, Tama",
+   "placeLines": "Sanrio Puroland, Tama",
    "region": "TAMA",
    "category": "SEASONAL",
-   "cost": "starting at ¥4300",
+   "cost": "¥2,500 – ¥6,600",
    "free": false,
-   "summary": "Sanrio Puroland will be celebrating the holidays with new shows, character greetings, merchandise and food from November 6 to December 25.",
-   "url": "https://www.tokyoweekender.com/event/sanrio-puroland-illumination-christmas/",
-   "image": "https://www.tokyoweekender.com/wp-content/uploads/2025/11/main-7-2048x1536.jpg",
-   "imageCredit": "Tokyo Weekender",
+   "political": true,
+   "summary": "Help Santa get ready with Hello Kitty: a new light show, a free Kuma no Gakko stamp rally and a closing-time dance.",
+   "url": "https://tokyocheapo.com/events/sanrio-puroland-christmas/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/puroland-illumination-christmas-2026-key-visual-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
    "sources": [
+    "Tokyo Cheapo",
     "Tokyo Weekender"
    ],
-   "map": "Sanrio Puroland, Tokyo",
+   "map": "Sanrio Puroland, Tama",
    "calendar": {
     "allDay": true,
     "start": "2026-11-06",
     "end": "2026-12-26",
-    "notes": "Sanrio Puroland will be celebrating the holidays with new shows, character greetings, merchandise and food from November 6 to December 25.\n\nhttps://www.tokyoweekender.com/event/sanrio-puroland-illumination-christmas/"
+    "notes": "Help Santa get ready with Hello Kitty: a new light show, a free Kuma no Gakko stamp rally and a closing-time dance.\n\nhttps://tokyocheapo.com/events/sanrio-puroland-christmas/"
    },
-   "firstSeen": "2026-11-04T21:05:06Z"
+   "firstSeen": "2026-11-11T17:49:00Z"
   },
   {
    "id": "cb3439748a",
@@ -1184,38 +1190,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "139ff25400",
-   "series": "abb8102f12",
-   "title": "Tokyo Music Evening Yube",
-   "start": "2026-11-11",
-   "end": "2026-11-11",
-   "startMinute": 1080,
-   "endMinute": 1140,
-   "dates": "Wed, Nov 11",
-   "time": "6–7 PM",
-   "place": "Global Ring Theatre, Toshima",
-   "placeLines": "Global Ring Theatre, Toshima\n1-8-26 Nishiikebukuro, Toshima",
-   "region": "TOSHIMA",
-   "category": "OUTDOOR",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy an open-air classical saxophone concert featuring arrangements of popular orchestral and ballet pieces.",
-   "url": "https://www.city.toshima.lg.jp/130/2610021553.html",
-   "image": "https://www.city.toshima.lg.jp/images/58071/yube.jpg",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "Global Ring Theatre, 1-8-26 Nishiikebukuro, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-11T09:00:00Z",
-    "end": "2026-11-11T10:00:00Z",
-    "notes": "Enjoy an open-air classical saxophone concert featuring arrangements of popular orchestral and ballet pieces.\n\nhttps://www.city.toshima.lg.jp/130/2610021553.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "b6cb780171",
@@ -3300,6 +3274,36 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "a26d1b7ea7",
+   "series": "7a7273245e",
+   "title": "Minore Autumn Harvest Festival Sale",
+   "start": "2026-11-19",
+   "end": "2026-11-21",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Nov 19–21",
+   "time": "10 AM–5 PM",
+   "place": "Farmers Center Minore Tachikawa",
+   "placeLines": "Farmers Center Minore Tachikawa\n1156-9 Izumicho, Tachikawa",
+   "region": "TAMA",
+   "category": "FARMERS",
+   "cost": "Free",
+   "free": true,
+   "summary": "Shop for a wide selection of fresh, seasonal locally-grown vegetables and fruits.",
+   "url": "https://www.city.tachikawa.lg.jp/sangyo/nogyo/1004077/1025812.html",
+   "sources": [
+    "Tachikawa City events"
+   ],
+   "map": "Farmers Center Minore Tachikawa, 1156-9 Izumicho, Tachikawa",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-19",
+    "end": "2026-11-22",
+    "notes": "Hours: 10 AM–5 PM\n\nShop for a wide selection of fresh, seasonal locally-grown vegetables and fruits.\n\nhttps://www.city.tachikawa.lg.jp/sangyo/nogyo/1004077/1025812.html"
+   },
+   "firstSeen": "2026-11-11T17:49:00Z"
+  },
+  {
    "id": "75d351e54b",
    "series": "555dea521d",
    "title": "Tokyo Christmas Market 2026",
@@ -4056,6 +4060,38 @@
    "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
+   "id": "b408ef105e",
+   "series": "1080a611ef",
+   "title": "Koedo Kawagoe Fireworks Festival",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 1080,
+   "endMinute": 1150,
+   "dates": "Sat, Nov 21",
+   "time": "6–7:10 PM",
+   "place": "Kawagoe",
+   "placeLines": "Kawagoe",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one.",
+   "url": "https://tokyocheapo.com/events/koedo-kawagoe-fireworks-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/07/GettyImages-1038897680-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Kawagoe",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T09:00:00Z",
+    "end": "2026-11-21T10:10:00Z",
+    "notes": "An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one.\n\nhttps://tokyocheapo.com/events/koedo-kawagoe-fireworks-festival/"
+   },
+   "firstSeen": "2026-11-11T17:49:00Z"
+  },
+  {
    "id": "849c4ceb74",
    "series": "ff3a3aec65",
    "title": "Hakkeijima Sea Paradise Fireworks",
@@ -4306,7 +4342,8 @@
    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/12/Oedo-Antique-Market-CF-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
-    "Tokyo Cheapo"
+    "Tokyo Cheapo",
+    "antique-market.jp"
    ],
    "map": "Yurakucho",
    "calendar": {
@@ -4513,6 +4550,36 @@
     "notes": "A neighborhood shopping street festival featuring stamp rallies, fresh produce distribution, and classic cars.\n\nhttps://www.city.meguro.tokyo.jp/sangyoukeizai/event/syoutengaiautumnevent.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "37be271826",
+   "series": "c1697958a8",
+   "title": "Machida Ichi-Oshi Market",
+   "start": "2026-11-24",
+   "end": "2026-11-26",
+   "startMinute": 540,
+   "endMinute": 1020,
+   "dates": "Nov 24–26",
+   "time": "9 AM–5 PM",
+   "place": "Machida City Hall Event Studio",
+   "placeLines": "Machida City Hall Event Studio",
+   "region": "TAMA",
+   "category": "FARMERS",
+   "cost": "Free",
+   "free": true,
+   "summary": "Discover certified local products, specialty sweets, crafts, and fresh farm vegetables from Machida.",
+   "url": "https://www.city.machida.tokyo.jp/kanko/tabe_kau/machi-oshi.html",
+   "sources": [
+    "Machida City sightseeing events"
+   ],
+   "map": "Machida City Hall Event Studio",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-24",
+    "end": "2026-11-27",
+    "notes": "Hours: 9 AM–5 PM\n\nDiscover certified local products, specialty sweets, crafts, and fresh farm vegetables from Machida.\n\nhttps://www.city.machida.tokyo.jp/kanko/tabe_kau/machi-oshi.html"
+   },
+   "firstSeen": "2026-11-11T17:49:00Z"
   },
   {
    "id": "09a62b219e",
@@ -5461,6 +5528,38 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "00ebc70f56",
+   "series": "b49a01aed8",
+   "title": "Recycle World in Tobu",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Sun, Nov 29",
+   "time": "10 AM–2 PM",
+   "place": "Tobu Kumin-kan Parking Lot and Surrounding Roads, Edogawa",
+   "placeLines": "Tobu Kumin-kan Parking Lot and Surrounding Roads, Edogawa\n1-17-1 Higashimizue, Edogawa",
+   "region": "EDOGAWA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Enjoy a flea market, food stands, food drives, and local Komatsuna vegetable sales.",
+   "url": "https://www.city.edogawa.tokyo.jp/event/261129recycle.html",
+   "image": "https://www.city.edogawa.tokyo.jp/images/75159/recycle.jpg",
+   "imageCredit": "Edogawa City events",
+   "sources": [
+    "Edogawa City events"
+   ],
+   "map": "Tobu Kumin-kan Parking Lot and Surrounding Roads, 1-17-1 Higashimizue, Edogawa",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T01:00:00Z",
+    "end": "2026-11-29T05:00:00Z",
+    "notes": "Enjoy a flea market, food stands, food drives, and local Komatsuna vegetable sales.\n\nhttps://www.city.edogawa.tokyo.jp/event/261129recycle.html"
+   },
+   "firstSeen": "2026-11-11T17:49:00Z"
+  },
+  {
    "id": "371512a7ea",
    "series": "dfad03d378",
    "title": "Soshigaya Recycle Fair",
@@ -6165,6 +6264,36 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "29355575ec",
+   "series": "a54cb12da2",
+   "title": "Marche de Chofu",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 630,
+   "endMinute": 960,
+   "dates": "Dec 5–6",
+   "time": "10:30 AM–4 PM",
+   "place": "Chofu Station Square",
+   "placeLines": "Chofu Station Square",
+   "region": "TAMA",
+   "category": "FOOD",
+   "cost": "Free",
+   "free": true,
+   "summary": "Browse fresh local vegetables, food trucks, crafts, and enjoy street live music performances.",
+   "url": "https://www.city.chofu.lg.jp/040060/p025065.html",
+   "sources": [
+    "Chofu City events"
+   ],
+   "map": "Chofu Station Square",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 10:30 AM–4 PM\n\nBrowse fresh local vegetables, food trucks, crafts, and enjoy street live music performances.\n\nhttps://www.city.chofu.lg.jp/040060/p025065.html"
+   },
+   "firstSeen": "2026-11-11T17:49:00Z"
+  },
+  {
    "id": "fca9154190",
    "series": "0c19714872",
    "title": "Meguro Fureai Festival",
@@ -6666,6 +6795,35 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "59ae33f602",
+   "series": "82f1829c5d",
+   "title": "Furusato Tokyo Ouen Festival (Christmas Market)",
+   "start": "2026-12-11",
+   "end": "2026-12-27",
+   "dates": "Dec 11–27",
+   "place": "Yoyogi",
+   "placeLines": "Yoyogi",
+   "region": "SHIBUYA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "A winter market promoting Japan's hometown tax program.",
+   "url": "https://tokyocheapo.com/events/furusato-tokyo-ouen-festival-christmas-market/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/11/yoyogi-park-autumn-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Yoyogi",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-11",
+    "end": "2026-12-28",
+    "notes": "A winter market promoting Japan's hometown tax program.\n\nhttps://tokyocheapo.com/events/furusato-tokyo-ouen-festival-christmas-market/"
+   },
+   "firstSeen": "2026-11-11T17:49:00Z"
   },
   {
    "id": "7822df85c1",

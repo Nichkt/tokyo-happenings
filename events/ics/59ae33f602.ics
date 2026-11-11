@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59ae33f602-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:Furusato Tokyo Ouen Festival (Christmas Market)
+LOCATION:Yoyogi
+DESCRIPTION:A winter market promoting Japan's hometown tax program.\n\nhttp
+ s://tokyocheapo.com/events/furusato-tokyo-ouen-festival-christmas-market/
+URL:https://tokyocheapo.com/events/furusato-tokyo-ouen-festival-christmas-m
+ arket/
+END:VEVENT
+END:VCALENDAR

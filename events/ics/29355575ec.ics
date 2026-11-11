@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29355575ec-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Marche de Chofu
+LOCATION:Chofu Station Square
+DESCRIPTION:Hours: 10:30 AM–4 PM\n\nBrowse fresh local vegetables\, food 
+ trucks\, crafts\, and enjoy street live music performances.\n\nhttps://www
+ .city.chofu.lg.jp/040060/p025065.html
+URL:https://www.city.chofu.lg.jp/040060/p025065.html
+END:VEVENT
+END:VCALENDAR

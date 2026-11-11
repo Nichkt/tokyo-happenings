@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:50c0ce69cc-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Sanrio Puroland Christmas
+LOCATION:Sanrio Puroland\, Tama
+DESCRIPTION:Help Santa get ready with Hello Kitty: a new light show\, a fre
+ e Kuma no Gakko stamp rally and a closing-time dance.\n\nhttps://tokyochea
+ po.com/events/sanrio-puroland-christmas/
+URL:https://tokyocheapo.com/events/sanrio-puroland-christmas/
+END:VEVENT
+END:VCALENDAR

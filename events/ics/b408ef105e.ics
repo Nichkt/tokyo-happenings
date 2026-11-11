@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b408ef105e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART:20261121T090000Z
+DTEND:20261121T101000Z
+SUMMARY:Koedo Kawagoe Fireworks Festival
+LOCATION:Kawagoe
+DESCRIPTION:An hour of autumn fireworks on the edge of Kawagoe\, free to wa
+ tch\, with chairs from 4\,400 yen if you want one.\n\nhttps://tokyocheapo.
+ com/events/koedo-kawagoe-fireworks-festival/
+URL:https://tokyocheapo.com/events/koedo-kawagoe-fireworks-festival/
+END:VEVENT
+END:VCALENDAR

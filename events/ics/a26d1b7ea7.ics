@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a26d1b7ea7-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:Minore Autumn Harvest Festival Sale
+LOCATION:Farmers Center Minore Tachikawa\, 1156-9 Izumicho\, Tachikawa
+DESCRIPTION:Hours: 10 AM–5 PM\n\nShop for a wide selection of fresh\, sea
+ sonal locally-grown vegetables and fruits.\n\nhttps://www.city.tachikawa.l
+ g.jp/sangyo/nogyo/1004077/1025812.html
+URL:https://www.city.tachikawa.lg.jp/sangyo/nogyo/1004077/1025812.html
+END:VEVENT
+END:VCALENDAR

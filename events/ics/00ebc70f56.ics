@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:00ebc70f56-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261111T174900Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T050000Z
+SUMMARY:Recycle World in Tobu
+LOCATION:Tobu Kumin-kan Parking Lot and Surrounding Roads\, 1-17-1 Higashim
+ izue\, Edogawa
+DESCRIPTION:Enjoy a flea market\, food stands\, food drives\, and local Kom
+ atsuna vegetable sales.\n\nhttps://www.city.edogawa.tokyo.jp/event/261129r
+ ecycle.html
+URL:https://www.city.edogawa.tokyo.jp/event/261129recycle.html
+END:VEVENT
+END:VCALENDAR
