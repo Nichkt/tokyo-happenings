@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-11T18:45:44Z",
+ "generatedAt": "2026-11-12T18:59:59Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-12",
- "until": "2027-02-04",
+ "from": "2026-11-13",
+ "until": "2027-02-05",
  "regions": [
   {
    "id": "ADACHI",
@@ -203,7 +203,7 @@
   },
   {
    "name": "Edogawa City events",
-   "events": 6
+   "events": 7
   },
   {
    "name": "Fuchu City events",
@@ -231,11 +231,7 @@
   },
   {
    "name": "Minato City events",
-   "events": 3
-  },
-  {
-   "name": "Musashino City events",
-   "events": 1
+   "events": 5
   },
   {
    "name": "Nakano City events",
@@ -279,7 +275,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 11
+   "events": 10
   },
   {
    "name": "Ueno Park events",
@@ -863,36 +859,6 @@
    "firstSeen": "2026-11-11T17:49:00Z"
   },
   {
-   "id": "cb3439748a",
-   "series": "2b26da0c18",
-   "title": "Chrysanthemum Exhibition",
-   "start": "2026-11-06",
-   "end": "2026-11-12",
-   "startMinute": 570,
-   "endMinute": 930,
-   "dates": "Nov 6–12",
-   "time": "9:30 AM–3:30 PM",
-   "place": "Musashino Chuo Park",
-   "placeLines": "Musashino Chuo Park\n2-2 Midori-cho, Musashino",
-   "region": "TAMA",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Admire beautifully cultivated traditional chrysanthemum flowers grown by local enthusiasts.",
-   "url": "https://www.city.musashino.lg.jp/gomi_kankyo/midori_koen/event_midorinomachisuishin/1024886.html",
-   "sources": [
-    "Musashino City events"
-   ],
-   "map": "Musashino Chuo Park, 2-2 Midori-cho, Musashino",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-06",
-    "end": "2026-11-13",
-    "notes": "Hours: 9:30 AM–3:30 PM\n\nAdmire beautifully cultivated traditional chrysanthemum flowers grown by local enthusiasts.\n\nhttps://www.city.musashino.lg.jp/gomi_kankyo/midori_koen/event_midorinomachisuishin/1024886.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "21d4ed31f0",
    "series": "2de2ec8cc4",
    "title": "Tokyo Christmas Advent",
@@ -1015,7 +981,7 @@
    "free": true,
    "summary": "A free rooftop Christmas market with mulled wine and s'mores, right above Ikebukuro Station.",
    "url": "https://tokyocheapo.com/events/tobu-ikebukuro-christmas-market/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/11/GettyImages-649484988-362x193.jpg",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/08/ikebukuro-night-christmas-tree-AP-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
     "Tokyo Cheapo"
@@ -1049,7 +1015,7 @@
    "free": true,
    "summary": "With a roster of rotating stalls, it's a different market each time.",
    "url": "https://tokyocheapo.com/events/cocoon-city-christmas-market/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/11/GettyImages-649484988-362x193.jpg",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/cocoon-city-christmas-market-2026-huts-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
     "Tokyo Cheapo"
@@ -1127,37 +1093,6 @@
     "notes": "Hours: 5–9 PM\n\nAn International Film Festival focusing on shorts, this annual event is free and offers a festival atmosphere with food trucks, live performances, and...\n\nhttps://tokyocheapo.com/events/shinagawa-international-film-festival/"
    },
    "firstSeen": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "b2bc7d178f",
-   "series": "74f1cf34f2",
-   "title": "Cheese Festa 2026",
-   "start": "2026-11-11",
-   "end": "2026-11-12",
-   "dates": "Nov 11–12",
-   "place": "Ebisu",
-   "placeLines": "Ebisu",
-   "region": "SHIBUYA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "What better way to celebrate Cheese Day than to visit Cheese Festa.",
-   "url": "https://tokyocheapo.com/events/cheese-festa/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/11/cheese-at-cheese-festa-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Ebisu",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-11",
-    "end": "2026-11-13",
-    "notes": "What better way to celebrate Cheese Day than to visit Cheese Festa.\n\nhttps://tokyocheapo.com/events/cheese-festa/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
   },
   {
    "id": "ac2068e6f0",
@@ -1247,38 +1182,6 @@
     "start": "2026-11-12",
     "end": "2026-12-26",
     "notes": "The Toranomon Hills illuminations will include a display of 13 real Christmas trees surrounded by colorful, giant ornament-shaped balloons.\n\nhttps://www.tokyoweekender.com/event/toranomon-hills-christmas/"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "bec33f3d47",
-   "series": "9c3cc05445",
-   "title": "Nakaikebukuro Park Flea Market",
-   "start": "2026-11-12",
-   "end": "2026-11-12",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Thu, Nov 12",
-   "time": "10 AM–6 PM",
-   "place": "Nakaikebukuro Park, Toshima",
-   "placeLines": "Nakaikebukuro Park, Toshima\n1-16-1 Higashiikebukuro, Toshima",
-   "region": "TOSHIMA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Browse second-hand goods, handmade crafts, and participate in workshop activities at the park.",
-   "url": "https://www.city.toshima.lg.jp/150/2607271700.html",
-   "image": "https://www.city.toshima.lg.jp/shared_images/thumbnail.png",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "Nakaikebukuro Park, 1-16-1 Higashiikebukuro, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-12T01:00:00Z",
-    "end": "2026-11-12T09:00:00Z",
-    "notes": "Browse second-hand goods, handmade crafts, and participate in workshop activities at the park.\n\nhttps://www.city.toshima.lg.jp/150/2607271700.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
   },
@@ -4028,6 +3931,38 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "1039f458c1",
+   "series": "06a710f38b",
+   "title": "Petit Play Park",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "startMinute": 810,
+   "endMinute": 930,
+   "dates": "Sat, Nov 21",
+   "time": "1:30–3:30 PM",
+   "place": "Hitotsugi Park, Minato",
+   "placeLines": "Hitotsugi Park, Minato\n5-5-26 Akasaka, Minato",
+   "region": "MINATO",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This outdoor play event for everyone includes autumn-themed activities like a leaf pool and tree climbing.",
+   "url": "https://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1121hittotugi.html",
+   "image": "https://www.city.minato.tokyo.jp/images/182239/20261112140242.jpg",
+   "imageCredit": "Minato City events",
+   "sources": [
+    "Minato City events"
+   ],
+   "map": "Hitotsugi Park, 5-5-26 Akasaka, Minato",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-21T04:30:00Z",
+    "end": "2026-11-21T06:30:00Z",
+    "notes": "This outdoor play event for everyone includes autumn-themed activities like a leaf pool and tree climbing.\n\nhttps://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1121hittotugi.html"
+   },
+   "firstSeen": "2026-11-12T18:59:59Z"
+  },
+  {
    "id": "f53505404e",
    "series": "8ad2e4d8d7",
    "title": "Roof Park Art Fes on the KK Line (Tokyo Sky Corridor)",
@@ -4769,6 +4704,38 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "dc72031e4f",
+   "series": "d6c05112bf",
+   "title": "Takahashi Korekiyo Memorial Park Light-up",
+   "start": "2026-11-26",
+   "end": "2026-11-29",
+   "startMinute": 1020,
+   "endMinute": 1200,
+   "dates": "Nov 26–29",
+   "time": "5–8 PM",
+   "place": "Takahashi Korekiyo Memorial Park, Minato",
+   "placeLines": "Takahashi Korekiyo Memorial Park, Minato\n7-3-39 Akasaka, Minato",
+   "region": "MINATO",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "This autumn illumination event features art displays, music performances, and traditional food offerings.",
+   "url": "https://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1126korekiyo.html",
+   "image": "https://www.city.minato.tokyo.jp/images/182237/20261112135723.jpg",
+   "imageCredit": "Minato City events",
+   "sources": [
+    "Minato City events"
+   ],
+   "map": "Takahashi Korekiyo Memorial Park, 7-3-39 Akasaka, Minato",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-26",
+    "end": "2026-11-30",
+    "notes": "Hours: 5–8 PM\n\nThis autumn illumination event features art displays, music performances, and traditional food offerings.\n\nhttps://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1126korekiyo.html"
+   },
+   "firstSeen": "2026-11-12T18:59:59Z"
+  },
+  {
    "id": "d2c81e8f1f",
    "series": "856ccf64ce",
    "title": "Tokyo Midtown Christmas 2026",
@@ -5337,6 +5304,39 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "d36efd1219",
+   "series": "4f4ae2be8f",
+   "title": "Hikarigaoka Winter Illuminations",
+   "start": "2026-11-28",
+   "end": "2027-01-24",
+   "startMinute": 960,
+   "endMinute": 1320,
+   "dates": "Nov 28–Jan 24",
+   "time": "4–10 PM",
+   "place": "Hikarigaoka",
+   "placeLines": "Hikarigaoka",
+   "region": "NERIMA",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "political": true,
+   "summary": "Three free light-ups a short walk apart at the end of the Oedo Line, with a stamp rally and a Hawaiian Christmas market.",
+   "url": "https://tokyocheapo.com/events/hikarigaoka-illuminations/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/hikarigaoka-fureai-no-michi-illumination-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Hikarigaoka",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-28",
+    "end": "2027-01-25",
+    "notes": "Hours: 4–10 PM\n\nThree free light-ups a short walk apart at the end of the Oedo Line, with a stamp rally and a Hawaiian Christmas market.\n\nhttps://tokyocheapo.com/events/hikarigaoka-illuminations/"
+   },
+   "firstSeen": "2026-11-12T18:59:59Z"
   },
   {
    "id": "e352accb98",
@@ -6669,6 +6669,38 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "d4b699a0a6",
+   "series": "504ca72c02",
+   "title": "Shinkawa Midori and Gochiso Market",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Sun, Dec 6",
+   "time": "10 AM–3 PM",
+   "place": "Shinkawa Sakura-kan, Edogawa",
+   "placeLines": "Shinkawa Sakura-kan, Edogawa\n7-15-12 Funabori, Edogawa",
+   "region": "EDOGAWA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This event features local flower and vegetable sales along with a small petting zoo.",
+   "url": "https://www.city.edogawa.tokyo.jp/event/2612_gochiso.html",
+   "image": "https://www.city.edogawa.tokyo.jp/images/75173/market_zoo1.jpg",
+   "imageCredit": "Edogawa City events",
+   "sources": [
+    "Edogawa City events"
+   ],
+   "map": "Shinkawa Sakura-kan, 7-15-12 Funabori, Edogawa",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T01:00:00Z",
+    "end": "2026-12-06T06:00:00Z",
+    "notes": "This event features local flower and vegetable sales along with a small petting zoo.\n\nhttps://www.city.edogawa.tokyo.jp/event/2612_gochiso.html"
+   },
+   "firstSeen": "2026-11-12T18:59:59Z"
+  },
+  {
    "id": "e29506711b",
    "series": "eac42d2e62",
    "title": "Tamagawa Basin Local Performing Arts Festival and Products Fair",
@@ -6716,7 +6748,7 @@
    "free": true,
    "summary": "Enjoy food stalls, hands-on health checks, stage performances, and prize draws at this community welfare event.",
    "url": "https://www.city.toshima.lg.jp/171/event/2609101122.html",
-   "image": "https://www.city.toshima.lg.jp/images/57838/20261027103108.jpg",
+   "image": "https://www.city.toshima.lg.jp/images/57838/20261112153344.jpg",
    "imageCredit": "Toshima City events",
    "sources": [
     "Toshima City events"

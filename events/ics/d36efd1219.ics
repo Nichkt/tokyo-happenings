@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d36efd1219-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261112T185959Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Hikarigaoka Winter Illuminations
+LOCATION:Hikarigaoka
+DESCRIPTION:Hours: 4–10 PM\n\nThree free light-ups a short walk apart at 
+ the end of the Oedo Line\, with a stamp rally and a Hawaiian Christmas mar
+ ket.\n\nhttps://tokyocheapo.com/events/hikarigaoka-illuminations/
+URL:https://tokyocheapo.com/events/hikarigaoka-illuminations/
+END:VEVENT
+END:VCALENDAR

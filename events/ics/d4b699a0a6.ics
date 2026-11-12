@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4b699a0a6-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261112T185959Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T060000Z
+SUMMARY:Shinkawa Midori and Gochiso Market
+LOCATION:Shinkawa Sakura-kan\, 7-15-12 Funabori\, Edogawa
+DESCRIPTION:This event features local flower and vegetable sales along with
+  a small petting zoo.\n\nhttps://www.city.edogawa.tokyo.jp/event/2612_goch
+ iso.html
+URL:https://www.city.edogawa.tokyo.jp/event/2612_gochiso.html
+END:VEVENT
+END:VCALENDAR

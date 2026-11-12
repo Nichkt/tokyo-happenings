@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc72031e4f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261112T185959Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Takahashi Korekiyo Memorial Park Light-up
+LOCATION:Takahashi Korekiyo Memorial Park\, 7-3-39 Akasaka\, Minato
+DESCRIPTION:Hours: 5–8 PM\n\nThis autumn illumination event features art 
+ displays\, music performances\, and traditional food offerings.\n\nhttps:/
+ /www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1126korekiyo.html
+URL:https://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1126korekiyo.h
+ tml
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1039f458c1-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261112T185959Z
+SEQUENCE:0
+DTSTART:20261121T043000Z
+DTEND:20261121T063000Z
+SUMMARY:Petit Play Park
+LOCATION:Hitotsugi Park\, 5-5-26 Akasaka\, Minato
+DESCRIPTION:This outdoor play event for everyone includes autumn-themed act
+ ivities like a leaf pool and tree climbing.\n\nhttps://www.city.minato.tok
+ yo.jp/akasakadobokutan/reiwa8/1121hittotugi.html
+URL:https://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1121hittotugi.
+ html
+END:VEVENT
+END:VCALENDAR
