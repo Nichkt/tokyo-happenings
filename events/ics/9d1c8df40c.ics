@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:9d1c8df40c-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T013153Z
-SEQUENCE:2
-LAST-MODIFIED:20261105T013153Z
+DTSTAMP:20261113T183639Z
+SEQUENCE:3
+LAST-MODIFIED:20261113T183639Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261125
 TRANSP:TRANSPARENT
-SUMMARY:Koishikawa Korakuen Autumn Illumination
+SUMMARY:Koishikawa Korakuen Autumn Illumination 2026
 LOCATION:Korakuen
 DESCRIPTION:Hours: 6–9 PM\n\nExplore one of the city's most beautiful par
  ks lit up at night.\n\nhttps://tokyocheapo.com/events/koishikawa-korakuen-

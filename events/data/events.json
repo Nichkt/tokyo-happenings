@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-12T18:59:59Z",
+ "generatedAt": "2026-11-13T18:36:39Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-13",
- "until": "2027-02-05",
+ "from": "2026-11-14",
+ "until": "2027-02-06",
  "regions": [
   {
    "id": "ADACHI",
@@ -267,7 +267,7 @@
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 21
+   "events": 22
   },
   {
    "name": "Tokyo Weekender",
@@ -1292,7 +1292,7 @@
   {
    "id": "9d1c8df40c",
    "series": "e1f29718ec",
-   "title": "Koishikawa Korakuen Autumn Illumination",
+   "title": "Koishikawa Korakuen Autumn Illumination 2026",
    "start": "2026-11-13",
    "end": "2026-11-24",
    "startMinute": 1080,
@@ -1306,7 +1306,7 @@
    "free": false,
    "summary": "Explore one of the city's most beautiful parks lit up at night.",
    "url": "https://tokyocheapo.com/events/koishikawa-korakuen-autumn-illumination/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/08/main-5-362x193.jpg",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/08/PXL_20261112_094405742.MP_-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
     "Tokyo Cheapo"
@@ -1319,8 +1319,8 @@
     "notes": "Hours: 6–9 PM\n\nExplore one of the city's most beautiful parks lit up at night.\n\nhttps://tokyocheapo.com/events/koishikawa-korakuen-autumn-illumination/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 3,
+   "changed": "2026-11-13T18:36:39Z"
   },
   {
    "id": "32fe50ead5",
@@ -9552,6 +9552,30 @@
     "notes": "Ward off bad luck by throwing beans and dancing at this setsubun celebration.\n\nhttps://tokyocheapo.com/events/bean-throwing-dance-7-lucky-gods/"
    },
    "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
+   "id": "7fb9894bb8",
+   "series": "4d79464ba6",
+   "title": "Ohi Racecourse Tokyo City Flea Market",
+   "start": "2027-02-06",
+   "end": "2027-02-06",
+   "dates": "Sat, Feb 6",
+   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "region": "SHINAGAWA",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-06",
+    "end": "2027-02-07",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-13T18:36:39Z"
   },
   {
    "id": "120883b190",
