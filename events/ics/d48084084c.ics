@@ -4,17 +4,16 @@ PRODID:-//Nicholas Ton//Tokyo Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:2c440a36c4-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T013153Z
-SEQUENCE:2
-LAST-MODIFIED:20261105T013153Z
+UID:d48084084c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 TRANSP:TRANSPARENT
-SUMMARY:Flea Market at Ike Sun Park
-LOCATION:Ike Sun Park\, Toshima Ward
+SUMMARY:Ikebukuro Flea Market
+LOCATION:Ikebukuro
 DESCRIPTION:Hours: 9 AM–3 PM\n\nThis flea market in Ikebukuro is worth ch
- ecking out.\n\nhttps://trx.jp/en/schejule
-URL:https://trx.jp/en/schejule
+ ecking out.\n\nhttps://tokyocheapo.com/events/ikebukuro-flea-market/
+URL:https://tokyocheapo.com/events/ikebukuro-flea-market/
 END:VEVENT
 END:VCALENDAR

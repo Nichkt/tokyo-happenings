@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18866bf569-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:Plaza Shinmei Festival
+LOCATION:Plaza Shinmei\, Minato
+DESCRIPTION:A community festival featuring various exhibits\, hands-on acti
+ vity corners\, and stage performances.\n\nhttps://www.city.minato.tokyo.jp
+ /kouhou/event/261212-purazashinmei.html
+URL:https://www.city.minato.tokyo.jp/kouhou/event/261212-purazashinmei.html
+END:VEVENT
+END:VCALENDAR

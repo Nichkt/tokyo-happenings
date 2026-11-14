@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ced89675de-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
+DTSTART:20261219T030000Z
+DTEND:20261219T060000Z
+SUMMARY:Science Fair
+LOCATION:Ogikubo Chiumu Kumin Center\, 2-34-20 Ogikubo\, Suginami
+DESCRIPTION:Children can experience fun science experiments\, hands-on craf
+ t activities\, and interactive games.\n\nhttps://www.city.suginami.tokyo.j
+ p/s022/event/29249.html
+URL:https://www.city.suginami.tokyo.jp/s022/event/29249.html
+END:VEVENT
+END:VCALENDAR

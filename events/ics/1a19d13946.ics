@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1a19d13946-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
+DTSTART:20261213T020000Z
+DTEND:20261213T060000Z
+SUMMARY:Sesion Christmas Party
+LOCATION:Sesion Suginami
+DESCRIPTION:Children can enjoy dance performances\, gospel choir music\, an
+ d puppet shows for the holidays.\n\nhttps://www.city.suginami.tokyo.jp/s02
+ 4/event/29061.html
+URL:https://www.city.suginami.tokyo.jp/s024/event/29061.html
+END:VEVENT
+END:VCALENDAR

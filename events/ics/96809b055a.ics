@@ -4,11 +4,11 @@ PRODID:-//Nicholas Ton//Tokyo Happenings//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:7f631f529a-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261104T210506Z
+UID:96809b055a-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
 SEQUENCE:0
-DTSTART:20261125T003000Z
-DTEND:20261125T033000Z
+DTSTART:20261203T003000Z
+DTEND:20261203T033000Z
 SUMMARY:Onono-juku Satoyama Exchange Center Autumn Foliage Festival and Swe
  ets Fair
 LOCATION:Onono-juku Satoyama Exchange Center\, Machida

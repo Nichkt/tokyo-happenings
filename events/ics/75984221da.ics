@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:75984221da-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T060000Z
+SUMMARY:Edogawa Volunteer Festival
+LOCATION:Tower Hall Funabori\, 4-1-1 Funabori\, Edogawa
+DESCRIPTION:Volunteer groups showcase their activities with stage performan
+ ces and a flea market.\n\nhttps://www.city.edogawa.tokyo.jp/event/261205vo
+ lunteer.html
+URL:https://www.city.edogawa.tokyo.jp/event/261205volunteer.html
+END:VEVENT
+END:VCALENDAR

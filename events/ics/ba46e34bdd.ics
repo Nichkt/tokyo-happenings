@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba46e34bdd-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
+DTSTART:20261205T000000Z
+DTEND:20261205T060000Z
+SUMMARY:Fallen Leaves Thanksgiving Festival
+LOCATION:Various Parks in Suginami
+DESCRIPTION:People gather at local parks to rake fallen leaves and enjoy fu
+ n outdoor activities.\n\nhttps://www.city.suginami.tokyo.jp/s100/event/230
+ 08.html
+URL:https://www.city.suginami.tokyo.jp/s100/event/23008.html
+END:VEVENT
+END:VCALENDAR

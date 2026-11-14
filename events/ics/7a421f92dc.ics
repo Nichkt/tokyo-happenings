@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a421f92dc-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261114T171309Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:[OPEN] Ohi Racecourse Tokyo City Flea Market (Grand/Spot Food & Dri
+ nk...Cancellation possible)
+LOCATION:[OPEN] Ohi Racecourse Tokyo City Flea Market (Grand/Spot Food & Dr
+ ink...Cancellation possible)\, Shinagawa Ward
+DESCRIPTION:One of the biggest flea markets in Tokyo\, there's almost nothi
+ ng you won't be able to find amongst the rows of stalls and tarps.\n\nhttp
+ s://trx.jp/en/schejule
+URL:https://trx.jp/en/schejule
+END:VEVENT
+END:VCALENDAR
