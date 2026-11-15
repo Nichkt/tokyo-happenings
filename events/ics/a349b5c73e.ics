@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a349b5c73e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261115T175133Z
+SEQUENCE:0
+DTSTART:20261128T040000Z
+DTEND:20261128T070000Z
+SUMMARY:Tobu District Fureai Festival
+LOCATION:Nakameguro Juku Center\, 2-10-13 Nakameguro\, Meguro
+DESCRIPTION:Local residents enjoy community interaction\, helpful informati
+ on booths\, and fun hands-on experiences.\n\nhttps://www.city.meguro.tokyo
+ .jp/kenkoufukushi/event/r8_touhurefes.html
+URL:https://www.city.meguro.tokyo.jp/kenkoufukushi/event/r8_touhurefes.html
+END:VEVENT
+END:VCALENDAR
