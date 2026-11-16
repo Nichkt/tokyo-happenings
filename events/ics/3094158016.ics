@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3094158016-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261116T210645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Nabe Festival
+LOCATION:Shibuya
+DESCRIPTION:Hours: 10 AM\n\nSample popular nabe (clay pot stews) from all o
+ ver Japan at this festival.\n\nhttps://tokyocheapo.com/events/nabe-festiva
+ l/
+URL:https://tokyocheapo.com/events/nabe-festival/
+END:VEVENT
+END:VCALENDAR

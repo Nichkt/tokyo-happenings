@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8ba35fa7a-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261116T210645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270224
+TRANSP:TRANSPARENT
+SUMMARY:Ashigakubo Icicles Illumination
+LOCATION:Chichibu
+DESCRIPTION:Hours: 9 AM–8 PM\n\nSee the illuminated icicles of Ashigakubo
+  in Saitama and find yourself in a winter wonderland.\n\nhttps://tokyochea
+ po.com/events/ashigakubo-icicles-illumination/
+URL:https://tokyocheapo.com/events/ashigakubo-icicles-illumination/
+END:VEVENT
+END:VCALENDAR

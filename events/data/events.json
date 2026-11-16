@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-15T17:51:33Z",
+ "generatedAt": "2026-11-16T21:06:45Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-16",
- "until": "2027-02-08",
+ "from": "2026-11-17",
+ "until": "2027-02-09",
  "regions": [
   {
    "id": "ADACHI",
@@ -223,7 +223,7 @@
   },
   {
    "name": "Machida City sightseeing events",
-   "events": 6
+   "events": 5
   },
   {
    "name": "Meguro City events",
@@ -259,11 +259,11 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 145
+   "events": 150
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 19
+   "events": 20
   },
   {
    "name": "Tokyo Weekender",
@@ -271,7 +271,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 8
+   "events": 9
   },
   {
    "name": "Ueno Park events",
@@ -952,7 +952,7 @@
    "free": true,
    "summary": "A free rooftop Christmas market with mulled wine and s'mores, right above Ikebukuro Station.",
    "url": "https://tokyocheapo.com/events/tobu-ikebukuro-christmas-market/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/08/ikebukuro-night-christmas-tree-AP-362x193.jpg",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/tobu-ikebukuro-christmas-market-kids-play-area-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
     "Tokyo Cheapo"
@@ -1295,36 +1295,6 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "727a8a0142",
-   "series": "a2e068e555",
-   "title": "Machi-Vege Market",
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "startMinute": 660,
-   "endMinute": 765,
-   "dates": "Mon, Nov 16",
-   "time": "11 AM–12:45 PM",
-   "place": "Machida City Hall Front Entrance",
-   "placeLines": "Machida City Hall Front Entrance\n2-2-22 Morino, Machida",
-   "region": "TAMA",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Certified local farmers sell freshly harvested vegetables directly to consumers.",
-   "url": "https://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/event/machibejiiti.html",
-   "sources": [
-    "Machida City sightseeing events"
-   ],
-   "map": "Machida City Hall Front Entrance, 2-2-22 Morino, Machida",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-16T02:00:00Z",
-    "end": "2026-11-16T03:45:00Z",
-    "notes": "Certified local farmers sell freshly harvested vegetables directly to consumers.\n\nhttps://www.city.machida.tokyo.jp/kanko/sangyo/nougyo/event/machibejiiti.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "4621a6307e",
    "series": "b1abf69ee6",
    "title": "Nakano City Agricultural Produce Direct Sale",
@@ -1515,37 +1485,6 @@
     "notes": "Hours: 10 AM–5 PM\n\nShop for a wide selection of fresh, seasonal locally-grown vegetables and fruits.\n\nhttps://www.city.tachikawa.lg.jp/sangyo/nogyo/1004077/1025812.html"
    },
    "firstSeen": "2026-11-11T17:49:00Z"
-  },
-  {
-   "id": "75d351e54b",
-   "series": "555dea521d",
-   "title": "Tokyo Christmas Market 2026",
-   "start": "2026-11-20",
-   "end": "2026-12-25",
-   "dates": "Nov 20–Dec 25",
-   "place": "Shinjuku",
-   "placeLines": "Shinjuku",
-   "region": "SHINJUKU",
-   "category": "NIGHT_MARKET",
-   "cost": "¥1,000 – ¥2,000",
-   "free": false,
-   "summary": "Wander through the crowds with delicious German snacks and drinks, while live music and illuminations really embrace the Yule spirit.",
-   "url": "https://tokyocheapo.com/events/tokyo-christmas-market/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/11/lindt-tokyo-christmas-market-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shinjuku",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-20",
-    "end": "2026-12-26",
-    "notes": "Wander through the crowds with delicious German snacks and drinks, while live music and illuminations really embrace the Yule spirit.\n\nhttps://tokyocheapo.com/events/tokyo-christmas-market/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
   },
   {
    "id": "b704608363",
@@ -2271,6 +2210,38 @@
     "notes": "This outdoor play event for everyone includes autumn-themed activities like a leaf pool and tree climbing.\n\nhttps://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1121hittotugi.html"
    },
    "firstSeen": "2026-11-12T18:59:59Z"
+  },
+  {
+   "id": "08821cb4bc",
+   "series": "181e3fb20f",
+   "title": "Meiji Jingu Gaien Autumn Leaves Illumination",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "startMinute": 990,
+   "endMinute": 1170,
+   "dates": "Nov 21–29",
+   "time": "4:30–7:30 PM",
+   "place": "Jingugaien",
+   "placeLines": "Jingugaien",
+   "region": "SHIBUYA",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "In late fall the ginkgo trees in Meiji Jingu Shrine's outer gardens turn bright yellow.",
+   "url": "https://tokyocheapo.com/events/jingugaien-itcho-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/11/meiji-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Jingugaien",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-21",
+    "end": "2026-11-30",
+    "notes": "Hours: 4:30–7:30 PM\n\nIn late fall the ginkgo trees in Meiji Jingu Shrine's outer gardens turn bright yellow.\n\nhttps://tokyocheapo.com/events/jingugaien-itcho-festival/"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
   },
   {
    "id": "f53505404e",
@@ -3133,6 +3104,39 @@
     "notes": "Take a walk and enjoy the changing colors of the autumn leaves even at night in Ogikubo.\n\nhttps://tokyocheapo.com/events/otaguro-park-autumn-illumination/"
    },
    "firstSeen": "2026-11-10T18:43:58Z"
+  },
+  {
+   "id": "cedabd49bb",
+   "series": "3ae33c017f",
+   "title": "Mejiro Station Christmas Tree Illumination",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 1005,
+   "endMinute": 1020,
+   "dates": "Fri, Nov 27",
+   "time": "4:45–5 PM",
+   "place": "JR Mejiro Station Square, Toshima",
+   "placeLines": "JR Mejiro Station Square, Toshima",
+   "region": "TOSHIMA",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Children sing Christmas carols at the lighting ceremony for a station square Christmas tree.",
+   "url": "https://www.city.toshima.lg.jp/069/event/2611131604.html",
+   "image": "https://www.city.toshima.lg.jp/images/58416/20261113161449.jpg",
+   "imageCredit": "Toshima City events",
+   "sources": [
+    "Toshima City events"
+   ],
+   "map": "JR Mejiro Station Square, Toshima",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-27T07:45:00Z",
+    "end": "2026-11-27T08:00:00Z",
+    "notes": "Children sing Christmas carols at the lighting ceremony for a station square Christmas tree.\n\nhttps://www.city.toshima.lg.jp/069/event/2611131604.html"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
   },
   {
    "id": "ba598c747e",
@@ -4064,6 +4068,35 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "624f635193",
+   "series": "6390c49c84",
+   "title": "The Holiday Scene Christmas Market",
+   "start": "2026-12-01",
+   "end": "2026-12-25",
+   "dates": "Dec 1–25",
+   "place": "Shinjuku",
+   "placeLines": "Shinjuku",
+   "region": "SHINJUKU",
+   "category": "NIGHT_MARKET",
+   "cost": "¥500 – ¥1,000",
+   "free": false,
+   "summary": "A movie-themed Christmas market on a rooftop right above Shinjuku Station.",
+   "url": "https://tokyocheapo.com/events/the-holiday-scene-christmas-market/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/10/holiday-scene-christmas-market-shinjuku-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Shinjuku",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-01",
+    "end": "2026-12-26",
+    "notes": "A movie-themed Christmas market on a rooftop right above Shinjuku Station.\n\nhttps://tokyocheapo.com/events/the-holiday-scene-christmas-market/"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
+  },
+  {
    "id": "1352ebcca2",
    "series": "1f2649123c",
    "title": "Machida Tenmangu Antique Fair",
@@ -4101,10 +4134,10 @@
    "series": "3e83c76df0",
    "title": "Omotesando Illumination",
    "start": "2026-12-01",
-   "end": "2027-01-05",
+   "end": "2026-12-27",
    "startMinute": 1020,
    "endMinute": 1320,
-   "dates": "Dec 1–Jan 5",
+   "dates": "Dec 1–27",
    "time": "5–10 PM",
    "place": "Between Jingumae Intersection and Omotesando Intersection",
    "placeLines": "Between Jingumae Intersection and Omotesando Intersection\nOmote-Sando Ave, Tokyo",
@@ -4124,12 +4157,12 @@
    "calendar": {
     "allDay": true,
     "start": "2026-12-01",
-    "end": "2027-01-06",
+    "end": "2026-12-28",
     "notes": "Hours: 5–10 PM\n\nWalking in a winter wonderland indeed, this stretch of Omotesando's busy street lit up will have you feeling Christmassy in no time.\n\nhttps://tokyocheapo.com/events/omotesando-illuminations/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 3,
+   "changed": "2026-11-16T21:06:45Z"
   },
   {
    "id": "047a8a8cd1",
@@ -4650,11 +4683,15 @@
    "placeLines": "Community Flat Higashihara, Suginami\n1-23-23 Shimoigusa, Suginami",
    "region": "SUGINAMI",
    "category": "SEASONAL",
+   "cost": "¥1,000 – ¥2,000",
    "free": false,
    "summary": "Enjoy mini concerts, Christmas workshops, games, and festive food and goods sales.",
    "url": "https://www.city.suginami.tokyo.jp/s020/event/28883.html",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/11/lindt-tokyo-christmas-market-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
    "sources": [
-    "Suginami City events"
+    "Suginami City events",
+    "Tokyo Cheapo"
    ],
    "map": "Community Flat Higashihara, 1-23-23 Shimoigusa, Suginami",
    "calendar": {
@@ -7451,6 +7488,38 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "c8ba35fa7a",
+   "series": "9d6639f457",
+   "title": "Ashigakubo Icicles Illumination",
+   "start": "2027-01-08",
+   "end": "2027-02-23",
+   "startMinute": 540,
+   "endMinute": 1200,
+   "dates": "Jan 8–Feb 23",
+   "time": "9 AM–8 PM",
+   "place": "Chichibu",
+   "placeLines": "Chichibu",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "¥600 (advance sales)¥600 (at the door)",
+   "free": false,
+   "summary": "See the illuminated icicles of Ashigakubo in Saitama and find yourself in a winter wonderland.",
+   "url": "https://tokyocheapo.com/events/ashigakubo-icicles-illumination/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/02/Ashigakubo-Icicles-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Chichibu",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-08",
+    "end": "2027-02-24",
+    "notes": "Hours: 9 AM–8 PM\n\nSee the illuminated icicles of Ashigakubo in Saitama and find yourself in a winter wonderland.\n\nhttps://tokyocheapo.com/events/ashigakubo-icicles-illumination/"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
+  },
+  {
    "id": "0c2f018eb6",
    "series": "14498a49fa",
    "title": "Torigoe Shrine Tondoyaki Bonfire",
@@ -7809,6 +7878,67 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "bec4e7a629",
+   "series": "1ea1a70512",
+   "title": "Winter and Sake Festival",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "dates": "Jan 22–24",
+   "place": "Yoyogi",
+   "placeLines": "Yoyogi",
+   "region": "SHIBUYA",
+   "category": "FOOD",
+   "cost": "Free",
+   "free": true,
+   "summary": "If you like sake and fresh seafood the Winter and Sake Festival in Yoyogi Park is the place for you.",
+   "description": "If you like sake and fresh seafood the Winter and Sake Festival in Yoyogi Park is the place for you. Don't miss the live tuna carving demonstration.",
+   "url": "https://tokyocheapo.com/events/winter-and-sake-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/01/tuna-cutting-GettyImages-911970604-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Yoyogi",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-22",
+    "end": "2027-01-25",
+    "notes": "If you like sake and fresh seafood the Winter and Sake Festival in Yoyogi Park is the place for you.\n\nhttps://tokyocheapo.com/events/winter-and-sake-festival/"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
+  },
+  {
+   "id": "3094158016",
+   "series": "92b3e163bc",
+   "title": "Nabe Festival",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "startMinute": 600,
+   "dates": "Jan 22–24",
+   "time": "10 AM",
+   "place": "Shibuya",
+   "placeLines": "Shibuya",
+   "region": "SHIBUYA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Sample popular nabe (clay pot stews) from all over Japan at this festival.",
+   "url": "https://tokyocheapo.com/events/nabe-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2016/12/GettyImages-1299228870-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Shibuya",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-22",
+    "end": "2027-01-25",
+    "notes": "Hours: 10 AM\n\nSample popular nabe (clay pot stews) from all over Japan at this festival.\n\nhttps://tokyocheapo.com/events/nabe-festival/"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
+  },
+  {
    "id": "941f383fd7",
    "series": "4d79464ba6",
    "title": "Ohi Racecourse Tokyo City Flea Market",
@@ -8101,6 +8231,30 @@
    "firstSeen": "2026-11-13T18:36:39Z",
    "revision": 1,
    "changed": "2026-11-14T17:13:09Z"
+  },
+  {
+   "id": "ae5b124908",
+   "series": "6cf59202df",
+   "title": "Flea Market at Ike Sun Park",
+   "start": "2027-02-07",
+   "end": "2027-02-07",
+   "dates": "Sun, Feb 7",
+   "place": "Ike Sun Park, Toshima Ward",
+   "placeLines": "Ike Sun Park, Toshima Ward",
+   "region": "TOSHIMA",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Ike Sun Park, Toshima Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-07",
+    "end": "2027-02-08",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-16T21:06:45Z"
   },
   {
    "id": "120883b190",

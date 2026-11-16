@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bec4e7a629-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261116T210645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Winter and Sake Festival
+LOCATION:Yoyogi
+DESCRIPTION:If you like sake and fresh seafood the Winter and Sake Festival
+  in Yoyogi Park is the place for you.\n\nhttps://tokyocheapo.com/events/wi
+ nter-and-sake-festival/
+URL:https://tokyocheapo.com/events/winter-and-sake-festival/
+END:VEVENT
+END:VCALENDAR

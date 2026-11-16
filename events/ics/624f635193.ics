@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:624f635193-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261116T210645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:The Holiday Scene Christmas Market
+LOCATION:Shinjuku
+DESCRIPTION:A movie-themed Christmas market on a rooftop right above Shinju
+ ku Station.\n\nhttps://tokyocheapo.com/events/the-holiday-scene-christmas-
+ market/
+URL:https://tokyocheapo.com/events/the-holiday-scene-christmas-market/
+END:VEVENT
+END:VCALENDAR

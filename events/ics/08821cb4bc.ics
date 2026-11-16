@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08821cb4bc-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261116T210645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Meiji Jingu Gaien Autumn Leaves Illumination
+LOCATION:Jingugaien
+DESCRIPTION:Hours: 4:30–7:30 PM\n\nIn late fall the ginkgo trees in Meiji
+  Jingu Shrine's outer gardens turn bright yellow.\n\nhttps://tokyocheapo.c
+ om/events/jingugaien-itcho-festival/
+URL:https://tokyocheapo.com/events/jingugaien-itcho-festival/
+END:VEVENT
+END:VCALENDAR

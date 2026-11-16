@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cedabd49bb-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261116T210645Z
+SEQUENCE:0
+DTSTART:20261127T074500Z
+DTEND:20261127T080000Z
+SUMMARY:Mejiro Station Christmas Tree Illumination
+LOCATION:JR Mejiro Station Square\, Toshima
+DESCRIPTION:Children sing Christmas carols at the lighting ceremony for a s
+ tation square Christmas tree.\n\nhttps://www.city.toshima.lg.jp/069/event/
+ 2611131604.html
+URL:https://www.city.toshima.lg.jp/069/event/2611131604.html
+END:VEVENT
+END:VCALENDAR
