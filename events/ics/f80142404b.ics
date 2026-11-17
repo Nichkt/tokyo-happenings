@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f80142404b-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:Sensoji Temple Year-end Market (Hagoita Market)
+DESCRIPTION:https://www.gotokyo.org/en/spot/ev152/index.html
+URL:https://www.gotokyo.org/en/spot/ev152/index.html
+END:VEVENT
+END:VCALENDAR

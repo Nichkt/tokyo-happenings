@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15b2993eb3-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Czech Festival 2026
+LOCATION:Futakotamagawa
+DESCRIPTION:Dip your toes into a new culture at the Czech Festival.\n\nhttp
+ s://tokyocheapo.com/events/czech-festival/
+URL:https://tokyocheapo.com/events/czech-festival/
+END:VEVENT
+END:VCALENDAR

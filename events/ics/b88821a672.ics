@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b88821a672-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:Meguro River Illuminations 2026
+LOCATION:Gotanda
+DESCRIPTION:Hours: 5–10 PM\n\nSee the famous cherry blossom view of Megur
+ o River in winter — well\, sort of.\n\nhttps://www.gotokyo.org/en/spot/e
+ v125/index.html
+URL:https://www.gotokyo.org/en/spot/ev125/index.html
+END:VEVENT
+END:VCALENDAR

@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-16T21:06:45Z",
+ "generatedAt": "2026-11-17T19:56:05Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-17",
- "until": "2027-02-09",
+ "from": "2026-11-18",
+ "until": "2027-02-10",
  "regions": [
   {
    "id": "ADACHI",
@@ -211,7 +211,7 @@
   },
   {
    "name": "GO TOKYO",
-   "events": 18
+   "events": 21
   },
   {
    "name": "Katsushika City events",
@@ -223,7 +223,7 @@
   },
   {
    "name": "Machida City sightseeing events",
-   "events": 5
+   "events": 4
   },
   {
    "name": "Meguro City events",
@@ -235,7 +235,7 @@
   },
   {
    "name": "Nakano City events",
-   "events": 2
+   "events": 1
   },
   {
    "name": "Nerima City sightseeing events",
@@ -259,7 +259,7 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 150
+   "events": 151
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -271,7 +271,7 @@
   },
   {
    "name": "Toshima City events",
-   "events": 9
+   "events": 10
   },
   {
    "name": "Ueno Park events",
@@ -397,38 +397,6 @@
    },
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "1c179cf0a0",
-   "series": "17ec0fb2dc",
-   "title": "Takahata Fudoson Chrysanthemum Festival",
-   "start": "2026-10-28",
-   "end": "2026-11-17",
-   "dates": "Oct 28–Nov 17",
-   "place": "Tama",
-   "placeLines": "Tama",
-   "region": "TAMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Marvel at the perfectly cultivated chrysanthemum displays.",
-   "url": "https://www.gotokyo.org/en/spot/ev138/index.html",
-   "image": "https://www.gotokyo.org/en/spot/ev138/images/ev138_gd10116_main_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "GO TOKYO",
-    "Tokyo Cheapo"
-   ],
-   "map": "Tama",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-28",
-    "end": "2026-11-18",
-    "notes": "Marvel at the perfectly cultivated chrysanthemum displays.\n\nhttps://www.gotokyo.org/en/spot/ev138/index.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 2,
    "changed": "2026-11-05T01:31:53Z"
   },
   {
@@ -1293,36 +1261,6 @@
     "notes": "Hours: 10 AM–5 PM\n\nHow about a game of wheelchair basketball?\n\nhttps://tokyocheapo.com/events/human-rights-awareness-festival/"
    },
    "firstSeen": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "4621a6307e",
-   "series": "b1abf69ee6",
-   "title": "Nakano City Agricultural Produce Direct Sale",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Tue, Nov 17",
-   "time": "10 AM–2 PM",
-   "place": "Nakano City Office",
-   "placeLines": "Nakano City Office\n4-11-19 Nakano, Nakano",
-   "region": "NAKANO",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Local farmers offer fresh, carefully grown vegetables harvested directly within the city.",
-   "url": "https://www.city.tokyo-nakano.lg.jp/event/sonota/shotengai_1117sokubaikai.html",
-   "sources": [
-    "Nakano City events"
-   ],
-   "map": "Nakano City Office, 4-11-19 Nakano, Nakano",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-17T01:00:00Z",
-    "end": "2026-11-17T05:00:00Z",
-    "notes": "Local farmers offer fresh, carefully grown vegetables harvested directly within the city.\n\nhttps://www.city.tokyo-nakano.lg.jp/event/sonota/shotengai_1117sokubaikai.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "6302a60049",
@@ -2955,6 +2893,42 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "d2c81e8f1f",
+   "series": "856ccf64ce",
+   "title": "Midtown Christmas 2026",
+   "start": "2026-11-26",
+   "end": "2026-12-25",
+   "startMinute": 1020,
+   "endMinute": 1380,
+   "dates": "Nov 26–Dec 25",
+   "time": "5–11 PM",
+   "place": "Tokyo Midtown, Akasaka",
+   "placeLines": "Tokyo Midtown, Akasaka",
+   "region": "MINATO",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Midtown illumination is an incredibly popular Christmas event.",
+   "url": "https://www.gotokyo.org/en/spot/ev174/index.html",
+   "image": "https://www.gotokyo.org/en/spot/ev174/images/ev174_main_450_gd10140.webp",
+   "imageCredit": "GO TOKYO",
+   "sources": [
+    "GO TOKYO",
+    "Tokyo Cheapo",
+    "Tokyo Weekender"
+   ],
+   "map": "Tokyo Midtown, Akasaka",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-26",
+    "end": "2026-12-26",
+    "notes": "Hours: 5–11 PM\n\nThe Midtown illumination is an incredibly popular Christmas event.\n\nhttps://www.gotokyo.org/en/spot/ev174/index.html"
+   },
+   "firstSeen": "2026-11-05T00:00:30Z",
+   "revision": 2,
+   "changed": "2026-11-17T19:56:05Z"
+  },
+  {
    "id": "dc72031e4f",
    "series": "d6c05112bf",
    "title": "Takahashi Korekiyo Memorial Park Light-up",
@@ -2985,41 +2959,6 @@
     "notes": "Hours: 5–8 PM\n\nThis autumn illumination event features art displays, music performances, and traditional food offerings.\n\nhttps://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1126korekiyo.html"
    },
    "firstSeen": "2026-11-12T18:59:59Z"
-  },
-  {
-   "id": "d2c81e8f1f",
-   "series": "856ccf64ce",
-   "title": "Tokyo Midtown Christmas 2026",
-   "start": "2026-11-26",
-   "end": "2026-12-25",
-   "startMinute": 1020,
-   "endMinute": 1380,
-   "dates": "Nov 26–Dec 25",
-   "time": "5–11 PM",
-   "place": "Tokyo Midtown, Akasaka",
-   "placeLines": "Tokyo Midtown, Akasaka",
-   "region": "MINATO",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "The Midtown illumination is an incredibly popular Christmas event.",
-   "url": "https://tokyocheapo.com/events/midtown-christmas/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/11/midtown-christmas-tree-wide_gdl-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo",
-    "Tokyo Weekender"
-   ],
-   "map": "Tokyo Midtown, Akasaka",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-26",
-    "end": "2026-12-26",
-    "notes": "Hours: 5–11 PM\n\nThe Midtown illumination is an incredibly popular Christmas event.\n\nhttps://tokyocheapo.com/events/midtown-christmas/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
   },
   {
    "id": "a09e434a67",
@@ -4199,36 +4138,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "96809b055a",
-   "series": "9b29d3eb1f",
-   "title": "Onono-juku Satoyama Exchange Center Autumn Foliage Festival and Sweets Fair",
-   "start": "2026-12-03",
-   "end": "2026-12-03",
-   "startMinute": 570,
-   "endMinute": 750,
-   "dates": "Thu, Dec 3",
-   "time": "9:30 AM–12:30 PM",
-   "place": "Onono-juku Satoyama Exchange Center, Machida",
-   "placeLines": "Onono-juku Satoyama Exchange Center, Machida",
-   "region": "TAMA",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate the autumn foliage season with local vegetable sales, food stalls, and a bingo tournament.",
-   "url": "https://www.city.machida.tokyo.jp/kanko/miru_aso/satoyamakoryukan/kouryukan_event.html",
-   "sources": [
-    "Machida City sightseeing events"
-   ],
-   "map": "Onono-juku Satoyama Exchange Center, Machida",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-03T00:30:00Z",
-    "end": "2026-12-03T03:30:00Z",
-    "notes": "Celebrate the autumn foliage season with local vegetable sales, food stalls, and a bingo tournament.\n\nhttps://www.city.machida.tokyo.jp/kanko/miru_aso/satoyamakoryukan/kouryukan_event.html"
-   },
-   "firstSeen": "2026-11-14T17:13:09Z"
-  },
-  {
    "id": "4ce21f3fdf",
    "series": "d1108343a5",
    "title": "Shimokitazawa Flea Market",
@@ -4261,6 +4170,36 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "15b2993eb3",
+   "series": "d347d4e7bc",
+   "title": "Czech Festival 2026",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "dates": "Dec 4–6",
+   "place": "Futakotamagawa",
+   "placeLines": "Futakotamagawa",
+   "region": "SETAGAYA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Dip your toes into a new culture at the Czech Festival.",
+   "description": "Dip your toes into a new culture at the Czech Festival. You can try everything from traditional Czech food and drinks, to cosmetics and toys - there's sure to be something for you!",
+   "url": "https://tokyocheapo.com/events/czech-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/09/Czech_Festival-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Futakotamagawa",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-07",
+    "notes": "Dip your toes into a new culture at the Czech Festival.\n\nhttps://tokyocheapo.com/events/czech-festival/"
+   },
+   "firstSeen": "2026-11-17T19:56:05Z"
   },
   {
    "id": "984c413911",
@@ -4318,9 +4257,9 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "133e9ad7f8",
-   "series": "5d6947b317",
-   "title": "Meguro River Winter Illuminations",
+   "id": "b88821a672",
+   "series": "ffcb7b20c3",
+   "title": "Meguro River Illuminations 2026",
    "start": "2026-12-04",
    "end": "2027-01-31",
    "startMinute": 1020,
@@ -4334,10 +4273,11 @@
    "cost": "Free",
    "free": true,
    "summary": "See the famous cherry blossom view of Meguro River in winter — well, sort of.",
-   "url": "https://tokyocheapo.com/events/meguro-river-winter-illuminations/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/12/IMG_1731-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
+   "url": "https://www.gotokyo.org/en/spot/ev125/index.html",
+   "image": "https://www.gotokyo.org/en/spot/ev125/images/ev125_main_450_gd10136.webp",
+   "imageCredit": "GO TOKYO",
    "sources": [
+    "GO TOKYO",
     "Tokyo Cheapo"
    ],
    "map": "Gotanda",
@@ -4345,11 +4285,9 @@
     "allDay": true,
     "start": "2026-12-04",
     "end": "2027-02-01",
-    "notes": "Hours: 5–10 PM\n\nSee the famous cherry blossom view of Meguro River in winter — well, sort of.\n\nhttps://tokyocheapo.com/events/meguro-river-winter-illuminations/"
+    "notes": "Hours: 5–10 PM\n\nSee the famous cherry blossom view of Meguro River in winter — well, sort of.\n\nhttps://www.gotokyo.org/en/spot/ev125/index.html"
    },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "firstSeen": "2026-11-17T19:56:05Z"
   },
   {
    "id": "db3d703c57",
@@ -4415,7 +4353,7 @@
   {
    "id": "5324a14c28",
    "series": "798a2c305f",
-   "title": "Odaiba Rainbow Fireworks",
+   "title": "Odaiba Rainbow Fireworks 2026",
    "start": "2026-12-05",
    "end": "2026-12-26",
    "dates": "Dec 5–26",
@@ -4426,10 +4364,11 @@
    "cost": "Free",
    "free": true,
    "summary": "Odaiba Rainbow Fireworks is a rare winter fireworks event held every Saturday in December.",
-   "url": "https://tokyocheapo.com/events/odaiba-rainbow-fireworks/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2016/12/odaiba-december-fireworks-maria-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
+   "url": "https://www.gotokyo.org/en/spot/ev278/index.html",
+   "image": "https://www.gotokyo.org/en/spot/ev278/images/ev278_main_450_gd10202.webp",
+   "imageCredit": "GO TOKYO",
    "sources": [
+    "GO TOKYO",
     "Tokyo Cheapo"
    ],
    "map": "Odaiba",
@@ -4437,11 +4376,11 @@
     "allDay": true,
     "start": "2026-12-05",
     "end": "2026-12-27",
-    "notes": "Odaiba Rainbow Fireworks is a rare winter fireworks event held every Saturday in December.\n\nhttps://tokyocheapo.com/events/odaiba-rainbow-fireworks/"
+    "notes": "Odaiba Rainbow Fireworks is a rare winter fireworks event held every Saturday in December.\n\nhttps://www.gotokyo.org/en/spot/ev278/index.html"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 2,
+   "changed": "2026-11-17T19:56:05Z"
   },
   {
    "id": "d25aabd9a9",
@@ -5327,6 +5266,35 @@
    "firstSeen": "2026-11-11T17:49:00Z"
   },
   {
+   "id": "e526e079e2",
+   "series": "851759ca4d",
+   "title": "Sumida Attaka Gourmet Fes 2026",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "dates": "Dec 11–13",
+   "place": "Asakusa",
+   "placeLines": "Asakusa",
+   "region": "TAITO",
+   "category": "FOOD",
+   "cost": "Free",
+   "free": true,
+   "summary": "Free-entry winter food festival with 45 stalls at Sumida Park.",
+   "url": "https://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/04/Festival-Food-Okonomiyaki-iStock-1150729927-JianGang-Wang-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Asakusa",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-11",
+    "end": "2026-12-14",
+    "notes": "Free-entry winter food festival with 45 stalls at Sumida Park.\n\nhttps://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/"
+   },
+   "firstSeen": "2026-11-17T19:56:05Z"
+  },
+  {
    "id": "7822df85c1",
    "series": "d587bd6a6c",
    "title": "Keyaki Hiroba Christmas Market",
@@ -6153,6 +6121,29 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "f80142404b",
+   "series": "df05b1fc8c",
+   "title": "Sensoji Temple Year-end Market (Hagoita Market)",
+   "start": "2026-12-17",
+   "end": "2026-12-19",
+   "dates": "Dec 17–19",
+   "region": "TAITO",
+   "category": "NIGHT_MARKET",
+   "url": "https://www.gotokyo.org/en/spot/ev152/index.html",
+   "image": "https://www.gotokyo.org/en/spot/ev152/images/main_gd10152_450.webp",
+   "imageCredit": "GO TOKYO",
+   "sources": [
+    "GO TOKYO"
+   ],
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-17",
+    "end": "2026-12-20",
+    "notes": "https://www.gotokyo.org/en/spot/ev152/index.html"
+   },
+   "firstSeen": "2026-11-17T19:56:05Z"
   },
   {
    "id": "d5e0d58889",
@@ -8084,6 +8075,38 @@
     "notes": "Hours: 11 AM–5 PM\n\nGet your caffeine fix and then some.\n\nhttps://tokyocheapo.com/events/tokyo-coffee-festival/"
    },
    "firstSeen": "2026-11-06T18:07:45Z"
+  },
+  {
+   "id": "fac4776bd8",
+   "series": "32fa6f3a92",
+   "title": "Shiinamachi Toshima Shonin Matsuri",
+   "start": "2027-01-31",
+   "end": "2027-01-31",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sun, Jan 31",
+   "time": "10 AM–4 PM",
+   "place": "Shiinabashi Shita Hiroba (North Side), Toshima",
+   "placeLines": "Shiinabashi Shita Hiroba (North Side), Toshima",
+   "region": "TOSHIMA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Enjoy food sales, product displays, and tourism exhibits from local shops and partner cities.",
+   "url": "https://www.city.toshima.lg.jp/123/machizukuri/sangyo/shotengai/ibento/2312130910.html",
+   "image": "https://www.city.toshima.lg.jp/shared_images/thumbnail.png",
+   "imageCredit": "Toshima City events",
+   "sources": [
+    "Toshima City events"
+   ],
+   "map": "Shiinabashi Shita Hiroba (North Side), Toshima",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-01-31T01:00:00Z",
+    "end": "2027-01-31T07:00:00Z",
+    "notes": "Enjoy food sales, product displays, and tourism exhibits from local shops and partner cities.\n\nhttps://www.city.toshima.lg.jp/123/machizukuri/sangyo/shotengai/ibento/2312130910.html"
+   },
+   "firstSeen": "2026-11-17T19:56:05Z"
   },
   {
    "id": "8ad58ecd7a",

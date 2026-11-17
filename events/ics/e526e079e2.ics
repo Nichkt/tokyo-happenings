@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e526e079e2-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261117T195605Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:Sumida Attaka Gourmet Fes 2026
+LOCATION:Asakusa
+DESCRIPTION:Free-entry winter food festival with 45 stalls at Sumida Park.\
+ n\nhttps://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/
+URL:https://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/
+END:VEVENT
+END:VCALENDAR
