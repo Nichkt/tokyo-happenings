@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0fe409ae0c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261118T192700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+TRANSP:TRANSPARENT
+SUMMARY:Musamura Flea Market
+LOCATION:Musamura Flea Market\, Musashimurayama City
+DESCRIPTION:https://trx.jp/en/schejule
+URL:https://trx.jp/en/schejule
+END:VEVENT
+END:VCALENDAR

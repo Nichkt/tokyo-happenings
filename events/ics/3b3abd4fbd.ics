@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3b3abd4fbd-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261106T071852Z
-SEQUENCE:1
-LAST-MODIFIED:20261106T071852Z
+DTSTAMP:20261118T192700Z
+SEQUENCE:2
+LAST-MODIFIED:20261118T192700Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
-SUMMARY:Tokyo Tower Christmas Market
+SUMMARY:Tokyo Tower Christmas Market 2026
 LOCATION:Tokyo Tower\, Shibakoen
-DESCRIPTION:Hours: 12–10 PM\n\nGet into the holiday spirit with a magical
-  European-inspired Christmas market right at the foot of Tokyo Tower.\n\nh
- ttps://www.tokyoweekender.com/event/tokyo-tower-christmas-market/
-URL:https://www.tokyoweekender.com/event/tokyo-tower-christmas-market/
+DESCRIPTION:Hours: 12–10 PM\n\nA European Christmas market lands in Japan
+  at the foot of Tokyo Tower.\n\nhttps://www.gotokyo.org/en/spot/ev135/inde
+ x.html
+URL:https://www.gotokyo.org/en/spot/ev135/index.html
 END:VEVENT
 END:VCALENDAR

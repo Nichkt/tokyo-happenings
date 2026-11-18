@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-17T19:56:05Z",
+ "generatedAt": "2026-11-18T19:27:00Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-18",
- "until": "2027-02-10",
+ "from": "2026-11-19",
+ "until": "2027-02-11",
  "regions": [
   {
    "id": "ADACHI",
@@ -191,7 +191,7 @@
   },
   {
    "name": "Arakawa City events",
-   "events": 3
+   "events": 4
   },
   {
    "name": "asakusajinja.jp",
@@ -211,7 +211,7 @@
   },
   {
    "name": "GO TOKYO",
-   "events": 21
+   "events": 22
   },
   {
    "name": "Katsushika City events",
@@ -259,11 +259,11 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 151
+   "events": 154
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 20
+   "events": 22
   },
   {
    "name": "Tokyo Weekender",
@@ -1098,7 +1098,7 @@
   {
    "id": "3b3abd4fbd",
    "series": "01d0a16faf",
-   "title": "Tokyo Tower Christmas Market",
+   "title": "Tokyo Tower Christmas Market 2026",
    "start": "2026-11-13",
    "end": "2026-12-25",
    "startMinute": 720,
@@ -1111,25 +1111,25 @@
    "category": "NIGHT_MARKET",
    "cost": "Free",
    "free": true,
-   "summary": "Get into the holiday spirit with a magical European-inspired Christmas market right at the foot of Tokyo Tower.",
-   "description": "Get into the holiday spirit with a magical European-inspired Christmas market right at the foot of Tokyo Tower. On November 13: opens at 4:00 p.m. | Last order at 9:30 p.m.",
-   "url": "https://www.tokyoweekender.com/event/tokyo-tower-christmas-market/",
-   "image": "https://www.tokyoweekender.com/wp-content/uploads/2026/11/main-2048x1365.jpg",
-   "imageCredit": "Tokyo Weekender",
+   "summary": "A European Christmas market lands in Japan at the foot of Tokyo Tower.",
+   "url": "https://www.gotokyo.org/en/spot/ev135/index.html",
+   "image": "https://www.gotokyo.org/en/spot/ev135/images/ev135_main_450_gd10142_01.webp",
+   "imageCredit": "GO TOKYO",
    "sources": [
-    "Tokyo Weekender",
-    "Tokyo Cheapo"
+    "GO TOKYO",
+    "Tokyo Cheapo",
+    "Tokyo Weekender"
    ],
    "map": "Tokyo Tower, Shibakoen",
    "calendar": {
     "allDay": true,
     "start": "2026-11-13",
     "end": "2026-12-26",
-    "notes": "Hours: 12–10 PM\n\nGet into the holiday spirit with a magical European-inspired Christmas market right at the foot of Tokyo Tower.\n\nhttps://www.tokyoweekender.com/event/tokyo-tower-christmas-market/"
+    "notes": "Hours: 12–10 PM\n\nA European Christmas market lands in Japan at the foot of Tokyo Tower.\n\nhttps://www.gotokyo.org/en/spot/ev135/index.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-06T07:18:52Z"
+   "revision": 2,
+   "changed": "2026-11-18T19:27:00Z"
   },
   {
    "id": "9d1c8df40c",
@@ -1590,6 +1590,38 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "1a197eaa59",
+   "series": "63125f03e3",
+   "title": "Odaiba Winter Illuminations 2026: TokyoBay Light Wish",
+   "start": "2026-11-20",
+   "end": "2026-12-31",
+   "startMinute": 1020,
+   "endMinute": 1320,
+   "dates": "Nov 20–Dec 31",
+   "time": "5–10 PM",
+   "place": "Odaiba",
+   "placeLines": "Odaiba",
+   "region": "MINATO",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "A free 40-meter tree of light in Symbol Promenade Park, plus Christmas displays at Odaiba’s malls and hotels.",
+   "url": "https://tokyocheapo.com/events/odaiba-illuminations/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/tokyobay-light-wish-dream-wish-tree-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Odaiba",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-20",
+    "end": "2027-01-01",
+    "notes": "Hours: 5–10 PM\n\nA free 40-meter tree of light in Symbol Promenade Park, plus Christmas displays at Odaiba’s malls and hotels.\n\nhttps://tokyocheapo.com/events/odaiba-illuminations/"
+   },
+   "firstSeen": "2026-11-18T19:27:00Z"
   },
   {
    "id": "cd39b7cf57",
@@ -5278,7 +5310,7 @@
    "category": "FOOD",
    "cost": "Free",
    "free": true,
-   "summary": "Free-entry winter food festival with 45 stalls at Sumida Park.",
+   "summary": "Free-entry winter food festival with 44 stalls at Sumida Park.",
    "url": "https://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/",
    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/04/Festival-Food-Okonomiyaki-iStock-1150729927-JianGang-Wang-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
@@ -5290,9 +5322,11 @@
     "allDay": true,
     "start": "2026-12-11",
     "end": "2026-12-14",
-    "notes": "Free-entry winter food festival with 45 stalls at Sumida Park.\n\nhttps://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/"
+    "notes": "Free-entry winter food festival with 44 stalls at Sumida Park.\n\nhttps://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/"
    },
-   "firstSeen": "2026-11-17T19:56:05Z"
+   "firstSeen": "2026-11-17T19:56:05Z",
+   "revision": 1,
+   "changed": "2026-11-18T19:27:00Z"
   },
   {
    "id": "7822df85c1",
@@ -6925,6 +6959,39 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "f38af44618",
+   "series": "9f17e37e1f",
+   "title": "Safety and Security Spot Festival",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "startMinute": 780,
+   "endMinute": 960,
+   "dates": "Wed, Dec 23",
+   "time": "1–4 PM",
+   "place": "Yui no Mori Arakawa",
+   "placeLines": "Yui no Mori Arakawa\n2-25-3 Arakawa, Arakawa",
+   "region": "ARAKAWA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "Children can learn traffic safety and crime prevention through fun games, photo spots, and interactive simulator activities.",
+   "url": "https://www.city.arakawa.tokyo.jp/a014/spot/r8_spotfestival.html",
+   "image": "https://www.city.arakawa.tokyo.jp/images/47098/spot_fiyer820x1160.png",
+   "imageCredit": "Arakawa City events",
+   "sources": [
+    "Arakawa City events"
+   ],
+   "map": "Yui no Mori Arakawa, 2-25-3 Arakawa, Arakawa",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-23T04:00:00Z",
+    "end": "2026-12-23T07:00:00Z",
+    "notes": "Children can learn traffic safety and crime prevention through fun games, photo spots, and interactive simulator activities.\n\nhttps://www.city.arakawa.tokyo.jp/a014/spot/r8_spotfestival.html"
+   },
+   "firstSeen": "2026-11-18T19:27:00Z"
+  },
+  {
    "id": "f3691d9c7a",
    "series": "9e30971131",
    "title": "Candlelight: Christmas Pop Hits",
@@ -7110,7 +7177,7 @@
    "placeLines": "Ginza",
    "region": "CHUO",
    "category": "SEASONAL",
-   "cost": "¥4,450 – ¥11,000",
+   "cost": "¥5,350 – ¥9,800",
    "free": false,
    "summary": "Beat the Christmas chill with the classic sounds of Santa Claus.",
    "url": "https://tokyocheapo.com/events/candlelight-a-night-of-christmas-classics/",
@@ -7320,6 +7387,69 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "d3e10e780d",
+   "series": "a9539d9b11",
+   "title": "Yokosuka Countdown",
+   "start": "2026-12-31",
+   "end": "2027-01-01",
+   "startMinute": 1080,
+   "endMinute": 60,
+   "dates": "Dec 31–Jan 1",
+   "time": "6 PM–1 AM",
+   "place": "Yokosuka",
+   "placeLines": "Yokosuka",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Watch 2025 drift away on the waves, and 2026 light up the skies in Yokosuka.",
+   "url": "https://tokyocheapo.com/events/yokosuka-countdown/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2024/08/GettyImages-2154698917-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Yokosuka",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-31",
+    "end": "2027-01-02",
+    "notes": "Hours: 6 PM–1 AM\n\nWatch 2025 drift away on the waves, and 2026 light up the skies in Yokosuka.\n\nhttps://tokyocheapo.com/events/yokosuka-countdown/"
+   },
+   "firstSeen": "2026-11-18T19:27:00Z"
+  },
+  {
+   "id": "64fa585b76",
+   "series": "370f1732dc",
+   "title": "Liquidroom Presents New Year Festival 2027",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "startMinute": 1200,
+   "dates": "Thu, Dec 31",
+   "time": "8 PM",
+   "place": "Shibuya",
+   "placeLines": "Shibuya",
+   "region": "SHIBUYA",
+   "category": "SEASONAL",
+   "cost": "¥6,700 – ¥7,700",
+   "free": false,
+   "summary": "Join a good bash this New Year's Eve at Liquidroom, a well-known, popular live music venue in Shibuya.",
+   "url": "https://tokyocheapo.com/events/liquidroom-new-year/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2024/09/Melvins-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Shibuya",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-31T11:00:00Z",
+    "end": "2026-12-31T12:00:00Z",
+    "notes": "Join a good bash this New Year's Eve at Liquidroom, a well-known, popular live music venue in Shibuya.\n\nhttps://tokyocheapo.com/events/liquidroom-new-year/"
+   },
+   "firstSeen": "2026-11-18T19:27:00Z"
   },
   {
    "id": "238f193483",
@@ -8278,6 +8408,54 @@
     "notes": "https://trx.jp/en/schejule"
    },
    "firstSeen": "2026-11-16T21:06:45Z"
+  },
+  {
+   "id": "6f78763fdd",
+   "series": "2874187612",
+   "title": "MOTTAINAI Flea Market at Nakano Central Park",
+   "start": "2027-02-11",
+   "end": "2027-02-11",
+   "dates": "Thu, Feb 11",
+   "place": "Nakano Central Park, Nakano Ward",
+   "placeLines": "Nakano Central Park, Nakano Ward",
+   "region": "NAKANO",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Nakano Central Park, Nakano Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-11",
+    "end": "2027-02-12",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-18T19:27:00Z"
+  },
+  {
+   "id": "0fe409ae0c",
+   "series": "ceeb4272e3",
+   "title": "Musamura Flea Market",
+   "start": "2027-02-11",
+   "end": "2027-02-11",
+   "dates": "Thu, Feb 11",
+   "place": "Musamura Flea Market, Musashimurayama City",
+   "placeLines": "Musamura Flea Market, Musashimurayama City",
+   "region": "TAMA",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Musamura Flea Market, Musashimurayama City",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-11",
+    "end": "2027-02-12",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-18T19:27:00Z"
   },
   {
    "id": "120883b190",

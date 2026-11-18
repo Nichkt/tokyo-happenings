@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64fa585b76-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261118T192700Z
+SEQUENCE:0
+DTSTART:20261231T110000Z
+DTEND:20261231T120000Z
+SUMMARY:Liquidroom Presents New Year Festival 2027
+LOCATION:Shibuya
+DESCRIPTION:Join a good bash this New Year's Eve at Liquidroom\, a well-kno
+ wn\, popular live music venue in Shibuya.\n\nhttps://tokyocheapo.com/event
+ s/liquidroom-new-year/
+URL:https://tokyocheapo.com/events/liquidroom-new-year/
+END:VEVENT
+END:VCALENDAR

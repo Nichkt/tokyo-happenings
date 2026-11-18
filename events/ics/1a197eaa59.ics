@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1a197eaa59-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261118T192700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Odaiba Winter Illuminations 2026: TokyoBay Light Wish
+LOCATION:Odaiba
+DESCRIPTION:Hours: 5–10 PM\n\nA free 40-meter tree of light in Symbol Pro
+ menade Park\, plus Christmas displays at Odaiba’s malls and hotels.\n\nh
+ ttps://tokyocheapo.com/events/odaiba-illuminations/
+URL:https://tokyocheapo.com/events/odaiba-illuminations/
+END:VEVENT
+END:VCALENDAR

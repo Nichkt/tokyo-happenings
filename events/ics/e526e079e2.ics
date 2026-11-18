@@ -5,14 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e526e079e2-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261117T195605Z
-SEQUENCE:0
+DTSTAMP:20261118T192700Z
+SEQUENCE:1
+LAST-MODIFIED:20261118T192700Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
 SUMMARY:Sumida Attaka Gourmet Fes 2026
 LOCATION:Asakusa
-DESCRIPTION:Free-entry winter food festival with 45 stalls at Sumida Park.\
+DESCRIPTION:Free-entry winter food festival with 44 stalls at Sumida Park.\
  n\nhttps://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/
 URL:https://tokyocheapo.com/events/sumida-attaka-gourmet-fes-2026/
 END:VEVENT

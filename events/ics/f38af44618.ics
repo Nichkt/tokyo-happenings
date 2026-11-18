@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f38af44618-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261118T192700Z
+SEQUENCE:0
+DTSTART:20261223T040000Z
+DTEND:20261223T070000Z
+SUMMARY:Safety and Security Spot Festival
+LOCATION:Yui no Mori Arakawa\, 2-25-3 Arakawa\, Arakawa
+DESCRIPTION:Children can learn traffic safety and crime prevention through 
+ fun games\, photo spots\, and interactive simulator activities.\n\nhttps:/
+ /www.city.arakawa.tokyo.jp/a014/spot/r8_spotfestival.html
+URL:https://www.city.arakawa.tokyo.jp/a014/spot/r8_spotfestival.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3e10e780d-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261118T192700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Yokosuka Countdown
+LOCATION:Yokosuka
+DESCRIPTION:Hours: 6 PM–1 AM\n\nWatch 2025 drift away on the waves\, and 
+ 2026 light up the skies in Yokosuka.\n\nhttps://tokyocheapo.com/events/yok
+ osuka-countdown/
+URL:https://tokyocheapo.com/events/yokosuka-countdown/
+END:VEVENT
+END:VCALENDAR
