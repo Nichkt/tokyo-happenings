@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-18T19:27:00Z",
+ "generatedAt": "2026-11-19T19:31:37Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-19",
- "until": "2027-02-11",
+ "from": "2026-11-20",
+ "until": "2027-02-12",
  "regions": [
   {
    "id": "ADACHI",
@@ -211,7 +211,7 @@
   },
   {
    "name": "GO TOKYO",
-   "events": 22
+   "events": 21
   },
   {
    "name": "Katsushika City events",
@@ -239,7 +239,7 @@
   },
   {
    "name": "Nerima City sightseeing events",
-   "events": 2
+   "events": 3
   },
   {
    "name": "Setagaya City events",
@@ -255,11 +255,11 @@
   },
   {
    "name": "Taito City events",
-   "events": 5
+   "events": 4
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 154
+   "events": 152
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -1263,102 +1263,34 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "6302a60049",
-   "series": "517bc2b8a5",
-   "title": "Fuchu Tori-no-Ichi Fair II",
+   "id": "bdf63a6d5c",
+   "series": "8c3848ea8f",
+   "title": "Takanawa Gateway City Christmas",
    "start": "2026-11-19",
-   "end": "2026-11-19",
-   "dates": "Thu, Nov 19",
-   "place": "Fuchu",
-   "placeLines": "Fuchu",
-   "region": "TAMA",
-   "category": "NIGHT_MARKET",
+   "end": "2026-12-25",
+   "dates": "Nov 19–Dec 25",
+   "place": "Takanawa",
+   "placeLines": "Takanawa",
+   "region": "MINATO",
+   "category": "SEASONAL",
    "cost": "Free",
    "free": true,
-   "summary": "An annual opportunity to improve your fortunes in the coming year, Fuchu's Tori no Ichi festival comes in multiple installments and includes a masked...",
-   "description": "An annual opportunity to improve your fortunes in the coming year, Fuchu's Tori no Ichi festival comes in multiple installments and includes a masked performance to enjoy.",
-   "url": "https://tokyocheapo.com/events/fuchu-tori-no-ichi-fair-ii/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/11/kumade-decorated-bamboo-rakes-tori-no-ichi-362x193.jpg",
+   "summary": "Takanawa Gateway City goes all festive, with a parade, seasonal lights, and two weekends of food trucks and free live music in Gateway Park.",
+   "description": "Takanawa Gateway City goes all festive, with a parade, seasonal lights, and two weekends of food trucks and free live music in Gateway Park. What to expect Takanawa Gateway is one of the three ...",
+   "url": "https://tokyocheapo.com/events/takanawa-gateway-city-christmas/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/takanawa-gateway-city-christmas-parade-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
     "Tokyo Cheapo"
    ],
-   "map": "Fuchu",
+   "map": "Takanawa",
    "calendar": {
     "allDay": true,
     "start": "2026-11-19",
-    "end": "2026-11-20",
-    "notes": "An annual opportunity to improve your fortunes in the coming year, Fuchu's Tori no Ichi festival comes in multiple installments and includes a masked...\n\nhttps://tokyocheapo.com/events/fuchu-tori-no-ichi-fair-ii/"
+    "end": "2026-12-26",
+    "notes": "Takanawa Gateway City goes all festive, with a parade, seasonal lights, and two weekends of food trucks and free live music in Gateway Park.\n\nhttps://tokyocheapo.com/events/takanawa-gateway-city-christmas/"
    },
-   "firstSeen": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "02d98aa053",
-   "series": "c87d0ef607",
-   "title": "Shinjuku Tori-no-ichi Fair II",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "dates": "Thu, Nov 19",
-   "place": "Shinjuku",
-   "placeLines": "Shinjuku",
-   "region": "SHINJUKU",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "The second part of Shinjuku's Tori-no-Ichi Fair.",
-   "url": "https://tokyocheapo.com/events/shinjuku-tori-no-ichi-fair-ii/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/11/15887653131_11d924640c_o-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shinjuku",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-11-20",
-    "notes": "The second part of Shinjuku's Tori-no-Ichi Fair.\n\nhttps://tokyocheapo.com/events/shinjuku-tori-no-ichi-fair-ii/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "cb4fb64c1d",
-   "series": "ba2441c93d",
-   "title": "Tori-no-Ichi Fair",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "startMinute": 0,
-   "endMinute": 1440,
-   "dates": "Thu, Nov 19",
-   "time": "All day",
-   "place": "Otori Shrine and Chokoku-ji Temple, Taito",
-   "placeLines": "Otori Shrine and Chokoku-ji Temple, Taito",
-   "region": "TAITO",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "watch": true,
-   "summary": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.",
-   "url": "https://www.city.taito.lg.jp/event/kanko/torinoithi.html",
-   "image": "https://www.gotokyo.org/en/spot/ev090/images/ev090_gd10135_main_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "Taito City events",
-    "GO TOKYO",
-    "Tokyo Cheapo"
-   ],
-   "map": "Otori Shrine and Chokoku-ji Temple, Taito",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-11-20",
-    "notes": "Stalls line the temple and shrine grounds selling ornate bamboo rakes decorated for good fortune and prosperity.\n\nhttps://www.city.taito.lg.jp/event/kanko/torinoithi.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T00:25:32Z"
+   "firstSeen": "2026-11-19T19:31:37Z"
   },
   {
    "id": "3b6a8a0dcf",
@@ -3293,40 +3225,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "ea2dd322e7",
-   "series": "b0afd456f2",
-   "title": "Doburoku Festival",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "startMinute": 540,
-   "endMinute": 1080,
-   "dates": "Sat, Nov 28",
-   "time": "9 AM–6 PM",
-   "place": "Nihonbashi",
-   "placeLines": "Nihonbashi",
-   "region": "CHUO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "At this festival, home-brewed sake will be offered to visitors.",
-   "url": "https://tokyocheapo.com/events/doburoku-matsuri/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/08/sake-GettyImages-2154385751-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Nihonbashi",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-28T00:00:00Z",
-    "end": "2026-11-28T09:00:00Z",
-    "notes": "At this festival, home-brewed sake will be offered to visitors.\n\nhttps://tokyocheapo.com/events/doburoku-matsuri/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "f269cb704e",
    "series": "7ea4673e37",
    "title": "Philippine Festival",
@@ -4101,6 +3999,36 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
+   "id": "081ed2542c",
+   "series": "219fa7b4c1",
+   "title": "Oedo Line Extension Marche",
+   "start": "2026-12-01",
+   "end": "2026-12-02",
+   "startMinute": 600,
+   "endMinute": 840,
+   "dates": "Dec 1–2",
+   "time": "10 AM–2 PM",
+   "place": "Nerima City Hall Main Building Atrium",
+   "placeLines": "Nerima City Hall Main Building Atrium\n6-12-1 Toyotamakita, Nerima",
+   "region": "NERIMA",
+   "category": "FARMERS",
+   "cost": "Free",
+   "free": true,
+   "summary": "Local vendors sell fresh vegetables, flowers, sweets, bread, bento boxes, and wine from the extension area.",
+   "url": "https://www.city.nerima.tokyo.jp/kusei/machi/kunai_tetsudo/ooedoenshin.html",
+   "sources": [
+    "Nerima City sightseeing events"
+   ],
+   "map": "Nerima City Hall Main Building Atrium, 6-12-1 Toyotamakita, Nerima",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-01",
+    "end": "2026-12-03",
+    "notes": "Hours: 10 AM–2 PM\n\nLocal vendors sell fresh vegetables, flowers, sweets, bread, bento boxes, and wine from the extension area.\n\nhttps://www.city.nerima.tokyo.jp/kusei/machi/kunai_tetsudo/ooedoenshin.html"
+   },
+   "firstSeen": "2026-11-19T19:31:37Z"
+  },
+  {
    "id": "1ab72edb6c",
    "series": "3e83c76df0",
    "title": "Omotesando Illumination",
@@ -4413,6 +4341,39 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 2,
    "changed": "2026-11-17T19:56:05Z"
+  },
+  {
+   "id": "2dac12047f",
+   "series": "38bd167bf6",
+   "title": "Masayume: The Giant Face Returns to the Sky Over Yoyogi Park",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 330,
+   "endMinute": 660,
+   "dates": "Dec 5–6",
+   "time": "5:30–11 AM",
+   "place": "Harajuku",
+   "placeLines": "Harajuku",
+   "region": "SHIBUYA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "A stranger's giant face, floating over the park.",
+   "description": "A stranger's giant face, floating over the park. Free, no booking.",
+   "url": "https://tokyocheapo.com/events/giant-face-yoyogi-park/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/masayume-me-2021-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Harajuku",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 5:30–11 AM\n\nA stranger's giant face, floating over the park.\n\nhttps://tokyocheapo.com/events/giant-face-yoyogi-park/"
+   },
+   "firstSeen": "2026-11-19T19:31:37Z"
   },
   {
    "id": "d25aabd9a9",

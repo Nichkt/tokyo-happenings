@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2dac12047f-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261119T193137Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Masayume: The Giant Face Returns to the Sky Over Yoyogi Park
+LOCATION:Harajuku
+DESCRIPTION:Hours: 5:30–11 AM\n\nA stranger's giant face\, floating over 
+ the park.\n\nhttps://tokyocheapo.com/events/giant-face-yoyogi-park/
+URL:https://tokyocheapo.com/events/giant-face-yoyogi-park/
+END:VEVENT
+END:VCALENDAR

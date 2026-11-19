@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bdf63a6d5c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261119T193137Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Takanawa Gateway City Christmas
+LOCATION:Takanawa
+DESCRIPTION:Takanawa Gateway City goes all festive\, with a parade\, season
+ al lights\, and two weekends of food trucks and free live music in Gateway
+  Park.\n\nhttps://tokyocheapo.com/events/takanawa-gateway-city-christmas/
+URL:https://tokyocheapo.com/events/takanawa-gateway-city-christmas/
+END:VEVENT
+END:VCALENDAR

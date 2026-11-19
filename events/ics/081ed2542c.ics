@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:081ed2542c-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261119T193137Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:Oedo Line Extension Marche
+LOCATION:Nerima City Hall Main Building Atrium\, 6-12-1 Toyotamakita\, Neri
+ ma
+DESCRIPTION:Hours: 10 AM–2 PM\n\nLocal vendors sell fresh vegetables\, fl
+ owers\, sweets\, bread\, bento boxes\, and wine from the extension area.\n
+ \nhttps://www.city.nerima.tokyo.jp/kusei/machi/kunai_tetsudo/ooedoenshin.h
+ tml
+URL:https://www.city.nerima.tokyo.jp/kusei/machi/kunai_tetsudo/ooedoenshin.
+ html
+END:VEVENT
+END:VCALENDAR
