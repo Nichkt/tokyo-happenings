@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:baa5b27351-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261120T191023Z
+SEQUENCE:0
+DTSTART:20270213T010000Z
+DTEND:20270213T090000Z
+SUMMARY:Kite Market
+LOCATION:Oji
+DESCRIPTION:The Kite Market at Oji Inari Shrine celebrates kites\, which ar
+ e considered lucky charms that ward off fires.\n\nhttps://tokyocheapo.com/
+ events/kite-market/20270213/
+URL:https://tokyocheapo.com/events/kite-market/20270213/
+END:VEVENT
+END:VCALENDAR

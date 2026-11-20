@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-19T19:31:37Z",
+ "generatedAt": "2026-11-20T19:10:23Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-20",
- "until": "2027-02-12",
+ "from": "2026-11-21",
+ "until": "2027-02-13",
  "regions": [
   {
    "id": "ADACHI",
@@ -191,7 +191,7 @@
   },
   {
    "name": "Arakawa City events",
-   "events": 4
+   "events": 5
   },
   {
    "name": "asakusajinja.jp",
@@ -259,11 +259,11 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 152
+   "events": 154
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 22
+   "events": 23
   },
   {
    "name": "Tokyo Weekender",
@@ -1582,6 +1582,30 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
+   "id": "84e32d05c3",
+   "series": "e3c4fb0d3d",
+   "title": "[OPEN] Musamura Flea Market",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "dates": "Sat, Nov 21",
+   "place": "[OPEN] Musamura Flea Market, Musashimurayama City",
+   "placeLines": "[OPEN] Musamura Flea Market, Musashimurayama City",
+   "region": "TAMA",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "[OPEN] Musamura Flea Market, Musashimurayama City",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-20T19:10:23Z"
+  },
+  {
    "id": "f584cf9a2e",
    "series": "65ecae63ee",
    "title": "Hachioji Ginkgo Festival",
@@ -1701,32 +1725,6 @@
    "firstSeen": "2026-11-05T18:51:23Z"
   },
   {
-   "id": "e4ecbf73d1",
-   "series": "ceeb4272e3",
-   "title": "Musamura Flea Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "dates": "Sat, Nov 21",
-   "place": "Musamura Flea Market, Musashimurayama City",
-   "placeLines": "Musamura Flea Market, Musashimurayama City",
-   "region": "TAMA",
-   "category": "NIGHT_MARKET",
-   "url": "https://trx.jp/en/schejule",
-   "sources": [
-    "Tokyo Recycle Movement flea markets"
-   ],
-   "map": "Musamura Flea Market, Musashimurayama City",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-22",
-    "notes": "https://trx.jp/en/schejule"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "6de21c0ebb",
    "series": "6a3c723c20",
    "title": "Tokyo Syukakusai 2026",
@@ -1757,53 +1755,17 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "d816c85789",
-   "series": "4d79464ba6",
-   "title": "Ohi Racecourse Tokyo City Flea Market",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "startMinute": 525,
-   "endMinute": 855,
-   "dates": "Nov 21–23",
-   "time": "8:45 AM–2:15 PM",
-   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "region": "SHINAGAWA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.",
-   "description": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal ...",
-   "url": "https://trx.jp/en/schejule",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/08/ohi-racecourse-fleamarket-outdoors-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Recycle Movement flea markets",
-    "Tokyo Cheapo"
-   ],
-   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-24",
-    "notes": "Hours: 8:45 AM–2:15 PM\n\nOne of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "906dcb8484",
-   "series": "333f41268b",
-   "title": "MOTTAINAI Flea Market at Shinjuku Central Park",
+   "id": "493f3512bd",
+   "series": "42240cbcea",
+   "title": "MOTTAINAI Flea Market at [OPEN] Shinjuku Central Park",
    "start": "2026-11-21",
    "end": "2026-11-21",
    "startMinute": 540,
    "endMinute": 900,
    "dates": "Sat, Nov 21",
    "time": "9 AM–3 PM",
-   "place": "Shinjuku Central Park, Shinjuku Ward",
-   "placeLines": "Shinjuku Central Park, Shinjuku Ward",
+   "place": "[OPEN] Shinjuku Central Park, Shinjuku Ward",
+   "placeLines": "[OPEN] Shinjuku Central Park, Shinjuku Ward",
    "region": "SHINJUKU",
    "category": "NIGHT_MARKET",
    "cost": "Free",
@@ -1816,16 +1778,14 @@
     "Tokyo Recycle Movement flea markets",
     "Tokyo Cheapo"
    ],
-   "map": "Shinjuku Central Park, Shinjuku Ward",
+   "map": "[OPEN] Shinjuku Central Park, Shinjuku Ward",
    "calendar": {
     "allDay": false,
     "start": "2026-11-21T00:00:00Z",
     "end": "2026-11-21T06:00:00Z",
     "notes": "This is considered a great spot to pick up some vintage items, but it's worth poring over the stalls at this popular spot near the Tokyo Metropolitan building.\n\nhttps://trx.jp/en/schejule"
    },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
+   "firstSeen": "2026-11-20T19:10:23Z"
   },
   {
    "id": "38934b2af8",
@@ -2163,7 +2123,7 @@
    "free": false,
    "summary": "Glowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.",
    "url": "https://tokyocheapo.com/events/roof-park-art-fes-kk-line/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/yoshirotten-sun-installation-2023-362x193.jpg",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/kk-line-roof-park-art-fes-halo-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
     "Tokyo Cheapo"
@@ -2242,6 +2202,39 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "d816c85789",
+   "series": "4d79464ba6",
+   "title": "Ohi Racecourse Tokyo City Flea Market",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "dates": "Nov 22–23",
+   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "region": "SHINAGAWA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.",
+   "description": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal ...",
+   "url": "https://trx.jp/en/schejule",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/08/ohi-racecourse-fleamarket-outdoors-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Recycle Movement flea markets",
+    "Tokyo Cheapo"
+   ],
+   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-11-22",
+    "end": "2026-11-24",
+    "notes": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-04T21:05:06Z",
+   "revision": 3,
+   "changed": "2026-11-20T19:10:23Z"
   },
   {
    "id": "72b33a37f4",
@@ -2513,9 +2506,9 @@
    "start": "2026-11-23",
    "end": "2026-11-23",
    "startMinute": 600,
-   "endMinute": 960,
+   "endMinute": 990,
    "dates": "Mon, Nov 23",
-   "time": "10 AM–4 PM",
+   "time": "10 AM–4:30 PM",
    "place": "Harajuku",
    "placeLines": "Harajuku",
    "region": "SHIBUYA",
@@ -2533,12 +2526,12 @@
    "calendar": {
     "allDay": false,
     "start": "2026-11-23T01:00:00Z",
-    "end": "2026-11-23T07:00:00Z",
+    "end": "2026-11-23T07:30:00Z",
     "notes": "Battles, workshops, and a brand-new kids' area at Yoyogi Park's one-day street dance festival.\n\nhttps://tokyocheapo.com/events/shibuya-street-dance-week/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 2,
+   "changed": "2026-11-20T19:10:23Z"
   },
   {
    "id": "c226de6cbd",
@@ -2591,7 +2584,7 @@
    "kids": true,
    "summary": "Children can enjoy ladder truck experiences, craft workshops, quiz corners, and stage performances.",
    "url": "https://www.city.toshima.lg.jp/231/2609151435.html",
-   "image": "https://www.city.toshima.lg.jp/images/57889/20261109105636.png",
+   "image": "https://www.city.toshima.lg.jp/images/57889/20261120095827.jpg",
    "imageCredit": "Toshima City events",
    "sources": [
     "Toshima City events"
@@ -8417,6 +8410,127 @@
     "notes": "https://trx.jp/en/schejule"
    },
    "firstSeen": "2026-11-18T19:27:00Z"
+  },
+  {
+   "id": "eaf4503353",
+   "series": "4d79464ba6",
+   "title": "Ohi Racecourse Tokyo City Flea Market",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "dates": "Sat, Feb 13",
+   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "region": "SHINAGAWA",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-13",
+    "end": "2027-02-14",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-20T19:10:23Z"
+  },
+  {
+   "id": "baa5b27351",
+   "series": "316d832c15",
+   "title": "Kite Market",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "startMinute": 600,
+   "endMinute": 1080,
+   "dates": "Sat, Feb 13",
+   "time": "10 AM–6 PM",
+   "place": "Oji",
+   "placeLines": "Oji",
+   "region": "KITA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "The Kite Market at Oji Inari Shrine celebrates kites, which are considered lucky charms that ward off fires.",
+   "url": "https://tokyocheapo.com/events/kite-market/20270213/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2016/02/japanese-kite-market-GettyImages-665872292-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Oji",
+   "calendar": {
+    "allDay": false,
+    "start": "2027-02-13T01:00:00Z",
+    "end": "2027-02-13T09:00:00Z",
+    "notes": "The Kite Market at Oji Inari Shrine celebrates kites, which are considered lucky charms that ward off fires.\n\nhttps://tokyocheapo.com/events/kite-market/20270213/"
+   },
+   "firstSeen": "2026-11-20T19:10:23Z"
+  },
+  {
+   "id": "dd32807da7",
+   "series": "755fb06089",
+   "title": "Winter Wonder Festival",
+   "start": "2027-02-13",
+   "end": "2027-02-14",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Feb 13–14",
+   "time": "10 AM–5 PM",
+   "place": "Makuhari",
+   "placeLines": "Makuhari",
+   "region": "FARTHER",
+   "category": "SEASONAL",
+   "cost": "¥2,200 – ¥3,500",
+   "free": false,
+   "summary": "Figure collectors, this is the event for you!",
+   "description": "Figure collectors, this is the event for you! Wonder Festival is known as the world's biggest festival for figures (also known as \"garage kits\").",
+   "url": "https://tokyocheapo.com/events/winter-wonder-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2024/01/GettyImages-488539996-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Makuhari",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-13",
+    "end": "2027-02-15",
+    "notes": "Hours: 10 AM–5 PM\n\nFigure collectors, this is the event for you!\n\nhttps://tokyocheapo.com/events/winter-wonder-festival/"
+   },
+   "firstSeen": "2026-11-20T19:10:23Z"
+  },
+  {
+   "id": "0a13689817",
+   "series": "a5e52b2aa6",
+   "title": "Arakawa Kirakira Parade",
+   "start": "2027-02-13",
+   "end": "2027-02-14",
+   "startMinute": 1020,
+   "endMinute": 1050,
+   "dates": "Feb 13–14",
+   "time": "5–5:30 PM",
+   "place": "Arakawa Amusement Park",
+   "placeLines": "Arakawa Amusement Park\n6-35-11 Nishiogu, Arakawa",
+   "region": "ARAKAWA",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Illuminated electric bicycles parade through the illuminated park with music.",
+   "url": "https://www.city.arakawa.tokyo.jp/a038/eventkarenda-/parade2.html",
+   "image": "https://www.city.arakawa.tokyo.jp/images/40383/parado.jpg",
+   "imageCredit": "Arakawa City events",
+   "sources": [
+    "Arakawa City events"
+   ],
+   "map": "Arakawa Amusement Park, 6-35-11 Nishiogu, Arakawa",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-02-13",
+    "end": "2027-02-15",
+    "notes": "Hours: 5–5:30 PM\n\nIlluminated electric bicycles parade through the illuminated park with music.\n\nhttps://www.city.arakawa.tokyo.jp/a038/eventkarenda-/parade2.html"
+   },
+   "firstSeen": "2026-11-20T19:10:23Z"
   },
   {
    "id": "120883b190",

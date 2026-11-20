@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd32807da7-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261120T191023Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+SUMMARY:Winter Wonder Festival
+LOCATION:Makuhari
+DESCRIPTION:Hours: 10 AM–5 PM\n\nFigure collectors\, this is the event fo
+ r you!\n\nhttps://tokyocheapo.com/events/winter-wonder-festival/
+URL:https://tokyocheapo.com/events/winter-wonder-festival/
+END:VEVENT
+END:VCALENDAR
