@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-20T19:10:23Z",
+ "generatedAt": "2026-11-21T18:05:24Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-21",
- "until": "2027-02-13",
+ "from": "2026-11-22",
+ "until": "2027-02-14",
  "regions": [
   {
    "id": "ADACHI",
@@ -231,7 +231,7 @@
   },
   {
    "name": "Minato City events",
-   "events": 5
+   "events": 4
   },
   {
    "name": "Nakano City events",
@@ -247,11 +247,11 @@
   },
   {
    "name": "Suginami City events",
-   "events": 8
+   "events": 7
   },
   {
    "name": "Tachikawa City events",
-   "events": 3
+   "events": 2
   },
   {
    "name": "Taito City events",
@@ -259,11 +259,11 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 154
+   "events": 150
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 23
+   "events": 21
   },
   {
    "name": "Tokyo Weekender",
@@ -1327,36 +1327,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "a26d1b7ea7",
-   "series": "7a7273245e",
-   "title": "Minore Autumn Harvest Festival Sale",
-   "start": "2026-11-19",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Nov 19–21",
-   "time": "10 AM–5 PM",
-   "place": "Farmers Center Minore Tachikawa",
-   "placeLines": "Farmers Center Minore Tachikawa\n1156-9 Izumicho, Tachikawa",
-   "region": "TAMA",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Shop for a wide selection of fresh, seasonal locally-grown vegetables and fruits.",
-   "url": "https://www.city.tachikawa.lg.jp/sangyo/nogyo/1004077/1025812.html",
-   "sources": [
-    "Tachikawa City events"
-   ],
-   "map": "Farmers Center Minore Tachikawa, 1156-9 Izumicho, Tachikawa",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-11-22",
-    "notes": "Hours: 10 AM–5 PM\n\nShop for a wide selection of fresh, seasonal locally-grown vegetables and fruits.\n\nhttps://www.city.tachikawa.lg.jp/sangyo/nogyo/1004077/1025812.html"
-   },
-   "firstSeen": "2026-11-11T17:49:00Z"
-  },
-  {
    "id": "b704608363",
    "series": "3a0e03f85b",
    "title": "Hirosaki Neputa Asakusa Festival",
@@ -1582,30 +1552,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "84e32d05c3",
-   "series": "e3c4fb0d3d",
-   "title": "[OPEN] Musamura Flea Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "dates": "Sat, Nov 21",
-   "place": "[OPEN] Musamura Flea Market, Musashimurayama City",
-   "placeLines": "[OPEN] Musamura Flea Market, Musashimurayama City",
-   "region": "TAMA",
-   "category": "NIGHT_MARKET",
-   "url": "https://trx.jp/en/schejule",
-   "sources": [
-    "Tokyo Recycle Movement flea markets"
-   ],
-   "map": "[OPEN] Musamura Flea Market, Musashimurayama City",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-22",
-    "notes": "https://trx.jp/en/schejule"
-   },
-   "firstSeen": "2026-11-20T19:10:23Z"
-  },
-  {
    "id": "f584cf9a2e",
    "series": "65ecae63ee",
    "title": "Hachioji Ginkgo Festival",
@@ -1755,39 +1701,6 @@
    "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
-   "id": "493f3512bd",
-   "series": "42240cbcea",
-   "title": "MOTTAINAI Flea Market at [OPEN] Shinjuku Central Park",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 540,
-   "endMinute": 900,
-   "dates": "Sat, Nov 21",
-   "time": "9 AM–3 PM",
-   "place": "[OPEN] Shinjuku Central Park, Shinjuku Ward",
-   "placeLines": "[OPEN] Shinjuku Central Park, Shinjuku Ward",
-   "region": "SHINJUKU",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "This is considered a great spot to pick up some vintage items, but it's worth poring over the stalls at this popular spot near the Tokyo Metropolitan building.",
-   "url": "https://trx.jp/en/schejule",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/Shinjuku-Chuo-flea-market-iStock-1174400794-Marco_Piunti-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Recycle Movement flea markets",
-    "Tokyo Cheapo"
-   ],
-   "map": "[OPEN] Shinjuku Central Park, Shinjuku Ward",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T00:00:00Z",
-    "end": "2026-11-21T06:00:00Z",
-    "notes": "This is considered a great spot to pick up some vintage items, but it's worth poring over the stalls at this popular spot near the Tokyo Metropolitan building.\n\nhttps://trx.jp/en/schejule"
-   },
-   "firstSeen": "2026-11-20T19:10:23Z"
-  },
-  {
    "id": "38934b2af8",
    "series": "08c9fb15f5",
    "title": "Chofu Agriculture Festival",
@@ -1814,68 +1727,6 @@
     "start": "2026-11-21",
     "end": "2026-11-23",
     "notes": "Hours: 10 AM–3 PM\n\nLocal farmers showcase fresh produce exhibitions, direct sales, agricultural consultations, and local food stalls.\n\nhttps://www.city.chofu.lg.jp/040060/p025064.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "d2ea50f7f3",
-   "series": "8ed91f7c84",
-   "title": "Mottainai Flea Market",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–4 PM",
-   "place": "Gotanda",
-   "placeLines": "Gotanda",
-   "region": "SHINAGAWA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "This is the flea market to shop-til-you-drop — find second hand clothes, DVDs, books, anything you can think of.",
-   "url": "https://tokyocheapo.com/events/mottainai-flea-market/20261121/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/mottainai-shimokitazawa-ctk-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Gotanda",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T01:00:00Z",
-    "end": "2026-11-21T07:00:00Z",
-    "notes": "This is the flea market to shop-til-you-drop — find second hand clothes, DVDs, books, anything you can think of.\n\nhttps://tokyocheapo.com/events/mottainai-flea-market/20261121/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "754b04d4fd",
-   "series": "b180737d16",
-   "title": "Suginoko Farm Festival",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 600,
-   "endMinute": 720,
-   "dates": "Sat, Nov 21",
-   "time": "10 AM–12 PM",
-   "place": "Suginoko Farm, Suginami",
-   "placeLines": "Suginoko Farm, Suginami\n3-19-23 Igusa, Suginami",
-   "region": "SUGINAMI",
-   "category": "FARMERS",
-   "summary": "Buy local vegetables, flowers, and handmade goods from welfare facilities while joining farming activities.",
-   "url": "https://www.city.suginami.tokyo.jp/s121/event/28512.html",
-   "sources": [
-    "Suginami City events"
-   ],
-   "map": "Suginoko Farm, 3-19-23 Igusa, Suginami",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T01:00:00Z",
-    "end": "2026-11-21T03:00:00Z",
-    "notes": "Buy local vegetables, flowers, and handmade goods from welfare facilities while joining farming activities.\n\nhttps://www.city.suginami.tokyo.jp/s121/event/28512.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
   },
@@ -1944,40 +1795,6 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "8ca321059c",
-   "series": "dc8942cc6c",
-   "title": "Koenji Picnic Marche",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 660,
-   "endMinute": 1020,
-   "dates": "Sat, Nov 21",
-   "time": "11 AM–5 PM",
-   "place": "Koenji",
-   "placeLines": "Koenji",
-   "region": "SUGINAMI",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Free monthly market with bread, sweets, coffee and crafts at Flat Sugihachi in Koenji.",
-   "url": "https://tokyocheapo.com/events/koenji-picnic-marche/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/10/upload-8-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Koenji",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T02:00:00Z",
-    "end": "2026-11-21T08:00:00Z",
-    "notes": "Free monthly market with bread, sweets, coffee and crafts at Flat Sugihachi in Koenji.\n\nhttps://tokyocheapo.com/events/koenji-picnic-marche/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "530c6d1ece",
    "series": "4851928e69",
    "title": "Tennoz Harbor Market",
@@ -2042,38 +1859,6 @@
    "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
-   "id": "1039f458c1",
-   "series": "06a710f38b",
-   "title": "Petit Play Park",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 810,
-   "endMinute": 930,
-   "dates": "Sat, Nov 21",
-   "time": "1:30–3:30 PM",
-   "place": "Hitotsugi Park, Minato",
-   "placeLines": "Hitotsugi Park, Minato\n5-5-26 Akasaka, Minato",
-   "region": "MINATO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "This outdoor play event for everyone includes autumn-themed activities like a leaf pool and tree climbing.",
-   "url": "https://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1121hittotugi.html",
-   "image": "https://www.city.minato.tokyo.jp/images/182239/20261112140242.jpg",
-   "imageCredit": "Minato City events",
-   "sources": [
-    "Minato City events"
-   ],
-   "map": "Hitotsugi Park, 5-5-26 Akasaka, Minato",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T04:30:00Z",
-    "end": "2026-11-21T06:30:00Z",
-    "notes": "This outdoor play event for everyone includes autumn-themed activities like a leaf pool and tree climbing.\n\nhttps://www.city.minato.tokyo.jp/akasakadobokutan/reiwa8/1121hittotugi.html"
-   },
-   "firstSeen": "2026-11-12T18:59:59Z"
-  },
-  {
    "id": "08821cb4bc",
    "series": "181e3fb20f",
    "title": "Meiji Jingu Gaien Autumn Leaves Illumination",
@@ -2136,38 +1921,6 @@
     "notes": "Hours: 5–8:30 PM\n\nGlowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.\n\nhttps://tokyocheapo.com/events/roof-park-art-fes-kk-line/"
    },
    "firstSeen": "2026-11-10T18:43:58Z"
-  },
-  {
-   "id": "b408ef105e",
-   "series": "1080a611ef",
-   "title": "Koedo Kawagoe Fireworks Festival",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "startMinute": 1080,
-   "endMinute": 1150,
-   "dates": "Sat, Nov 21",
-   "time": "6–7:10 PM",
-   "place": "Kawagoe",
-   "placeLines": "Kawagoe",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one.",
-   "url": "https://tokyocheapo.com/events/koedo-kawagoe-fireworks-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/07/GettyImages-1038897680-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Kawagoe",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T09:00:00Z",
-    "end": "2026-11-21T10:10:00Z",
-    "notes": "An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one.\n\nhttps://tokyocheapo.com/events/koedo-kawagoe-fireworks-festival/"
-   },
-   "firstSeen": "2026-11-11T17:49:00Z"
   },
   {
    "id": "849c4ceb74",
@@ -8416,8 +8169,8 @@
    "series": "4d79464ba6",
    "title": "Ohi Racecourse Tokyo City Flea Market",
    "start": "2027-02-13",
-   "end": "2027-02-13",
-   "dates": "Sat, Feb 13",
+   "end": "2027-02-14",
+   "dates": "Feb 13–14",
    "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "region": "SHINAGAWA",
@@ -8430,10 +8183,12 @@
    "calendar": {
     "allDay": true,
     "start": "2027-02-13",
-    "end": "2027-02-14",
+    "end": "2027-02-15",
     "notes": "https://trx.jp/en/schejule"
    },
-   "firstSeen": "2026-11-20T19:10:23Z"
+   "firstSeen": "2026-11-20T19:10:23Z",
+   "revision": 1,
+   "changed": "2026-11-21T18:05:24Z"
   },
   {
    "id": "baa5b27351",
