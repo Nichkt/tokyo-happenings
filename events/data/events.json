@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-21T18:05:24Z",
+ "generatedAt": "2026-11-22T18:35:02Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-22",
- "until": "2027-02-14",
+ "from": "2026-11-23",
+ "until": "2027-02-15",
  "regions": [
   {
    "id": "ADACHI",
@@ -199,7 +199,7 @@
   },
   {
    "name": "Chofu City events",
-   "events": 5
+   "events": 4
   },
   {
    "name": "Edogawa City events",
@@ -211,7 +211,7 @@
   },
   {
    "name": "GO TOKYO",
-   "events": 21
+   "events": 20
   },
   {
    "name": "Katsushika City events",
@@ -234,12 +234,8 @@
    "events": 4
   },
   {
-   "name": "Nakano City events",
-   "events": 1
-  },
-  {
    "name": "Nerima City sightseeing events",
-   "events": 3
+   "events": 2
   },
   {
    "name": "Setagaya City events",
@@ -247,7 +243,7 @@
   },
   {
    "name": "Suginami City events",
-   "events": 7
+   "events": 6
   },
   {
    "name": "Tachikawa City events",
@@ -255,11 +251,11 @@
   },
   {
    "name": "Taito City events",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 150
+   "events": 139
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -279,7 +275,7 @@
   },
   {
    "name": "Yoyogi Park Events & Festivals",
-   "events": 3
+   "events": 2
   }
  ],
  "events": [
@@ -366,37 +362,6 @@
    },
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 3,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "27dabaa4a7",
-   "series": "56c8104903",
-   "title": "Kameido Tenjin Chrysanthemum Festival",
-   "start": "2026-10-25",
-   "end": "2026-11-22",
-   "dates": "Oct 25–Nov 22",
-   "place": "Kameido",
-   "placeLines": "Kameido",
-   "region": "KOTO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Held at Kameido Tenjin Shrine, this chrysanthemum festival is small and beautifully constructed for you to really appreciate their natural beauty.",
-   "url": "https://tokyocheapo.com/events/kameido-tenjin-chrysanthemum-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/10/chrys-festival-362x193.jpeg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Kameido",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-25",
-    "end": "2026-11-23",
-    "notes": "Held at Kameido Tenjin Shrine, this chrysanthemum festival is small and beautifully constructed for you to really appreciate their natural beauty.\n\nhttps://tokyocheapo.com/events/kameido-tenjin-chrysanthemum-festival/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
   },
   {
@@ -1327,40 +1292,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "b704608363",
-   "series": "3a0e03f85b",
-   "title": "Hirosaki Neputa Asakusa Festival",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 1140,
-   "dates": "Nov 20–22",
-   "time": "10 AM–7 PM",
-   "place": "Asakusa",
-   "placeLines": "Asakusa",
-   "region": "TAITO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "If you can't get to Aomori for the Hirosaki Neputa Festival, the Hirosaki Neputa Asakusa Festival is the next best thing.",
-   "url": "https://tokyocheapo.com/events/hirosaki-neputa-asakusa-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/11/hirosaki-neputa-asakusa_gdl-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Asakusa",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-20",
-    "end": "2026-11-23",
-    "notes": "Hours: 10 AM–7 PM\n\nIf you can't get to Aomori for the Hirosaki Neputa Festival, the Hirosaki Neputa Asakusa Festival is the next best thing.\n\nhttps://tokyocheapo.com/events/hirosaki-neputa-asakusa-festival/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "bd605f300c",
    "series": "945eead564",
    "title": "Tokyo Christmas Market in Shin-Toyosu",
@@ -1526,64 +1457,6 @@
    "firstSeen": "2026-11-18T19:27:00Z"
   },
   {
-   "id": "cd39b7cf57",
-   "series": "39bde6ada4",
-   "title": "4th TOKYO Women and Children's Festival",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "dates": "Nov 21–22",
-   "region": "SHIBUYA",
-   "category": "COMMUNITY",
-   "kids": true,
-   "url": "https://www.yoyogipark.info/2026/tokyo-women-children-festival-2026-2/",
-   "image": "https://www.yoyogipark.info/wp-content/uploads/2026/11/image-6-150x150.png",
-   "imageCredit": "Yoyogi Park Events & Festivals",
-   "sources": [
-    "Yoyogi Park Events & Festivals"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "https://www.yoyogipark.info/2026/tokyo-women-children-festival-2026-2/"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "f584cf9a2e",
-   "series": "65ecae63ee",
-   "title": "Hachioji Ginkgo Festival",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "dates": "Nov 21–22",
-   "place": "Hachioji",
-   "placeLines": "Hachioji",
-   "region": "TAMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Golden ginkgo trees, festival stalls, and a trail of old-style checkpoints.",
-   "url": "https://www.gotokyo.org/en/spot/ev122/index.html",
-   "image": "https://www.gotokyo.org/en/spot/ev122/images/ev122_main_gd10131_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "GO TOKYO",
-    "Tokyo Cheapo"
-   ],
-   "map": "Hachioji",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Golden ginkgo trees, festival stalls, and a trail of old-style checkpoints.\n\nhttps://www.gotokyo.org/en/spot/ev122/index.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 3,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "832dad1d73",
    "series": "ee4761efca",
    "title": "Iga Ueno Ninja Festa",
@@ -1642,159 +1515,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "3a75ef9570",
-   "series": "4e3cdf035c",
-   "title": "Kasukabe Hagoita Market",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "dates": "Nov 21–22",
-   "place": "Kasukabe",
-   "placeLines": "Kasukabe",
-   "region": "FARTHER",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Visit the Hagoita Market in Kasukabe and buy yourself a hagoita.",
-   "url": "https://tokyocheapo.com/events/kasukabe-hagoita-market/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/12/15425093354_730f6a92c2_o-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Kasukabe",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Visit the Hagoita Market in Kasukabe and buy yourself a hagoita.\n\nhttps://tokyocheapo.com/events/kasukabe-hagoita-market/"
-   },
-   "firstSeen": "2026-11-05T18:51:23Z"
-  },
-  {
-   "id": "6de21c0ebb",
-   "series": "6a3c723c20",
-   "title": "Tokyo Syukakusai 2026",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "dates": "Nov 21–22",
-   "place": "Marunouchi",
-   "placeLines": "Marunouchi",
-   "region": "CHIYODA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Food fairs are more fun when you can get stuck in, especially if you have little ones.",
-   "description": "Food fairs are more fun when you can get stuck in, especially if you have little ones. Come along and cook, eat, and learn at this food fair.",
-   "url": "https://tokyocheapo.com/events/tokyo-harvest-fair/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/09/harvest-rice-autumn-iStock-621481948-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Marunouchi",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Food fairs are more fun when you can get stuck in, especially if you have little ones.\n\nhttps://tokyocheapo.com/events/tokyo-harvest-fair/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "38934b2af8",
-   "series": "08c9fb15f5",
-   "title": "Chofu Agriculture Festival",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Nov 21–22",
-   "time": "10 AM–3 PM",
-   "place": "Chofu Station Front Square",
-   "placeLines": "Chofu Station Front Square\n2-60 Kojimacho, Chofu",
-   "region": "TAMA",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Local farmers showcase fresh produce exhibitions, direct sales, agricultural consultations, and local food stalls.",
-   "url": "https://www.city.chofu.lg.jp/040060/p025064.html",
-   "sources": [
-    "Chofu City events"
-   ],
-   "map": "Chofu Station Front Square, 2-60 Kojimacho, Chofu",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Hours: 10 AM–3 PM\n\nLocal farmers showcase fresh produce exhibitions, direct sales, agricultural consultations, and local food stalls.\n\nhttps://www.city.chofu.lg.jp/040060/p025064.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "65cff764e4",
-   "series": "ffd84e0dd2",
-   "title": "UNU Farmers Market",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Nov 21–22",
-   "time": "10 AM–4 PM",
-   "place": "Shibuya",
-   "placeLines": "Shibuya",
-   "region": "SHIBUYA",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Pick up fresh veg and much, much more.",
-   "url": "https://tokyocheapo.com/events/unu-farmers-market/20261121/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/11/sub6-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shibuya",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Hours: 10 AM–4 PM\n\nPick up fresh veg and much, much more.\n\nhttps://tokyocheapo.com/events/unu-farmers-market/20261121/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "f2649a77e8",
-   "series": "694436f253",
-   "title": "Urban Agriculture Festival Preview Event",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Nov 21–22",
-   "time": "10 AM–4 PM",
-   "place": "Hikarigaoka Park Keyaki Hiroba, Nerima",
-   "placeLines": "Hikarigaoka Park Keyaki Hiroba, Nerima\n4 Hikarigaoka, Nerima",
-   "region": "NERIMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Visitors can buy fresh agricultural products and regional specialties from fifteen participating municipalities across Japan.",
-   "url": "https://www.city.nerima.tokyo.jp/kankomoyoshi/nogyo/toshinou_festival/festival2027pre.html",
-   "sources": [
-    "Nerima City sightseeing events"
-   ],
-   "map": "Hikarigaoka Park Keyaki Hiroba, 4 Hikarigaoka, Nerima",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Hours: 10 AM–4 PM\n\nVisitors can buy fresh agricultural products and regional specialties from fifteen participating municipalities across Japan.\n\nhttps://www.city.nerima.tokyo.jp/kankomoyoshi/nogyo/toshinou_festival/festival2027pre.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "530c6d1ece",
    "series": "4851928e69",
    "title": "Tennoz Harbor Market",
@@ -1827,36 +1547,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "81873b8c7d",
-   "series": "4849f3c3a3",
-   "title": "Murayama Tourism and Product Fair",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "startMinute": 780,
-   "endMinute": 960,
-   "dates": "Nov 21–22",
-   "time": "1–4 PM",
-   "place": "Senso-ji Temple, Taito",
-   "placeLines": "Senso-ji Temple, Taito",
-   "region": "TAITO",
-   "category": "FOOD",
-   "cost": "Free",
-   "free": true,
-   "summary": "Regional specialities from Yamagata prefecture including local sake, fresh vegetables, imoni soup, and konjac are sold.",
-   "url": "https://www.city.taito.lg.jp/kusei/shokai/shimaitoshi/news/murayamabussan.html",
-   "sources": [
-    "Taito City events"
-   ],
-   "map": "Senso-ji Temple, Taito",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Hours: 1–4 PM\n\nRegional specialities from Yamagata prefecture including local sake, fresh vegetables, imoni soup, and konjac are sold.\n\nhttps://www.city.taito.lg.jp/kusei/shokai/shimaitoshi/news/murayamabussan.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "08821cb4bc",
@@ -1923,48 +1613,14 @@
    "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
-   "id": "849c4ceb74",
-   "series": "ff3a3aec65",
-   "title": "Hakkeijima Sea Paradise Fireworks",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "startMinute": 1230,
-   "endMinute": 1240,
-   "dates": "Nov 21–22",
-   "time": "8:30–8:40 PM",
-   "place": "Yokohama and Kanagawa",
-   "placeLines": "Yokohama and Kanagawa",
-   "region": "FARTHER",
-   "category": "SEASONAL",
-   "cost": "¥2,000 – ¥8,900",
-   "free": false,
-   "summary": "Watch 2,500 digitally synchronized fireworks light up the summer night sky.",
-   "url": "https://tokyocheapo.com/events/hakkeijima-sea-paradise-fireworks/20261121/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/06/sub1-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Yokohama and Kanagawa",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-23",
-    "notes": "Hours: 8:30–8:40 PM\n\nWatch 2,500 digitally synchronized fireworks light up the summer night sky.\n\nhttps://tokyocheapo.com/events/hakkeijima-sea-paradise-fireworks/20261121/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "d816c85789",
-   "series": "4d79464ba6",
-   "title": "Ohi Racecourse Tokyo City Flea Market",
-   "start": "2026-11-22",
+   "id": "e0a9608ef8",
+   "series": "929fda09e1",
+   "title": "[OPEN] Ohi Racecourse Tokyo City Flea Market",
+   "start": "2026-11-23",
    "end": "2026-11-23",
-   "dates": "Nov 22–23",
-   "place": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "placeLines": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "dates": "Mon, Nov 23",
+   "place": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "placeLines": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "region": "SHINAGAWA",
    "category": "NIGHT_MARKET",
    "cost": "Free",
@@ -1978,211 +1634,14 @@
     "Tokyo Recycle Movement flea markets",
     "Tokyo Cheapo"
    ],
-   "map": "Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
+   "map": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
    "calendar": {
     "allDay": true,
-    "start": "2026-11-22",
+    "start": "2026-11-23",
     "end": "2026-11-24",
     "notes": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
    },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 3,
-   "changed": "2026-11-20T19:10:23Z"
-  },
-  {
-   "id": "72b33a37f4",
-   "series": "08f85f3e39",
-   "title": "Hanazono Shrine Antique Market",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "startMinute": 420,
-   "endMinute": 960,
-   "dates": "Sun, Nov 22",
-   "time": "7 AM–4 PM",
-   "place": "Shinjuku",
-   "placeLines": "Shinjuku",
-   "region": "SHINJUKU",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Blue skies are the perfect time to visit this small antique fair.",
-   "description": "Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets.",
-   "url": "https://tokyocheapo.com/events/hanazono-antique-market/20261122/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/Tokyo-flea-market-iStock-844908670-gyro-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shinjuku",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-21T22:00:00Z",
-    "end": "2026-11-22T07:00:00Z",
-    "notes": "Blue skies are the perfect time to visit this small antique fair.\n\nhttps://tokyocheapo.com/events/hanazono-antique-market/20261122/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z"
-  },
-  {
-   "id": "43f60b83f5",
-   "series": "9ce2a8992f",
-   "title": "Ajinomoto Stadium BIG Flea Market",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Sun, Nov 22",
-   "time": "10 AM–3 PM",
-   "place": "Chofu",
-   "placeLines": "Chofu",
-   "region": "TAMA",
-   "category": "NIGHT_MARKET",
-   "cost": "¥300 – ¥1,000",
-   "free": false,
-   "summary": "Spend a day hunting through the maze of stalls and sales in this enormous flea market and snag yourself some bargains!",
-   "url": "https://tokyocheapo.com/events/ajinomoto-stadium-big-flea-market-2/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/10/Ajinomoto-Flea-Market-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Chofu",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T01:00:00Z",
-    "end": "2026-11-22T06:00:00Z",
-    "notes": "Spend a day hunting through the maze of stalls and sales in this enormous flea market and snag yourself some bargains!\n\nhttps://tokyocheapo.com/events/ajinomoto-stadium-big-flea-market-2/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "61d07a93a4",
-   "series": "1df1681e40",
-   "title": "Boy Scout Autumn Festival",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 840,
-   "dates": "Sun, Nov 22",
-   "time": "10 AM–2 PM",
-   "place": "Suginami Dai-1 Elementary School",
-   "placeLines": "Suginami Dai-1 Elementary School\n1-5-27 Asagayakita, Suginami",
-   "region": "SUGINAMI",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy outdoor games, food stalls, and a charity bazaar hosted by the local scouts.",
-   "url": "https://www.city.suginami.tokyo.jp/s059/event/28842.html",
-   "sources": [
-    "Suginami City events"
-   ],
-   "map": "Suginami Dai-1 Elementary School, 1-5-27 Asagayakita, Suginami",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T01:00:00Z",
-    "end": "2026-11-22T05:00:00Z",
-    "notes": "Enjoy outdoor games, food stalls, and a charity bazaar hosted by the local scouts.\n\nhttps://www.city.suginami.tokyo.jp/s059/event/28842.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "bb055b2298",
-   "series": "d3b0472641",
-   "title": "Tokyo Romantic Flea Market",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "startMinute": 600,
-   "endMinute": 960,
-   "dates": "Sun, Nov 22",
-   "time": "10 AM–4 PM",
-   "place": "Ariake",
-   "placeLines": "Ariake",
-   "region": "KOTO",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Enjoy a sweet stroll around this antique Tokyo Flea Market.",
-   "url": "https://tokyocheapo.com/events/tokyo-romantic-flea-market/20261122/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/Flea-market-Japan-iStock-530003716-akiyoko-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Ariake",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T01:00:00Z",
-    "end": "2026-11-22T07:00:00Z",
-    "notes": "Enjoy a sweet stroll around this antique Tokyo Flea Market.\n\nhttps://tokyocheapo.com/events/tokyo-romantic-flea-market/20261122/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "edb8985173",
-   "series": "3001c57a01",
-   "title": "Akasaka Antique Market in Ark Hills",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "startMinute": 660,
-   "endMinute": 1080,
-   "dates": "Sun, Nov 22",
-   "time": "11 AM–6 PM",
-   "place": "Akasaka",
-   "placeLines": "Akasaka",
-   "region": "MINATO",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Akasaka Antique Market in Ark Hills is one of the classier flea markets in Tokyo.",
-   "url": "https://tokyocheapo.com/events/akasaka-antique-market-ark-hills/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2022/06/akasaka-ark-hills-market_gdl-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Akasaka",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T02:00:00Z",
-    "end": "2026-11-22T09:00:00Z",
-    "notes": "Akasaka Antique Market in Ark Hills is one of the classier flea markets in Tokyo.\n\nhttps://tokyocheapo.com/events/akasaka-antique-market-ark-hills/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-09T21:29:49Z"
-  },
-  {
-   "id": "833fbd868b",
-   "series": "422ab43a9e",
-   "title": "Magokoro Marche",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "startMinute": 780,
-   "endMinute": 960,
-   "dates": "Sun, Nov 22",
-   "time": "1–4 PM",
-   "place": "Magokoro Donuts Youth Free Space, Nakano",
-   "placeLines": "Magokoro Donuts Youth Free Space, Nakano\n1-41-2 Chuo, Nakano",
-   "region": "NAKANO",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Everyone can enjoy plastic plate crafting, retro games, portrait corners, and baked goods from welfare facilities.",
-   "url": "https://www.city.tokyo-nakano.lg.jp/kosodate/wakamonoshien/magokoromarche.html",
-   "sources": [
-    "Nakano City events"
-   ],
-   "map": "Magokoro Donuts Youth Free Space, 1-41-2 Chuo, Nakano",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-22T04:00:00Z",
-    "end": "2026-11-22T07:00:00Z",
-    "notes": "Everyone can enjoy plastic plate crafting, retro games, portrait corners, and baked goods from welfare facilities.\n\nhttps://www.city.tokyo-nakano.lg.jp/kosodate/wakamonoshien/magokoromarche.html"
-   },
-   "firstSeen": "2026-11-10T18:43:58Z"
+   "firstSeen": "2026-11-22T18:35:02Z"
   },
   {
    "id": "72d7aa4d70",
