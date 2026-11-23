@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2fb1c46727-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261123T224527Z
+SEQUENCE:0
+DTSTART:20261220T010000Z
+DTEND:20261220T060000Z
+SUMMARY:POP Festival
+LOCATION:Arakawa Park\, 2-2-3 Arakawa\, Arakawa
+DESCRIPTION:This community event features stalls\, traditional storytelling
+ \, dance performances\, and games for families to enjoy together.\n\nhttps
+ ://www.city.arakawa.tokyo.jp/a046/kyouiku-seishounen/pta/r7_event-pop.html
+URL:https://www.city.arakawa.tokyo.jp/a046/kyouiku-seishounen/pta/r7_event-
+ pop.html
+END:VEVENT
+END:VCALENDAR

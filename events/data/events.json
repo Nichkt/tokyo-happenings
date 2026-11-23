@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-22T18:35:02Z",
+ "generatedAt": "2026-11-23T22:45:27Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-23",
- "until": "2027-02-15",
+ "from": "2026-11-24",
+ "until": "2027-02-16",
  "regions": [
   {
    "id": "ADACHI",
@@ -186,12 +186,8 @@
  ],
  "sources": [
   {
-   "name": "antique-market.jp",
-   "events": 1
-  },
-  {
    "name": "Arakawa City events",
-   "events": 5
+   "events": 6
   },
   {
    "name": "asakusajinja.jp",
@@ -199,11 +195,11 @@
   },
   {
    "name": "Chofu City events",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Edogawa City events",
-   "events": 7
+   "events": 6
   },
   {
    "name": "Fuchu City events",
@@ -211,7 +207,7 @@
   },
   {
    "name": "GO TOKYO",
-   "events": 20
+   "events": 17
   },
   {
    "name": "Katsushika City events",
@@ -227,7 +223,7 @@
   },
   {
    "name": "Meguro City events",
-   "events": 5
+   "events": 4
   },
   {
    "name": "Minato City events",
@@ -255,11 +251,11 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 139
+   "events": 124
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 21
+   "events": 20
   },
   {
    "name": "Tokyo Weekender",
@@ -267,11 +263,11 @@
   },
   {
    "name": "Toshima City events",
-   "events": 10
+   "events": 7
   },
   {
    "name": "Ueno Park events",
-   "events": 2
+   "events": 1
   },
   {
    "name": "Yoyogi Park Events & Festivals",
@@ -279,56 +275,6 @@
   }
  ],
  "events": [
-  {
-   "id": "5f97ff5a6d",
-   "series": "8b0f75557e",
-   "title": "Mitake Gorge Autumn Colors Festival",
-   "start": "2026-10-24",
-   "end": "2026-11-23",
-   "dates": "Oct 24–Nov 23",
-   "region": "TAMA",
-   "category": "SEASONAL",
-   "url": "https://www.gotokyo.org/en/spot/ev069/index.html",
-   "image": "https://www.gotokyo.org/en/spot/ev069/images/ev069_gd10084_main_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "GO TOKYO"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-24",
-    "end": "2026-11-24",
-    "notes": "https://www.gotokyo.org/en/spot/ev069/index.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "eddffec7d3",
-   "series": "aee04f508c",
-   "title": "Mt. Mitake Autumn Leaves Festival (Tenku Momiji Matsuri)",
-   "start": "2026-10-24",
-   "end": "2026-11-23",
-   "dates": "Oct 24–Nov 23",
-   "region": "TAMA",
-   "category": "CULTURAL",
-   "url": "https://www.gotokyo.org/en/spot/ev073/index.html",
-   "image": "https://www.gotokyo.org/en/spot/ev073/images/ev073_gd10084_main_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "GO TOKYO"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-10-24",
-    "end": "2026-11-24",
-    "notes": "https://www.gotokyo.org/en/spot/ev073/index.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
   {
    "id": "a94aca5f34",
    "series": "b04a095b2f",
@@ -420,31 +366,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "231594585c",
-   "series": "212377bd87",
-   "title": "Bunkyo Chrysanthemum Festival",
-   "start": "2026-11-01",
-   "end": "2026-11-23",
-   "dates": "Nov 1–23",
-   "region": "BUNKYO",
-   "category": "COMMUNITY",
-   "url": "https://www.gotokyo.org/en/spot/ev144/index.html",
-   "image": "https://www.gotokyo.org/en/spot/ev144/images/ev144_gd10134_main_450.webp",
-   "imageCredit": "GO TOKYO",
-   "sources": [
-    "GO TOKYO"
-   ],
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-01",
-    "end": "2026-11-24",
-    "notes": "https://www.gotokyo.org/en/spot/ev144/index.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "6dbcec4cdb",
    "series": "002ad1dc0a",
    "title": "Nagatoro Autumn Leaves Festival",
@@ -474,70 +395,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "7fdf344f6e",
-   "series": "8b46a3873e",
-   "title": "Yushima Tenjin Chrysanthemum Festival",
-   "start": "2026-11-01",
-   "end": "2026-11-23",
-   "startMinute": 360,
-   "endMinute": 1080,
-   "dates": "Nov 1–23",
-   "time": "6 AM–6 PM",
-   "place": "Yushima",
-   "placeLines": "Yushima",
-   "region": "BUNKYO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Catch sight of the deep reds that inspired Hokusai and famous figures adorned with chrysanthemum flowers at this beautifully arranged flower festival.",
-   "url": "https://tokyocheapo.com/events/yushima-tenjin-chrysanthemum-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/10/kiku-bunkyo-photos-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Yushima",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-01",
-    "end": "2026-11-24",
-    "notes": "Hours: 6 AM–6 PM\n\nCatch sight of the deep reds that inspired Hokusai and famous figures adorned with chrysanthemum flowers at this beautifully arranged flower festival.\n\nhttps://tokyocheapo.com/events/yushima-tenjin-chrysanthemum-festival/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "7ec52e3d35",
-   "series": "716dc0108f",
-   "title": "Jindai Botanical Park Autumn Rose Festa",
-   "start": "2026-11-01",
-   "end": "2026-11-23",
-   "startMinute": 570,
-   "endMinute": 1020,
-   "dates": "Nov 1–23",
-   "time": "9:30 AM–5 PM",
-   "place": "Jindai Botanical Park, Chofu",
-   "placeLines": "Jindai Botanical Park, Chofu\n5-31-10 Jindaiji Motomachi, Chofu",
-   "region": "TAMA",
-   "category": "SEASONAL",
-   "cost": "¥500",
-   "free": false,
-   "summary": "Enjoy autumn roses with early morning park openings, concerts, miniature bonsai exhibitions, and garden tours.",
-   "url": "https://www.city.chofu.lg.jp/040040/p023399.html",
-   "sources": [
-    "Chofu City events"
-   ],
-   "map": "Jindai Botanical Park, 5-31-10 Jindaiji Motomachi, Chofu",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-01",
-    "end": "2026-11-24",
-    "notes": "Hours: 9:30 AM–5 PM\n\nEnjoy autumn roses with early morning park openings, concerts, miniature bonsai exhibitions, and garden tours.\n\nhttps://www.city.chofu.lg.jp/040040/p023399.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "52fbbb855b",
@@ -1258,40 +1115,6 @@
    "firstSeen": "2026-11-19T19:31:37Z"
   },
   {
-   "id": "3b6a8a0dcf",
-   "series": "96a3fdf166",
-   "title": "Gaigosai Festival",
-   "start": "2026-11-19",
-   "end": "2026-11-23",
-   "startMinute": 600,
-   "endMinute": 1080,
-   "dates": "Nov 19–23",
-   "time": "10 AM–6 PM",
-   "place": "Tama",
-   "placeLines": "Tama",
-   "region": "TAMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "A tour around the world without the need for a passport.",
-   "url": "https://tokyocheapo.com/events/gaigosai-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/07/GettyImages-1486717861-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Tama",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-19",
-    "end": "2026-11-24",
-    "notes": "Hours: 10 AM–6 PM\n\nA tour around the world without the need for a passport.\n\nhttps://tokyocheapo.com/events/gaigosai-festival/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "bd605f300c",
    "series": "945eead564",
    "title": "Tokyo Christmas Market in Shin-Toyosu",
@@ -1391,40 +1214,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "c24211475b",
-   "series": "d1108343a5",
-   "title": "Shimokitazawa Flea Market",
-   "start": "2026-11-20",
-   "end": "2026-11-23",
-   "startMinute": 720,
-   "endMinute": 1020,
-   "dates": "Nov 20–23",
-   "time": "12–5 PM",
-   "place": "Shimokitazawa",
-   "placeLines": "Shimokitazawa",
-   "region": "SETAGAYA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Find your next dream flea market treasure at this trendy market in Shimokitazawa.",
-   "url": "https://tokyocheapo.com/events/shimokitazawa-flea-market/20261120/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2024/01/GettyImages-485039700-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Shimokitazawa",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-20",
-    "end": "2026-11-24",
-    "notes": "Hours: 12–5 PM\n\nFind your next dream flea market treasure at this trendy market in Shimokitazawa.\n\nhttps://tokyocheapo.com/events/shimokitazawa-flea-market/20261120/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "1a197eaa59",
    "series": "63125f03e3",
    "title": "Odaiba Winter Illuminations 2026: TokyoBay Light Wish",
@@ -1457,33 +1246,6 @@
    "firstSeen": "2026-11-18T19:27:00Z"
   },
   {
-   "id": "832dad1d73",
-   "series": "ee4761efca",
-   "title": "Iga Ueno Ninja Festa",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "dates": "Nov 21–23",
-   "place": "Ueno Park, Taito",
-   "placeLines": "Ueno Park, Taito",
-   "region": "TAITO",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Ninja shows, demonstrations, and themed activities celebrate the history of Iga ninjas.",
-   "url": "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/event",
-   "sources": [
-    "Ueno Park events"
-   ],
-   "map": "Ueno Park, Taito",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-24",
-    "notes": "Ninja shows, demonstrations, and themed activities celebrate the history of Iga ninjas.\n\nhttps://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/event"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "04b6754c87",
    "series": "5cfa6ac7b9",
    "title": "Kamakura Hasedera Temple Autumn Illuminations",
@@ -1509,40 +1271,6 @@
     "start": "2026-11-21",
     "end": "2026-12-07",
     "notes": "See the beauty of autumn nights at Kamakura's Hasedera Temple Illuminations.\n\nhttps://tokyocheapo.com/events/kamakura-hasedera-temple-autumn-illuminations/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "530c6d1ece",
-   "series": "4851928e69",
-   "title": "Tennoz Harbor Market",
-   "start": "2026-11-21",
-   "end": "2026-11-23",
-   "startMinute": 660,
-   "endMinute": 960,
-   "dates": "Nov 21–23",
-   "time": "11 AM–4 PM",
-   "place": "Odaiba",
-   "placeLines": "Odaiba",
-   "region": "MINATO",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "If you’re after something low-key but creative, this one’s an easy addition to your calendar.",
-   "url": "https://tokyocheapo.com/events/tennoz-harbor-market/20261121/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/09/GettyImages-2190620219-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Odaiba",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-21",
-    "end": "2026-11-24",
-    "notes": "Hours: 11 AM–4 PM\n\nIf you’re after something low-key but creative, this one’s an easy addition to your calendar.\n\nhttps://tokyocheapo.com/events/tennoz-harbor-market/20261121/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
@@ -1611,268 +1339,6 @@
     "notes": "Hours: 5–8:30 PM\n\nGlowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.\n\nhttps://tokyocheapo.com/events/roof-park-art-fes-kk-line/"
    },
    "firstSeen": "2026-11-10T18:43:58Z"
-  },
-  {
-   "id": "e0a9608ef8",
-   "series": "929fda09e1",
-   "title": "[OPEN] Ohi Racecourse Tokyo City Flea Market",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "dates": "Mon, Nov 23",
-   "place": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "placeLines": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "region": "SHINAGAWA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.",
-   "description": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal ...",
-   "url": "https://trx.jp/en/schejule",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/08/ohi-racecourse-fleamarket-outdoors-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Recycle Movement flea markets",
-    "Tokyo Cheapo"
-   ],
-   "map": "[OPEN] Ohi Racecourse Tokyo City Flea Market, Shinagawa Ward",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-23",
-    "end": "2026-11-24",
-    "notes": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps.\n\nhttps://trx.jp/en/schejule"
-   },
-   "firstSeen": "2026-11-22T18:35:02Z"
-  },
-  {
-   "id": "72d7aa4d70",
-   "series": "bd7461649c",
-   "title": "The Oedo Antique Market",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 540,
-   "endMinute": 960,
-   "dates": "Mon, Nov 23",
-   "time": "9 AM–4 PM",
-   "place": "Yurakucho",
-   "placeLines": "Yurakucho",
-   "region": "CHIYODA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "watch": true,
-   "summary": "One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander.",
-   "url": "https://tokyocheapo.com/events/oedo-antique-market/20261123/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/12/Oedo-Antique-Market-CF-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo",
-    "antique-market.jp"
-   ],
-   "map": "Yurakucho",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T00:00:00Z",
-    "end": "2026-11-23T07:00:00Z",
-    "notes": "One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander.\n\nhttps://tokyocheapo.com/events/oedo-antique-market/20261123/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "c915c76891",
-   "series": "e558a61366",
-   "title": "IKE-Biz Festa",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Mon, Nov 23",
-   "time": "10 AM–5 PM",
-   "place": "IKE-Biz Toshima Industrial Promotion Plaza",
-   "placeLines": "IKE-Biz Toshima Industrial Promotion Plaza\nNishi-Ikebukuro, Toshima",
-   "region": "TOSHIMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Visitors enjoy family concerts, local specialty product sales, and interactive workshops for all ages.",
-   "url": "https://www.city.toshima.lg.jp/121/shisetsu/sonota/2608050909.html",
-   "image": "https://www.city.toshima.lg.jp/images/57517/chirasi6.jpg",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "IKE-Biz Toshima Industrial Promotion Plaza, Nishi-Ikebukuro, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T01:00:00Z",
-    "end": "2026-11-23T08:00:00Z",
-    "notes": "Visitors enjoy family concerts, local specialty product sales, and interactive workshops for all ages.\n\nhttps://www.city.toshima.lg.jp/121/shisetsu/sonota/2608050909.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "9aa20924c0",
-   "series": "6824a227ef",
-   "title": "Shibuya Street Dance Week",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 600,
-   "endMinute": 990,
-   "dates": "Mon, Nov 23",
-   "time": "10 AM–4:30 PM",
-   "place": "Harajuku",
-   "placeLines": "Harajuku",
-   "region": "SHIBUYA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Battles, workshops, and a brand-new kids' area at Yoyogi Park's one-day street dance festival.",
-   "url": "https://tokyocheapo.com/events/shibuya-street-dance-week/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/11/Dancer-istock-djiledesign-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Harajuku",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T01:00:00Z",
-    "end": "2026-11-23T07:30:00Z",
-    "notes": "Battles, workshops, and a brand-new kids' area at Yoyogi Park's one-day street dance festival.\n\nhttps://tokyocheapo.com/events/shibuya-street-dance-week/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-20T19:10:23Z"
-  },
-  {
-   "id": "c226de6cbd",
-   "series": "695dff2824",
-   "title": "Somei Yoshino Sakura Village Autumn Festival",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 600,
-   "endMinute": 900,
-   "dates": "Mon, Nov 23",
-   "time": "10 AM–3 PM",
-   "place": "Somei Yoshino Sakura Memorial Park, Toshima",
-   "placeLines": "Somei Yoshino Sakura Memorial Park, Toshima\n2-2-1 Komagome, Toshima",
-   "region": "TOSHIMA",
-   "category": "CULTURAL",
-   "cost": "Free",
-   "free": true,
-   "summary": "Celebrate the birthplace of the Somei Yoshino cherry blossom with local product exhibitions and stage performances.",
-   "url": "https://www.city.toshima.lg.jp/132/2609161020.html",
-   "image": "https://www.city.toshima.lg.jp/images/57900/20260916110606.jpg",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "Somei Yoshino Sakura Memorial Park, 2-2-1 Komagome, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T01:00:00Z",
-    "end": "2026-11-23T06:00:00Z",
-    "notes": "Celebrate the birthplace of the Somei Yoshino cherry blossom with local product exhibitions and stage performances.\n\nhttps://www.city.toshima.lg.jp/132/2609161020.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "35d3b1f697",
-   "series": "eab4fab48c",
-   "title": "Wanpaku Festival",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 600,
-   "endMinute": 870,
-   "dates": "Mon, Nov 23",
-   "time": "10 AM–2:30 PM",
-   "place": "Toshima City General Gymnasium",
-   "placeLines": "Toshima City General Gymnasium\n2-45-1 Minamiikebukuro, Toshima",
-   "region": "TOSHIMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Children can enjoy ladder truck experiences, craft workshops, quiz corners, and stage performances.",
-   "url": "https://www.city.toshima.lg.jp/231/2609151435.html",
-   "image": "https://www.city.toshima.lg.jp/images/57889/20261120095827.jpg",
-   "imageCredit": "Toshima City events",
-   "sources": [
-    "Toshima City events"
-   ],
-   "map": "Toshima City General Gymnasium, 2-45-1 Minamiikebukuro, Toshima",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T01:00:00Z",
-    "end": "2026-11-23T05:30:00Z",
-    "notes": "Children can enjoy ladder truck experiences, craft workshops, quiz corners, and stage performances.\n\nhttps://www.city.toshima.lg.jp/231/2609151435.html"
-   },
-   "firstSeen": "2026-11-10T18:43:58Z"
-  },
-  {
-   "id": "b5e04b038c",
-   "series": "5d51b239f1",
-   "title": "Kasai Super Fes",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 630,
-   "endMinute": 900,
-   "dates": "Mon, Nov 23",
-   "time": "10:30 AM–3 PM",
-   "place": "Kyoiku Plaza Kasai, Edogawa",
-   "placeLines": "Kyoiku Plaza Kasai, Edogawa\n175 Ukita-cho, Edogawa",
-   "region": "EDOGAWA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "kids": true,
-   "summary": "Children can enjoy autumn-themed games, food trucks, and pony rides at this annual community plaza festival.",
-   "url": "https://www.city.edogawa.tokyo.jp/event/super_fes.html",
-   "image": "https://www.city.edogawa.tokyo.jp/images/74965/1.jpg",
-   "imageCredit": "Edogawa City events",
-   "sources": [
-    "Edogawa City events"
-   ],
-   "map": "Kyoiku Plaza Kasai, 175 Ukita-cho, Edogawa",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T01:30:00Z",
-    "end": "2026-11-23T06:00:00Z",
-    "notes": "Children can enjoy autumn-themed games, food trucks, and pony rides at this annual community plaza festival.\n\nhttps://www.city.edogawa.tokyo.jp/event/super_fes.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "56638ac46c",
-   "series": "802ff702f7",
-   "title": "Motokeiba Derby",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "startMinute": 660,
-   "endMinute": 1020,
-   "dates": "Mon, Nov 23",
-   "time": "11 AM–5 PM",
-   "place": "Makino Building Parking Lot, Meguro",
-   "placeLines": "Makino Building Parking Lot, Meguro\n5-1-12 Shimo-meguro, Meguro",
-   "region": "MEGURO",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "political": true,
-   "summary": "A neighborhood shopping street festival featuring stamp rallies, fresh produce distribution, and classic cars.",
-   "url": "https://www.city.meguro.tokyo.jp/sangyoukeizai/event/syoutengaiautumnevent.html",
-   "sources": [
-    "Meguro City events"
-   ],
-   "map": "Makino Building Parking Lot, 5-1-12 Shimo-meguro, Meguro",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-23T02:00:00Z",
-    "end": "2026-11-23T08:00:00Z",
-    "notes": "A neighborhood shopping street festival featuring stamp rallies, fresh produce distribution, and classic cars.\n\nhttps://www.city.meguro.tokyo.jp/sangyoukeizai/event/syoutengaiautumnevent.html"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
   },
   {
    "id": "37be271826",
@@ -3171,39 +2637,6 @@
    "firstSeen": "2026-11-16T21:06:45Z"
   },
   {
-   "id": "1352ebcca2",
-   "series": "1f2649123c",
-   "title": "Machida Tenmangu Antique Fair",
-   "start": "2026-12-01",
-   "end": "2026-12-01",
-   "startMinute": 420,
-   "endMinute": 900,
-   "dates": "Tue, Dec 1",
-   "time": "7 AM–3 PM",
-   "place": "Machida",
-   "placeLines": "Machida",
-   "region": "TAMA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "With over 120 stalls full of antique items of all shapes and sizes, it's no wonder this market is a lively spot on the first of the month.",
-   "description": "With over 120 stalls full of antique items of all shapes and sizes, it's no wonder this market is a lively spot on the first of the month. Pop by and enjoy digging for some hidden treasure.",
-   "url": "https://tokyocheapo.com/events/machida-tenmangu-antique-fair/20261201/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/Flea-market-Japan-iStock-530003716-akiyoko-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Machida",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-11-30T22:00:00Z",
-    "end": "2026-12-01T06:00:00Z",
-    "notes": "With over 120 stalls full of antique items of all shapes and sizes, it's no wonder this market is a lively spot on the first of the month.\n\nhttps://tokyocheapo.com/events/machida-tenmangu-antique-fair/20261201/"
-   },
-   "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
    "id": "081ed2542c",
    "series": "219fa7b4c1",
    "title": "Oedo Line Extension Marche",
@@ -3269,40 +2702,6 @@
    "changed": "2026-11-16T21:06:45Z"
   },
   {
-   "id": "047a8a8cd1",
-   "series": "50bddacf3c",
-   "title": "Chichibu Night Festival",
-   "start": "2026-12-02",
-   "end": "2026-12-03",
-   "startMinute": 1020,
-   "endMinute": 1320,
-   "dates": "Dec 2–3",
-   "time": "5–10 PM",
-   "place": "Chichibu",
-   "placeLines": "Chichibu",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Head out to Chichibu for one of Japan's biggest float festivals.",
-   "url": "https://tokyocheapo.com/events/chichibu-yomatsuri/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/11/Chichibu-Yomatsuri-iStock-xxxx-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Chichibu",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-02",
-    "end": "2026-12-04",
-    "notes": "Hours: 5–10 PM\n\nHead out to Chichibu for one of Japan's biggest float festivals.\n\nhttps://tokyocheapo.com/events/chichibu-yomatsuri/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
    "id": "4ce21f3fdf",
    "series": "d1108343a5",
    "title": "Shimokitazawa Flea Market",
@@ -3335,66 +2734,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "15b2993eb3",
-   "series": "d347d4e7bc",
-   "title": "Czech Festival 2026",
-   "start": "2026-12-04",
-   "end": "2026-12-06",
-   "dates": "Dec 4–6",
-   "place": "Futakotamagawa",
-   "placeLines": "Futakotamagawa",
-   "region": "SETAGAYA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Dip your toes into a new culture at the Czech Festival.",
-   "description": "Dip your toes into a new culture at the Czech Festival. You can try everything from traditional Czech food and drinks, to cosmetics and toys - there's sure to be something for you!",
-   "url": "https://tokyocheapo.com/events/czech-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/09/Czech_Festival-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Futakotamagawa",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-04",
-    "end": "2026-12-07",
-    "notes": "Dip your toes into a new culture at the Czech Festival.\n\nhttps://tokyocheapo.com/events/czech-festival/"
-   },
-   "firstSeen": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "984c413911",
-   "series": "ee0fe8f744",
-   "title": "Japan Fisherman’s Festival",
-   "start": "2026-12-04",
-   "end": "2026-12-06",
-   "dates": "Dec 4–6",
-   "place": "Hibiya",
-   "placeLines": "Hibiya",
-   "region": "CHIYODA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Come prepared with an empty stomach to the Japan Fisherman's Festival.",
-   "description": "Come prepared with an empty stomach to the Japan Fisherman's Festival. Will you go for the international seafood menu with Japanese twists or stick to the traditional menu options?",
-   "url": "https://tokyocheapo.com/events/japan-fishermans-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/07/ayu-sweetfish-iStock-1211411134-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Hibiya",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-04",
-    "end": "2026-12-07",
-    "notes": "Come prepared with an empty stomach to the Japan Fisherman's Festival.\n\nhttps://tokyocheapo.com/events/japan-fishermans-festival/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
    "id": "af86afdf50",
@@ -3546,39 +2885,6 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 2,
    "changed": "2026-11-17T19:56:05Z"
-  },
-  {
-   "id": "2dac12047f",
-   "series": "38bd167bf6",
-   "title": "Masayume: The Giant Face Returns to the Sky Over Yoyogi Park",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "startMinute": 330,
-   "endMinute": 660,
-   "dates": "Dec 5–6",
-   "time": "5:30–11 AM",
-   "place": "Harajuku",
-   "placeLines": "Harajuku",
-   "region": "SHIBUYA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "A stranger's giant face, floating over the park.",
-   "description": "A stranger's giant face, floating over the park. Free, no booking.",
-   "url": "https://tokyocheapo.com/events/giant-face-yoyogi-park/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/masayume-me-2021-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Harajuku",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-05",
-    "end": "2026-12-07",
-    "notes": "Hours: 5:30–11 AM\n\nA stranger's giant face, floating over the park.\n\nhttps://tokyocheapo.com/events/giant-face-yoyogi-park/"
-   },
-   "firstSeen": "2026-11-19T19:31:37Z"
   },
   {
    "id": "d25aabd9a9",
@@ -3737,40 +3043,6 @@
     "notes": "Baseball fans can enjoy professional player experiences on the field, talk shows, and job experience programs.\n\nhttps://www.city.chofu.lg.jp/040070/p026456.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "ba1109a902",
-   "series": "081dbd7188",
-   "title": "Heiwajima Antiques Fair",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "startMinute": 600,
-   "endMinute": 1020,
-   "dates": "Dec 5–6",
-   "time": "10 AM–5 PM",
-   "place": "Heiwajima",
-   "placeLines": "Heiwajima",
-   "region": "OTA",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "Heiwajima Antiques Festival is the place for serious antique lovers.",
-   "url": "https://tokyocheapo.com/events/heiwajima-antiques-fair/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/07/GettyImages-1210525231-1-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Heiwajima",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-05",
-    "end": "2026-12-07",
-    "notes": "Hours: 10 AM–5 PM\n\nHeiwajima Antiques Festival is the place for serious antique lovers.\n\nhttps://tokyocheapo.com/events/heiwajima-antiques-fair/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
   },
   {
    "id": "9a1f1f8ee2",
@@ -3982,37 +3254,6 @@
    },
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
-  },
-  {
-   "id": "572d654a5b",
-   "series": "cc153f4f17",
-   "title": "Oji Tori-no-Ichi Fair",
-   "start": "2026-12-06",
-   "end": "2026-12-06",
-   "dates": "Sun, Dec 6",
-   "place": "Oji",
-   "placeLines": "Oji",
-   "region": "KITA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.",
-   "url": "https://tokyocheapo.com/events/oji-tori-no-ichi-fair/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/10/GettyImages-809465230-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Oji",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-06",
-    "end": "2026-12-07",
-    "notes": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.\n\nhttps://tokyocheapo.com/events/oji-tori-no-ichi-fair/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
    "changed": "2026-11-05T01:31:53Z"
   },
   {
@@ -4367,38 +3608,6 @@
     "notes": "Enjoy food stalls, hands-on health checks, stage performances, and prize draws at this community welfare event.\n\nhttps://www.city.toshima.lg.jp/171/event/2609101122.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
-  },
-  {
-   "id": "2b3173bfb2",
-   "series": "ea702a0146",
-   "title": "Akibasan Fire Festival",
-   "start": "2026-12-06",
-   "end": "2026-12-06",
-   "startMinute": 900,
-   "endMinute": 1200,
-   "dates": "Sun, Dec 6",
-   "time": "3–8 PM",
-   "place": "Odawara",
-   "placeLines": "Odawara",
-   "region": "FARTHER",
-   "category": "COMMUNITY",
-   "cost": "Free",
-   "free": true,
-   "summary": "This aptly named festival focuses on protection from fire.",
-   "url": "https://tokyocheapo.com/events/akibasan-fire-festival/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/11/fire-festival-iStock-y-studio-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Odawara",
-   "calendar": {
-    "allDay": false,
-    "start": "2026-12-06T06:00:00Z",
-    "end": "2026-12-06T11:00:00Z",
-    "notes": "This aptly named festival focuses on protection from fire.\n\nhttps://tokyocheapo.com/events/akibasan-fire-festival/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z"
   },
   {
    "id": "dcc1113d01",
@@ -6059,6 +5268,38 @@
     "notes": "Browse handmade goods, crafts, and second-hand items at this outdoor park flea market and workshop event.\n\nhttps://www.city.toshima.lg.jp/150/2607271704.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "2fb1c46727",
+   "series": "e00cd7abbc",
+   "title": "POP Festival",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "startMinute": 600,
+   "endMinute": 900,
+   "dates": "Sun, Dec 20",
+   "time": "10 AM–3 PM",
+   "place": "Arakawa Park",
+   "placeLines": "Arakawa Park\n2-2-3 Arakawa, Arakawa",
+   "region": "ARAKAWA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This community event features stalls, traditional storytelling, dance performances, and games for families to enjoy together.",
+   "url": "https://www.city.arakawa.tokyo.jp/a046/kyouiku-seishounen/pta/r7_event-pop.html",
+   "image": "https://www.city.arakawa.tokyo.jp/images/42775/pop2026_a4.jpg",
+   "imageCredit": "Arakawa City events",
+   "sources": [
+    "Arakawa City events"
+   ],
+   "map": "Arakawa Park, 2-2-3 Arakawa, Arakawa",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-20T01:00:00Z",
+    "end": "2026-12-20T06:00:00Z",
+    "notes": "This community event features stalls, traditional storytelling, dance performances, and games for families to enjoy together.\n\nhttps://www.city.arakawa.tokyo.jp/a046/kyouiku-seishounen/pta/r7_event-pop.html"
+   },
+   "firstSeen": "2026-11-23T22:45:27Z"
   },
   {
    "id": "686d85f527",
