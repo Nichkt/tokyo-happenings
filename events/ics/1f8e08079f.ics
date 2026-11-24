@@ -5,14 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1f8e08079f-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T000030Z
-SEQUENCE:0
+DTSTAMP:20261124T212302Z
+SEQUENCE:1
+LAST-MODIFIED:20261124T212302Z
 DTSTART:20261128T220000Z
 DTEND:20261129T070000Z
 SUMMARY:Hanazono Shrine Antique Market
 LOCATION:Shinjuku
 DESCRIPTION:Blue skies are the perfect time to visit this small antique fai
- r.\n\nhttps://tokyocheapo.com/events/hanazono-antique-market/20261129/
-URL:https://tokyocheapo.com/events/hanazono-antique-market/20261129/
+ r.\n\nhttps://tokyocheapo.com/events/hanazono-antique-market/
+URL:https://tokyocheapo.com/events/hanazono-antique-market/
 END:VEVENT
 END:VCALENDAR

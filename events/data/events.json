@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-23T22:45:27Z",
+ "generatedAt": "2026-11-24T21:23:02Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-24",
- "until": "2027-02-16",
+ "from": "2026-11-25",
+ "until": "2027-02-17",
  "regions": [
   {
    "id": "ADACHI",
@@ -251,7 +251,7 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 124
+   "events": 133
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
@@ -954,39 +954,6 @@
    "changed": "2026-11-18T19:27:00Z"
   },
   {
-   "id": "9d1c8df40c",
-   "series": "e1f29718ec",
-   "title": "Koishikawa Korakuen Autumn Illumination 2026",
-   "start": "2026-11-13",
-   "end": "2026-11-24",
-   "startMinute": 1080,
-   "endMinute": 1260,
-   "dates": "Nov 13–24",
-   "time": "6–9 PM",
-   "place": "Korakuen",
-   "placeLines": "Korakuen",
-   "region": "BUNKYO",
-   "category": "SEASONAL",
-   "free": false,
-   "summary": "Explore one of the city's most beautiful parks lit up at night.",
-   "url": "https://tokyocheapo.com/events/koishikawa-korakuen-autumn-illumination/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/08/PXL_20261112_094405742.MP_-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Korakuen",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-13",
-    "end": "2026-11-25",
-    "notes": "Hours: 6–9 PM\n\nExplore one of the city's most beautiful parks lit up at night.\n\nhttps://tokyocheapo.com/events/koishikawa-korakuen-autumn-illumination/"
-   },
-   "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 3,
-   "changed": "2026-11-13T18:36:39Z"
-  },
-  {
    "id": "f0dacf729b",
    "series": "f5ed7c2002",
    "title": "Tama Center Illumination",
@@ -1680,6 +1647,38 @@
    "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
+   "id": "6251287ccd",
+   "series": "b0afd456f2",
+   "title": "Doburoku Festival",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "startMinute": 540,
+   "endMinute": 1020,
+   "dates": "Fri, Nov 27",
+   "time": "9 AM–5 PM",
+   "place": "Nihonbashi",
+   "placeLines": "Nihonbashi",
+   "region": "CHUO",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "At this festival, home-brewed sake will be offered to visitors.",
+   "url": "https://tokyocheapo.com/events/doburoku-matsuri/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/08/sake-GettyImages-2154385751-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Nihonbashi",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-27T00:00:00Z",
+    "end": "2026-11-27T08:00:00Z",
+    "notes": "At this festival, home-brewed sake will be offered to visitors.\n\nhttps://tokyocheapo.com/events/doburoku-matsuri/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
+  },
+  {
    "id": "cedabd49bb",
    "series": "3ae33c017f",
    "title": "Mejiro Station Christmas Tree Illumination",
@@ -2273,7 +2272,7 @@
    "free": true,
    "summary": "Blue skies are the perfect time to visit this small antique fair.",
    "description": "Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets.",
-   "url": "https://tokyocheapo.com/events/hanazono-antique-market/20261129/",
+   "url": "https://tokyocheapo.com/events/hanazono-antique-market/",
    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/Tokyo-flea-market-iStock-844908670-gyro-362x193.jpg",
    "imageCredit": "Tokyo Cheapo",
    "sources": [
@@ -2284,9 +2283,11 @@
     "allDay": false,
     "start": "2026-11-28T22:00:00Z",
     "end": "2026-11-29T07:00:00Z",
-    "notes": "Blue skies are the perfect time to visit this small antique fair.\n\nhttps://tokyocheapo.com/events/hanazono-antique-market/20261129/"
+    "notes": "Blue skies are the perfect time to visit this small antique fair.\n\nhttps://tokyocheapo.com/events/hanazono-antique-market/"
    },
-   "firstSeen": "2026-11-05T00:00:30Z"
+   "firstSeen": "2026-11-05T00:00:30Z",
+   "revision": 1,
+   "changed": "2026-11-24T21:23:02Z"
   },
   {
    "id": "406f77c111",
@@ -2637,6 +2638,39 @@
    "firstSeen": "2026-11-16T21:06:45Z"
   },
   {
+   "id": "1352ebcca2",
+   "series": "1f2649123c",
+   "title": "Machida Tenmangu Antique Fair",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "startMinute": 420,
+   "endMinute": 900,
+   "dates": "Tue, Dec 1",
+   "time": "7 AM–3 PM",
+   "place": "Machida",
+   "placeLines": "Machida",
+   "region": "TAMA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "With over 120 stalls full of antique items of all shapes and sizes, it's no wonder this market is a lively spot on the first of the month.",
+   "description": "With over 120 stalls full of antique items of all shapes and sizes, it's no wonder this market is a lively spot on the first of the month. Pop by and enjoy digging for some hidden treasure.",
+   "url": "https://tokyocheapo.com/events/machida-tenmangu-antique-fair/20261201/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/08/Flea-market-Japan-iStock-530003716-akiyoko-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Machida",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-30T22:00:00Z",
+    "end": "2026-12-01T06:00:00Z",
+    "notes": "With over 120 stalls full of antique items of all shapes and sizes, it's no wonder this market is a lively spot on the first of the month.\n\nhttps://tokyocheapo.com/events/machida-tenmangu-antique-fair/20261201/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
+  },
+  {
    "id": "081ed2542c",
    "series": "219fa7b4c1",
    "title": "Oedo Line Extension Marche",
@@ -2702,6 +2736,38 @@
    "changed": "2026-11-16T21:06:45Z"
   },
   {
+   "id": "047a8a8cd1",
+   "series": "50bddacf3c",
+   "title": "Chichibu Night Festival",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "startMinute": 1020,
+   "endMinute": 1320,
+   "dates": "Dec 2–3",
+   "time": "5–10 PM",
+   "place": "Chichibu",
+   "placeLines": "Chichibu",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Head out to Chichibu for one of Japan's biggest float festivals.",
+   "url": "https://tokyocheapo.com/events/chichibu-yomatsuri/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2013/11/Chichibu-Yomatsuri-iStock-xxxx-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Chichibu",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-02",
+    "end": "2026-12-04",
+    "notes": "Hours: 5–10 PM\n\nHead out to Chichibu for one of Japan's biggest float festivals.\n\nhttps://tokyocheapo.com/events/chichibu-yomatsuri/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
+  },
+  {
    "id": "4ce21f3fdf",
    "series": "d1108343a5",
    "title": "Shimokitazawa Flea Market",
@@ -2734,6 +2800,66 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "15b2993eb3",
+   "series": "d347d4e7bc",
+   "title": "Czech Festival 2026",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "dates": "Dec 4–6",
+   "place": "Futakotamagawa",
+   "placeLines": "Futakotamagawa",
+   "region": "SETAGAYA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Dip your toes into a new culture at the Czech Festival.",
+   "description": "Dip your toes into a new culture at the Czech Festival. You can try everything from traditional Czech food and drinks, to cosmetics and toys - there's sure to be something for you!",
+   "url": "https://tokyocheapo.com/events/czech-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/09/Czech_Festival-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Futakotamagawa",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-07",
+    "notes": "Dip your toes into a new culture at the Czech Festival.\n\nhttps://tokyocheapo.com/events/czech-festival/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
+  },
+  {
+   "id": "984c413911",
+   "series": "ee0fe8f744",
+   "title": "Japan Fisherman’s Festival",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "dates": "Dec 4–6",
+   "place": "Hibiya",
+   "placeLines": "Hibiya",
+   "region": "CHIYODA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Come prepared with an empty stomach to the Japan Fisherman's Festival.",
+   "description": "Come prepared with an empty stomach to the Japan Fisherman's Festival. Will you go for the international seafood menu with Japanese twists or stick to the traditional menu options?",
+   "url": "https://tokyocheapo.com/events/japan-fishermans-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/07/ayu-sweetfish-iStock-1211411134-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Hibiya",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-04",
+    "end": "2026-12-07",
+    "notes": "Come prepared with an empty stomach to the Japan Fisherman's Festival.\n\nhttps://tokyocheapo.com/events/japan-fishermans-festival/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
   },
   {
    "id": "af86afdf50",
@@ -2885,6 +3011,39 @@
    "firstSeen": "2026-11-05T00:00:30Z",
    "revision": 2,
    "changed": "2026-11-17T19:56:05Z"
+  },
+  {
+   "id": "2dac12047f",
+   "series": "38bd167bf6",
+   "title": "Masayume: The Giant Face Returns to the Sky Over Yoyogi Park",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 330,
+   "endMinute": 660,
+   "dates": "Dec 5–6",
+   "time": "5:30–11 AM",
+   "place": "Harajuku",
+   "placeLines": "Harajuku",
+   "region": "SHIBUYA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "A stranger's giant face, floating over the park.",
+   "description": "A stranger's giant face, floating over the park. Free, no booking.",
+   "url": "https://tokyocheapo.com/events/giant-face-yoyogi-park/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2026/11/masayume-me-2021-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Harajuku",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 5:30–11 AM\n\nA stranger's giant face, floating over the park.\n\nhttps://tokyocheapo.com/events/giant-face-yoyogi-park/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
   },
   {
    "id": "d25aabd9a9",
@@ -3043,6 +3202,38 @@
     "notes": "Baseball fans can enjoy professional player experiences on the field, talk shows, and job experience programs.\n\nhttps://www.city.chofu.lg.jp/040070/p026456.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "ba1109a902",
+   "series": "081dbd7188",
+   "title": "Heiwajima Antiques Fair",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "startMinute": 600,
+   "endMinute": 1020,
+   "dates": "Dec 5–6",
+   "time": "10 AM–5 PM",
+   "place": "Heiwajima",
+   "placeLines": "Heiwajima",
+   "region": "OTA",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "Heiwajima Antiques Festival is the place for serious antique lovers.",
+   "url": "https://tokyocheapo.com/events/heiwajima-antiques-fair/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/07/GettyImages-1210525231-1-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Heiwajima",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-05",
+    "end": "2026-12-07",
+    "notes": "Hours: 10 AM–5 PM\n\nHeiwajima Antiques Festival is the place for serious antique lovers.\n\nhttps://tokyocheapo.com/events/heiwajima-antiques-fair/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
   },
   {
    "id": "9a1f1f8ee2",
@@ -3255,6 +3446,35 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 1,
    "changed": "2026-11-05T01:31:53Z"
+  },
+  {
+   "id": "572d654a5b",
+   "series": "cc153f4f17",
+   "title": "Oji Tori-no-Ichi Fair",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "dates": "Sun, Dec 6",
+   "place": "Oji",
+   "placeLines": "Oji",
+   "region": "KITA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.",
+   "url": "https://tokyocheapo.com/events/oji-tori-no-ichi-fair/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/10/GettyImages-809465230-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Oji",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-06",
+    "end": "2026-12-07",
+    "notes": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.\n\nhttps://tokyocheapo.com/events/oji-tori-no-ichi-fair/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
   },
   {
    "id": "8b0ee598f3",
@@ -3608,6 +3828,38 @@
     "notes": "Enjoy food stalls, hands-on health checks, stage performances, and prize draws at this community welfare event.\n\nhttps://www.city.toshima.lg.jp/171/event/2609101122.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "2b3173bfb2",
+   "series": "ea702a0146",
+   "title": "Akibasan Fire Festival",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 900,
+   "endMinute": 1200,
+   "dates": "Sun, Dec 6",
+   "time": "3–8 PM",
+   "place": "Odawara",
+   "placeLines": "Odawara",
+   "region": "FARTHER",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "summary": "This aptly named festival focuses on protection from fire.",
+   "url": "https://tokyocheapo.com/events/akibasan-fire-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/11/fire-festival-iStock-y-studio-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Odawara",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T06:00:00Z",
+    "end": "2026-12-06T11:00:00Z",
+    "notes": "This aptly named festival focuses on protection from fire.\n\nhttps://tokyocheapo.com/events/akibasan-fire-festival/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
   },
   {
    "id": "dcc1113d01",
@@ -4304,9 +4556,9 @@
    "start": "2026-12-13",
    "end": "2026-12-13",
    "startMinute": 660,
-   "endMinute": 1080,
+   "endMinute": 960,
    "dates": "Sun, Dec 13",
-   "time": "11 AM–6 PM",
+   "time": "11 AM–4 PM",
    "place": "Akasaka",
    "placeLines": "Akasaka",
    "region": "MINATO",
@@ -4324,12 +4576,12 @@
    "calendar": {
     "allDay": false,
     "start": "2026-12-13T02:00:00Z",
-    "end": "2026-12-13T09:00:00Z",
+    "end": "2026-12-13T07:00:00Z",
     "notes": "Akasaka Antique Market in Ark Hills is one of the classier flea markets in Tokyo.\n\nhttps://tokyocheapo.com/events/akasaka-antique-market-ark-hills/20261213/"
    },
    "firstSeen": "2026-11-04T21:05:06Z",
-   "revision": 2,
-   "changed": "2026-11-09T21:29:49Z"
+   "revision": 3,
+   "changed": "2026-11-24T21:23:02Z"
   },
   {
    "id": "1a19d13946",
@@ -4513,7 +4765,7 @@
    "category": "COMMUNITY",
    "cost": "¥990 – ¥1,290",
    "free": false,
-   "summary": "Spend this four day festival perusing over 50,000 unique and limited items to customize your stationary package to exactly your style.",
+   "summary": "Spend five days browsing over 50,000 stationery items, from limited editions to small-brand finds.",
    "url": "https://tokyocheapo.com/events/bungu-joshi-haku-stationery-festival/",
    "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/12/washi-tape-stationary-GettyImages-497598117-362x193.jpeg",
    "imageCredit": "Tokyo Cheapo",
@@ -4525,11 +4777,11 @@
     "allDay": true,
     "start": "2026-12-16",
     "end": "2026-12-21",
-    "notes": "Hours: 10 AM–5 PM\n\nSpend this four day festival perusing over 50,000 unique and limited items to customize your stationary package to exactly your style.\n\nhttps://tokyocheapo.com/events/bungu-joshi-haku-stationery-festival/"
+    "notes": "Hours: 10 AM–5 PM\n\nSpend five days browsing over 50,000 stationery items, from limited editions to small-brand finds.\n\nhttps://tokyocheapo.com/events/bungu-joshi-haku-stationery-festival/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 1,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 2,
+   "changed": "2026-11-24T21:23:02Z"
   },
   {
    "id": "f80142404b",
@@ -5826,6 +6078,39 @@
     "notes": "Hours: 6 PM–1 AM\n\nWatch 2025 drift away on the waves, and 2026 light up the skies in Yokosuka.\n\nhttps://tokyocheapo.com/events/yokosuka-countdown/"
    },
    "firstSeen": "2026-11-18T19:27:00Z"
+  },
+  {
+   "id": "221abe37fc",
+   "series": "c94a18d3ec",
+   "title": "Hanayashiki Countdown 2026/27",
+   "start": "2026-12-31",
+   "end": "2027-01-01",
+   "startMinute": 1140,
+   "endMinute": 120,
+   "dates": "Dec 31–Jan 1",
+   "time": "7 PM–2 AM",
+   "place": "Asakusa",
+   "placeLines": "Asakusa",
+   "region": "TAITO",
+   "category": "SEASONAL",
+   "cost": "¥4,500 (advance sales)",
+   "free": false,
+   "summary": "Looking for a New Year's Eve celebration that all the family can enjoy?",
+   "description": "Looking for a New Year's Eve celebration that all the family can enjoy? Come and join the countdown event taking place at the oldest amusement park in Japan.",
+   "url": "https://tokyocheapo.com/events/hanayashiki-countdown/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2023/12/GettyImages-475032500-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Asakusa",
+   "calendar": {
+    "allDay": true,
+    "start": "2026-12-31",
+    "end": "2027-01-02",
+    "notes": "Hours: 7 PM–2 AM\n\nLooking for a New Year's Eve celebration that all the family can enjoy?\n\nhttps://tokyocheapo.com/events/hanayashiki-countdown/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z"
   },
   {
    "id": "64fa585b76",
