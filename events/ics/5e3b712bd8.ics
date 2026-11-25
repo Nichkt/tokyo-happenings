@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e3b712bd8-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261125T203205Z
+SEQUENCE:0
+DTSTART:20270124T010000Z
+DTEND:20270124T070000Z
+SUMMARY:Tokyo Romantic Flea Market
+LOCATION:Ariake
+DESCRIPTION:Enjoy a sweet stroll around this antique Tokyo Flea Market.\n\n
+ https://tokyocheapo.com/events/tokyo-romantic-flea-market/20270124/
+URL:https://tokyocheapo.com/events/tokyo-romantic-flea-market/20270124/
+END:VEVENT
+END:VCALENDAR

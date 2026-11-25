@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:39a85f68a0-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T013153Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T013153Z
+DTSTAMP:20261125T203205Z
+SEQUENCE:2
+LAST-MODIFIED:20261125T203205Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:UNU Farmers Market
 LOCATION:Shibuya
 DESCRIPTION:Hours: 10 AM–4 PM\n\nPick up fresh veg and much\, much more.\
- n\nhttps://tokyocheapo.com/events/unu-farmers-market/20261128/
-URL:https://tokyocheapo.com/events/unu-farmers-market/20261128/
+ n\nhttps://tokyocheapo.com/events/unu-farmers-market/
+URL:https://tokyocheapo.com/events/unu-farmers-market/
 END:VEVENT
 END:VCALENDAR

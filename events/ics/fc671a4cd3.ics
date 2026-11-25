@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc671a4cd3-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261125T203205Z
+SEQUENCE:0
+DTSTART:20261213T050000Z
+DTEND:20261213T110000Z
+SUMMARY:Vent: Zine\, Vintage\, and Art Market in Shinjuku
+LOCATION:Shinjuku
+DESCRIPTION:Zines\, vintage\, books\, art\, live music\, and DJs come toget
+ her at Vent\, a one-day culture market at WPÜ Shinjuku on December 13\, 2
+ 026.\n\nhttps://tokyocheapo.com/events/vent-zine-vintage-and-art-market-in
+ -shinjuku/
+URL:https://tokyocheapo.com/events/vent-zine-vintage-and-art-market-in-shin
+ juku/
+END:VEVENT
+END:VCALENDAR

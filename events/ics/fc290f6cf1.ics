@@ -5,9 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:fc290f6cf1-tokyo-happenings@nichkt.github.io
-DTSTAMP:20261105T013153Z
-SEQUENCE:1
-LAST-MODIFIED:20261105T013153Z
+DTSTAMP:20261125T203205Z
+SEQUENCE:2
+LAST-MODIFIED:20261125T203205Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
@@ -15,7 +15,7 @@ SUMMARY:Sasazuka Flea Market
 LOCATION:Sasazuka
 DESCRIPTION:Hours: 10 AM–3 PM\n\nWith around 30 stalls\, this is a compac
  t flea market close to Shinjuku.\n\nhttps://tokyocheapo.com/events/sasazuk
- a-flea-market/20261212/
-URL:https://tokyocheapo.com/events/sasazuka-flea-market/20261212/
+ a-flea-market/
+URL:https://tokyocheapo.com/events/sasazuka-flea-market/
 END:VEVENT
 END:VCALENDAR

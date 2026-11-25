@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:07b6dadcb0-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261125T203205Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+SUMMARY:Setsubun-e and Fukuju-no-Mai
+LOCATION:Senso-ji\, 2-3-1 Asakusa\, Taito
+DESCRIPTION:Men born in the zodiac year cast beans to ward off evil while t
+ raditional Seven Gods of Fortune dances are performed.\n\nhttps://www.city
+ .taito.lg.jp/event/kanko/fukujyu.html
+URL:https://www.city.taito.lg.jp/event/kanko/fukujyu.html
+END:VEVENT
+END:VCALENDAR

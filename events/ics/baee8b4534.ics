@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:baee8b4534-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261125T203205Z
+SEQUENCE:0
+DTSTART:20261212T093000Z
+DTEND:20261212T103000Z
+SUMMARY:Ghost Stories for Christmas: The Field
+LOCATION:Ekoda
+DESCRIPTION:An evening of dark English carols\, folk tales and storytelling
+  by The Field at Foyer Ekoda on December 12.\n\nhttps://tokyocheapo.com/ev
+ ents/ghost-stories-for-christmas-the-field/
+URL:https://tokyocheapo.com/events/ghost-stories-for-christmas-the-field/
+END:VEVENT
+END:VCALENDAR

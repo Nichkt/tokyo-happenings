@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c7adfcf224-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261125T203205Z
+SEQUENCE:0
+DTSTART:20261231T203000Z
+DTEND:20261231T233000Z
+SUMMARY:Shibuya Sky First Sunrise and New Year Blessing
+LOCATION:Shibuya
+DESCRIPTION:Greet 2027 from Shibuya's open-air roof\, with a shrine blessin
+ g just after sunrise.\n\nhttps://tokyocheapo.com/events/shibuya-sky-first-
+ sunrise/
+URL:https://tokyocheapo.com/events/shibuya-sky-first-sunrise/
+END:VEVENT
+END:VCALENDAR
