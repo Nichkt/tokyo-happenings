@@ -3,10 +3,10 @@
  "app": "Tokyo Happenings",
  "area": "Tokyo",
  "zone": "Asia/Tokyo",
- "generatedAt": "2026-11-25T20:32:05Z",
+ "generatedAt": "2026-11-26T20:17:43Z",
  "since": "2026-11-04T21:05:06Z",
- "from": "2026-11-26",
- "until": "2027-02-18",
+ "from": "2026-11-27",
+ "until": "2027-02-19",
  "regions": [
   {
    "id": "ADACHI",
@@ -219,7 +219,7 @@
   },
   {
    "name": "Machida City sightseeing events",
-   "events": 4
+   "events": 3
   },
   {
    "name": "Meguro City events",
@@ -232,6 +232,10 @@
   {
    "name": "Nerima City sightseeing events",
    "events": 2
+  },
+  {
+   "name": "Ota City events",
+   "events": 1
   },
   {
    "name": "Setagaya City events",
@@ -251,11 +255,11 @@
   },
   {
    "name": "Tokyo Cheapo",
-   "events": 135
+   "events": 137
   },
   {
    "name": "Tokyo Recycle Movement flea markets",
-   "events": 20
+   "events": 21
   },
   {
    "name": "Tokyo Weekender",
@@ -1275,36 +1279,6 @@
    "firstSeen": "2026-11-10T18:43:58Z"
   },
   {
-   "id": "37be271826",
-   "series": "c1697958a8",
-   "title": "Machida Ichi-Oshi Market",
-   "start": "2026-11-24",
-   "end": "2026-11-26",
-   "startMinute": 540,
-   "endMinute": 1020,
-   "dates": "Nov 24–26",
-   "time": "9 AM–5 PM",
-   "place": "Machida City Hall Event Studio",
-   "placeLines": "Machida City Hall Event Studio",
-   "region": "TAMA",
-   "category": "FARMERS",
-   "cost": "Free",
-   "free": true,
-   "summary": "Discover certified local products, specialty sweets, crafts, and fresh farm vegetables from Machida.",
-   "url": "https://www.city.machida.tokyo.jp/kanko/tabe_kau/machi-oshi.html",
-   "sources": [
-    "Machida City sightseeing events"
-   ],
-   "map": "Machida City Hall Event Studio",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-11-24",
-    "end": "2026-11-27",
-    "notes": "Hours: 9 AM–5 PM\n\nDiscover certified local products, specialty sweets, crafts, and fresh farm vegetables from Machida.\n\nhttps://www.city.machida.tokyo.jp/kanko/tabe_kau/machi-oshi.html"
-   },
-   "firstSeen": "2026-11-11T17:49:00Z"
-  },
-  {
    "id": "09a62b219e",
    "series": "3a1952c44c",
    "title": "Chiikawa Christmas Market",
@@ -2314,6 +2288,34 @@
     "notes": "Children can enjoy various game booths, food stalls with autumn flavors, futsal experiences, and a mini planetarium.\n\nhttps://www.city.edogawa.tokyo.jp/event/kpk-fall.html"
    },
    "firstSeen": "2026-11-04T21:05:06Z"
+  },
+  {
+   "id": "51240a8656",
+   "series": "4a6e10eaf3",
+   "title": "Ota Welfare Festival En Market",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "startMinute": 600,
+   "endMinute": 960,
+   "dates": "Sun, Nov 29",
+   "time": "10 AM–4 PM",
+   "place": "Ota City Industrial Plaza PiO",
+   "placeLines": "Ota City Industrial Plaza PiO\n1-20-20 Minamikamata, Ota",
+   "region": "OTA",
+   "category": "COMMUNITY",
+   "summary": "Visitors can buy sweets and crafts made at local facilities and enjoy food at a welfare café.",
+   "url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/jishuseisanhin_aroma.html",
+   "sources": [
+    "Ota City events"
+   ],
+   "map": "Ota City Industrial Plaza PiO, 1-20-20 Minamikamata, Ota",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-11-29T01:00:00Z",
+    "end": "2026-11-29T07:00:00Z",
+    "notes": "Visitors can buy sweets and crafts made at local facilities and enjoy food at a welfare café.\n\nhttps://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/jishuseisanhin_aroma.html"
+   },
+   "firstSeen": "2026-11-26T20:17:43Z"
   },
   {
    "id": "00ebc70f56",
@@ -3349,35 +3351,6 @@
    "changed": "2026-11-05T01:31:53Z"
   },
   {
-   "id": "572d654a5b",
-   "series": "cc153f4f17",
-   "title": "Oji Tori-no-Ichi Fair",
-   "start": "2026-12-06",
-   "end": "2026-12-06",
-   "dates": "Sun, Dec 6",
-   "place": "Oji",
-   "placeLines": "Oji",
-   "region": "KITA",
-   "category": "NIGHT_MARKET",
-   "cost": "Free",
-   "free": true,
-   "summary": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.",
-   "url": "https://tokyocheapo.com/events/oji-tori-no-ichi-fair/",
-   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/10/GettyImages-809465230-362x193.jpg",
-   "imageCredit": "Tokyo Cheapo",
-   "sources": [
-    "Tokyo Cheapo"
-   ],
-   "map": "Oji",
-   "calendar": {
-    "allDay": true,
-    "start": "2026-12-06",
-    "end": "2026-12-07",
-    "notes": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.\n\nhttps://tokyocheapo.com/events/oji-tori-no-ichi-fair/"
-   },
-   "firstSeen": "2026-11-24T21:23:02Z"
-  },
-  {
    "id": "8b0ee598f3",
    "series": "7fc16f0119",
    "title": "Araiyakushi Antique Market",
@@ -3635,6 +3608,40 @@
    "firstSeen": "2026-11-04T21:05:06Z",
    "revision": 2,
    "changed": "2026-11-25T20:32:05Z"
+  },
+  {
+   "id": "572d654a5b",
+   "series": "cc153f4f17",
+   "title": "Oji Tori-no-Ichi Fair",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "startMinute": 600,
+   "endMinute": 1260,
+   "dates": "Sun, Dec 6",
+   "time": "10 AM–9 PM",
+   "place": "Oji",
+   "placeLines": "Oji",
+   "region": "KITA",
+   "category": "NIGHT_MARKET",
+   "cost": "Free",
+   "free": true,
+   "summary": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.",
+   "url": "https://tokyocheapo.com/events/oji-tori-no-ichi-fair/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2017/10/GettyImages-809465230-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Oji",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-06T01:00:00Z",
+    "end": "2026-12-06T12:00:00Z",
+    "notes": "Explore one of Tokyo's best kept secrets at this historic festival for fortune and prosperity.\n\nhttps://tokyocheapo.com/events/oji-tori-no-ichi-fair/"
+   },
+   "firstSeen": "2026-11-24T21:23:02Z",
+   "revision": 1,
+   "changed": "2026-11-26T20:17:43Z"
   },
   {
    "id": "d4b699a0a6",
@@ -4513,6 +4520,39 @@
    "firstSeen": "2026-11-14T17:13:09Z"
   },
   {
+   "id": "ae33bead21",
+   "series": "ed94924975",
+   "title": "Shinjuku Children’s Festival",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "startMinute": 660,
+   "endMinute": 900,
+   "dates": "Sun, Dec 13",
+   "time": "11 AM–3 PM",
+   "place": "Shinjuku",
+   "placeLines": "Shinjuku",
+   "region": "SHINJUKU",
+   "category": "COMMUNITY",
+   "cost": "Free",
+   "free": true,
+   "kids": true,
+   "summary": "This family-friendly event is totally free.",
+   "url": "https://tokyocheapo.com/events/shinjuku-childrens-festival/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2025/12/main-2-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Shinjuku",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-13T02:00:00Z",
+    "end": "2026-12-13T06:00:00Z",
+    "notes": "This family-friendly event is totally free.\n\nhttps://tokyocheapo.com/events/shinjuku-childrens-festival/"
+   },
+   "firstSeen": "2026-11-26T20:17:43Z"
+  },
+  {
    "id": "debd97bf66",
    "series": "c45c4c3478",
    "title": "Japan Cumbia Festival 2026",
@@ -4772,10 +4812,10 @@
    "title": "Sensoji Temple Hagoita-Ichi Fair",
    "start": "2026-12-17",
    "end": "2026-12-19",
-   "startMinute": 600,
+   "startMinute": 540,
    "endMinute": 1170,
    "dates": "Dec 17–19",
-   "time": "10 AM–7:30 PM",
+   "time": "9 AM–7:30 PM",
    "place": "Asakusa",
    "placeLines": "Asakusa",
    "region": "TAITO",
@@ -4794,11 +4834,11 @@
     "allDay": true,
     "start": "2026-12-17",
     "end": "2026-12-20",
-    "notes": "Hours: 10 AM–7:30 PM\n\nBuy hagoita (good luck charm bats) at Sensoji Temple's Hagoita-Ichi Festival.\n\nhttps://tokyocheapo.com/events/senso-ji-hagoita-ichi/"
+    "notes": "Hours: 9 AM–7:30 PM\n\nBuy hagoita (good luck charm bats) at Sensoji Temple's Hagoita-Ichi Festival.\n\nhttps://tokyocheapo.com/events/senso-ji-hagoita-ichi/"
    },
    "firstSeen": "2026-11-05T00:00:30Z",
-   "revision": 2,
-   "changed": "2026-11-05T01:31:53Z"
+   "revision": 3,
+   "changed": "2026-11-26T20:17:43Z"
   },
   {
    "id": "62a5e61609",
@@ -6041,6 +6081,39 @@
    "firstSeen": "2026-11-18T19:27:00Z"
   },
   {
+   "id": "cd009d085e",
+   "series": "c3208f3eba",
+   "title": "New Year’s Eve Bell-Ringing at Zojoji Temple",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "startMinute": 1290,
+   "endMinute": 1380,
+   "dates": "Thu, Dec 31",
+   "time": "9:30–11 PM",
+   "place": "Shiba",
+   "placeLines": "Shiba",
+   "region": "MINATO",
+   "category": "SEASONAL",
+   "cost": "Free",
+   "free": true,
+   "summary": "Hear the temple bell ring 108 times under Tokyo Tower, or pay to take a swing yourself.",
+   "description": "Hear the temple bell ring 108 times under Tokyo Tower, or pay to take a swing yourself. It's all over before midnight now.",
+   "url": "https://tokyocheapo.com/events/zojoji-new-years-eve-bell/",
+   "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/11/zojoji-temple-tokyo-tower-AP-362x193.jpg",
+   "imageCredit": "Tokyo Cheapo",
+   "sources": [
+    "Tokyo Cheapo"
+   ],
+   "map": "Shiba",
+   "calendar": {
+    "allDay": false,
+    "start": "2026-12-31T12:30:00Z",
+    "end": "2026-12-31T14:00:00Z",
+    "notes": "Hear the temple bell ring 108 times under Tokyo Tower, or pay to take a swing yourself.\n\nhttps://tokyocheapo.com/events/zojoji-new-years-eve-bell/"
+   },
+   "firstSeen": "2026-11-26T20:17:43Z"
+  },
+  {
    "id": "238f193483",
    "series": "9c44a09cef",
    "title": "Oji Inari-jinja Shrine Fox Parade",
@@ -6890,6 +6963,30 @@
     "notes": "Hours: 11 AM–5 PM\n\nGet your caffeine fix and then some.\n\nhttps://tokyocheapo.com/events/tokyo-coffee-festival/"
    },
    "firstSeen": "2026-11-06T18:07:45Z"
+  },
+  {
+   "id": "e29f3e25a1",
+   "series": "2874187612",
+   "title": "MOTTAINAI Flea Market at Nakano Central Park",
+   "start": "2027-01-31",
+   "end": "2027-01-31",
+   "dates": "Sun, Jan 31",
+   "place": "Nakano Central Park, Nakano Ward",
+   "placeLines": "Nakano Central Park, Nakano Ward",
+   "region": "NAKANO",
+   "category": "NIGHT_MARKET",
+   "url": "https://trx.jp/en/schejule",
+   "sources": [
+    "Tokyo Recycle Movement flea markets"
+   ],
+   "map": "Nakano Central Park, Nakano Ward",
+   "calendar": {
+    "allDay": true,
+    "start": "2027-01-31",
+    "end": "2027-02-01",
+    "notes": "https://trx.jp/en/schejule"
+   },
+   "firstSeen": "2026-11-26T20:17:43Z"
   },
   {
    "id": "fac4776bd8",

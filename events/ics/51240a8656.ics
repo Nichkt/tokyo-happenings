@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:51240a8656-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261126T201743Z
+SEQUENCE:0
+DTSTART:20261129T010000Z
+DTEND:20261129T070000Z
+SUMMARY:Ota Welfare Festival En Market
+LOCATION:Ota City Industrial Plaza PiO\, 1-20-20 Minamikamata\, Ota
+DESCRIPTION:Visitors can buy sweets and crafts made at local facilities and
+  enjoy food at a welfare café.\n\nhttps://www.city.ota.tokyo.jp/seikatsu/
+ fukushi/shougai/sagyo_seihin/jishuseisanhin_aroma.html
+URL:https://www.city.ota.tokyo.jp/seikatsu/fukushi/shougai/sagyo_seihin/jis
+ huseisanhin_aroma.html
+END:VEVENT
+END:VCALENDAR

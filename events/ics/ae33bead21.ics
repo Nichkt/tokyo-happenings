@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ae33bead21-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261126T201743Z
+SEQUENCE:0
+DTSTART:20261213T020000Z
+DTEND:20261213T060000Z
+SUMMARY:Shinjuku Children’s Festival
+LOCATION:Shinjuku
+DESCRIPTION:This family-friendly event is totally free.\n\nhttps://tokyoche
+ apo.com/events/shinjuku-childrens-festival/
+URL:https://tokyocheapo.com/events/shinjuku-childrens-festival/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicholas Ton//Tokyo Happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cd009d085e-tokyo-happenings@nichkt.github.io
+DTSTAMP:20261126T201743Z
+SEQUENCE:0
+DTSTART:20261231T123000Z
+DTEND:20261231T140000Z
+SUMMARY:New Year’s Eve Bell-Ringing at Zojoji Temple
+LOCATION:Shiba
+DESCRIPTION:Hear the temple bell ring 108 times under Tokyo Tower\, or pay 
+ to take a swing yourself.\n\nhttps://tokyocheapo.com/events/zojoji-new-yea
+ rs-eve-bell/
+URL:https://tokyocheapo.com/events/zojoji-new-years-eve-bell/
+END:VEVENT
+END:VCALENDAR
